@@ -1,0 +1,35 @@
+---
+title: "Combinaciones y consonante doble"
+---
+
+# Sonidos combinados
+
+Las sílabas terminadas en `i` pueden combinarse con una versión pequeña de や, ゆ o よ.
+
+| Japonés | Romaji |
+|---|---|
+| きゃ・きゅ・きょ | *kya, kyu, kyo* |
+| しゃ・しゅ・しょ | *sha, shu, sho* |
+| ちゃ・ちゅ・ちょ | *cha, chu, cho* |
+| にゃ・にゅ・にょ | *nya, nyu, nyo* |
+| ひゃ・ひゅ・ひょ | *hya, hyu, hyo* |
+| みゃ・みゅ・みょ | *mya, myu, myo* |
+| りゃ・りゅ・りょ | *rya, ryu, ryo* |
+| ぎゃ・ぎゅ・ぎょ | *gya, gyu, gyo* |
+| じゃ・じゅ・じょ | *ja, ju, jo* |
+| びゃ・びゅ・びょ | *bya, byu, byo* |
+| ぴゃ・ぴゅ・ぴょ | *pya, pyu, pyo* |
+
+## Consonante doble
+
+La っ pequeña en hiragana y la ッ pequeña en katakana indican una pausa breve y la duplicación de la consonante siguiente.
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| ざっし | *zasshi* | revista |
+| ワット | *watto* | watt |
+
+La consonante doble no debe confundirse con una sílaba `tsu` completa:
+
+- つ — *tsu*;
+- っ — pausa y duplicación consonántica.

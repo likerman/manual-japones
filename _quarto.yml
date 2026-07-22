@@ -1,0 +1,58 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Manual de japonés"
+  subtitle: "Apuntes progresivos de clase y material de consulta"
+  author: "Jeremías Likerman"
+  date: last-modified
+  search: true
+  repo-url: https://github.com/likerman/manual-japones
+  repo-actions: [edit, issue]
+  chapters:
+    - index.qmd
+    - part: "Fundamentos"
+      chapters:
+        - 01-introduccion/convenciones.qmd
+        - 02-escritura/hiragana-katakana.qmd
+        - 02-escritura/combinaciones.qmd
+    - part: "Gramática"
+      chapters:
+        - 03-gramatica/oraciones-basicas.qmd
+        - 03-gramatica/demostrativos-lugares.qmd
+    - part: "Números y vocabulario"
+      chapters:
+        - 04-numeros-tiempo/numeros-precios-horas.qmd
+        - 05-vocabulario/vocabulario-inicial.qmd
+    - part: "Práctica"
+      chapters:
+        - 06-dialogos/dialogos-iniciales.qmd
+        - 07-ejercicios/ejercicios.qmd
+        - 07-ejercicios/respuestas.qmd
+    - part: "Registro de clases"
+      chapters:
+        - 08-registro-clases/indice.qmd
+    - 09-apendices/tablas-rapidas.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: estilos/manual.css
+    toc: true
+    number-sections: true
+    code-fold: true
+  pdf:
+    documentclass: scrreprt
+    pdf-engine: lualatex
+    toc: true
+    number-sections: true
+    keep-tex: false
+    include-in-header:
+      text: |
+        \usepackage{luatexja}
+        \usepackage{luatexja-fontspec}
+        \setmainjfont{Noto Serif CJK JP}
+        \setsansjfont{Noto Sans CJK JP}
+
+lang: es

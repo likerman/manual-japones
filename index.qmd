@@ -1,0 +1,39 @@
+---
+title: "Inicio"
+---
+
+# Manual de japonés
+
+Este manual organiza de manera temática y cronológica los contenidos estudiados en las clases de japonés.
+
+## Cómo usarlo
+
+El material tiene dos recorridos complementarios:
+
+- **Recorrido temático:** escritura, gramática, números, vocabulario, diálogos y ejercicios.
+- **Recorrido cronológico:** registro de los contenidos incorporados en cada clase.
+
+## Convención principal
+
+Toda palabra u oración nueva se presenta, siempre que corresponda, en tres niveles:
+
+> **Japonés:** これは ほんです。  
+> **Romaji:** *Kore wa hon desu.*  
+> **Español:** Esto es un libro.
+
+## Alcance de la versión 0.1
+
+Esta primera versión reúne los temas trabajados hasta julio de 2026:
+
+- saludos y presentación personal;
+- pronombres y nacionalidades;
+- partículas `は` y `か`;
+- demostrativos y expresiones de lugar;
+- vocabulario de objetos y lugares;
+- números, centenas, miles y precios;
+- horas y minutos;
+- hiragana, katakana y combinaciones fonéticas;
+- consonante doble;
+- ejercicios acumulativos.
+
+El contenido se ampliará después de cada nueva clase.

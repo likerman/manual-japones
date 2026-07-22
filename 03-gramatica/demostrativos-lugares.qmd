@@ -1,0 +1,44 @@
+---
+title: "Demostrativos y lugares"
+---
+
+# Pronombres demostrativos
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| これ | *kore* | esto |
+| それ | *sore* | eso |
+| あれ | *are* | aquello |
+| なん / なに | *nan / nani* | qué |
+
+> **Japonés:** これは なんですか。  
+> **Romaji:** *Kore wa nan desu ka.*  
+> **Español:** ¿Qué es esto?
+
+# Expresiones de lugar
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| ここ / こちら | *koko / kochira* | aquí / por aquí |
+| そこ / そちら | *soko / sochira* | ahí / por ahí |
+| あそこ / あちら | *asoko / achira* | allí / por allí |
+
+## Lugares estudiados
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| うけつけ | *uketsuke* | recepción |
+| だいがく | *daigaku* | universidad |
+| ロビー | *robī* | vestíbulo |
+| きょうしつ | *kyōshitsu* | aula |
+| かいしゃ | *kaisha* | empresa |
+| じむしょ | *jimusho* | oficina |
+| しょくどう | *shokudō* | comedor |
+| がっこう | *gakkō* | escuela |
+| ちか | *chika* | subsuelo |
+| おてあらい | *otearai* | baño, formal |
+| トイレ | *toire* | baño |
+
+> **Japonés:** ここは きょうしつです。  
+> **Romaji:** *Koko wa kyōshitsu desu.*  
+> **Español:** Aquí está el aula / Esto es un aula.

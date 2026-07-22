@@ -1,0 +1,50 @@
+---
+title: "Vocabulario inicial"
+---
+
+# Objetos
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| ざっし | *zasshi* | revista |
+| じしょ | *jisho* | diccionario |
+| ノート | *nōto* | cuaderno |
+| テレビ | *terebi* | televisión |
+| てちょう | *techō* | agenda |
+| かぎ | *kagi* | llave |
+| かばん | *kaban* | bolso |
+| とけい | *tokei* | reloj |
+| いす | *isu* | silla |
+| カメラ | *kamera* | cámara |
+| シャープペンシル | *shāpu penshiru* | lápiz mecánico |
+| えんぴつ | *enpitsu* | lápiz |
+| ボールペン | *bōrupen* | lapicera |
+| ラジオ | *rajio* | radio |
+| ほん | *hon* | libro |
+| でんわ | *denwa* | teléfono |
+| はこ | *hako* | caja |
+
+# Personas y vínculos
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| わたし | *watashi* | yo |
+| あなた | *anata* | usted / vos |
+| はは | *haha* | mi madre |
+| ちち | *chichi* | mi padre |
+| かちょう | *kachō* | jefe de sección |
+| きゃくさま | *kyakusama* | cliente / huésped, honorífico |
+
+# Otros términos estudiados
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| おちゃ | *ocha* | té verde |
+| ちゅうごく | *Chūgoku* | China |
+| きょうと | *Kyōto* | Kioto |
+| とうきょう | *Tōkyō* | Tokio |
+| かいしゃ | *kaisha* | empresa |
+| べんきょうします | *benkyō shimasu* | estudiar |
+
+> [!IMPORTANT]
+> Este capítulo es una selección temática. El glosario completo se irá trasladando a un archivo de datos estructurado para generar índices automáticos.

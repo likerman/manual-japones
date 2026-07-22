@@ -1,0 +1,59 @@
+---
+title: "Registro de clases"
+---
+
+# Cronología inicial
+
+Este registro permite reconstruir el avance de las clases sin duplicar todo el contenido temático.
+
+## 29 de mayo de 2026
+
+- saludos y despedidas;
+- `おげんきですか` (*ogenki desu ka*);
+- partículas `は` y `か`;
+- nacionalidades;
+- sufijos honoríficos.
+
+## 1 de junio de 2026
+
+- `はじめまして` (*hajimemashite*);
+- `こちらこそ` (*kochira koso*);
+- `から きました` (*kara kimashita*);
+- demostrativos `これ・それ・あれ`;
+- vocabulario de objetos.
+
+## 3 de junio de 2026
+
+- números del 0 al 10;
+- decenas y centenas;
+- lectura de hiragana;
+- vocabulario breve.
+
+## 8 de junio de 2026
+
+- números grandes;
+- precios;
+- preguntas con `いくら`;
+- práctica acumulativa.
+
+## 10 de junio de 2026
+
+- combinaciones `きゃ・きゅ・きょ` y series relacionadas;
+- horas y minutos;
+- lectura y pronunciación.
+
+## 17 de julio de 2026
+
+- katakana;
+- nombres de países y nombres propios;
+- consonante doble `っ / ッ`;
+- `ざっし` (*zasshi*) y `ワット` (*watto*).
+
+## Criterio de actualización
+
+Después de cada clase se deberá:
+
+1. agregar una entrada breve a esta cronología;
+2. trasladar los conceptos nuevos al capítulo temático correspondiente;
+3. incorporar vocabulario al archivo de datos;
+4. añadir ejercicios de repaso cuando corresponda.
