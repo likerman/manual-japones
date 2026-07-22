@@ -73,3 +73,60 @@ Las respuestas pueden variar. Modelos posibles:
 3. **Pregunta:** これは なんですか。— *Kore wa nan desu ka.* — ¿Qué es esto?
 4. **Precio:** これは いくらですか。— *Kore wa ikura desu ka.* — ¿Cuánto cuesta esto?
 5. **Procedencia:** アルゼンチンから きました。— *Aruzenchin kara kimashita.* — Vengo de Argentina.
+
+## 8. Demostrativos de la Lección 2
+
+1. **これ:** これは かぎです。— *Kore wa kagi desu.* — Esto es una llave.
+2. **それ:** それは ラジオです。— *Sore wa rajio desu.* — Eso es una radio.
+3. **あれ:** あれは テレビです。— *Are wa terebi desu.* — Aquello es un televisor.
+4. **この:** この 本は わたしのです。— *Kono hon wa watashi no desu.* — Este libro es mío.
+5. **その:** その 傘は だれのですか。— *Sono kasa wa dare no desu ka.* — ¿De quién es ese paraguas?
+6. **あの:** あの 車は 木村さんのです。— *Ano kuruma wa Kimura-san no desu.* — Aquel auto es de Kimura.
+
+## 9. La partícula の
+
+1. わたしの 傘 — *watashi no kasa* — mi paraguas.
+2. 車の かぎ — *kuruma no kagi* — la llave del auto.
+3. コンピューターの 雑誌 — *konpyūtā no zasshi* — una revista de computación.
+4. 佐藤さんの かばん — *Satō-san no kaban* — el bolso del señor Satō.
+5. わたしのです。— *Watashi no desu.* — Es mío.
+6. ミラーさんのじゃ ありません。— *Mirā-san no ja arimasen.* — No es del señor Miller.
+
+## 10. Elegir el interrogativo
+
+1. ミラーさんは **何歳** ですか。— *Mirā-san wa nan-sai desu ka.*
+2. あの 方は **どなた** ですか。— *Ano kata wa donata desu ka.*
+3. それは **何** の 雑誌ですか。— *Sore wa nan no zasshi desu ka.*
+4. この かぎは **だれ** のですか。— *Kono kagi wa dare no desu ka.*
+5. これは **あなた** のですか。— *Kore wa anata no desu ka.*
+
+## 11. Dos alternativas
+
+1. これは 本ですか、雑誌ですか。— *Kore wa hon desu ka, zasshi desu ka.* — 本です。— *Hon desu.*
+2. これは 「い」ですか、「り」ですか。— *Kore wa “i” desu ka, “ri” desu ka.* — 「り」です。— *“Ri” desu.*
+3. これは 「1」ですか、「7」ですか。— *Kore wa “ichi” desu ka, “nana” desu ka.* — 「7」です。— *“Nana” desu.*
+4. これは 「シ」ですか、「ツ」ですか。— *Kore wa “shi” desu ka, “tsu” desu ka.* — 「シ」です。— *“Shi” desu.*
+
+## 12. Ordenar palabras
+
+1. それは わたしの かぎです。— *Sore wa watashi no kagi desu.* — Esa es mi llave.
+2. この 辞書は ミラーさんのです。— *Kono jisho wa Mirā-san no desu.* — Este diccionario es del señor Miller.
+3. その 傘は だれのですか。— *Sono kasa wa dare no desu ka.* — ¿De quién es ese paraguas?
+4. あれは 先生の 机です。— *Are wa sensei no tsukue desu.* — Aquel es el escritorio del profesor.
+
+## 13. Completar el diálogo
+
+**サントス:** これから **お世話に なります**。どうぞ よろしく。  
+*Santosu: Kore kara osewa ni narimasu. Dōzo yoroshiku.*
+
+**サントス:** あのう、これ、お土産です。**どうぞ**。  
+*Santosu: Anō, kore, omiyage desu. Dōzo.*
+
+**山田:** **どうも ありがとう ございます**。  
+*Yamada: Dōmo arigatō gozaimasu.*
+
+## 14. Comprensión auditiva de repaso
+
+1. **×**. El objeto es un diccionario: `辞書です。`
+2. **○**. Kimura confirma: `はい、そうです。わたしのです。`
+3. **○**. La revista es de cámaras y no de computación.
