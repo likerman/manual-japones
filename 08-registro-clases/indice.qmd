@@ -2,58 +2,129 @@
 title: "Registro de clases"
 ---
 
-# Cronología inicial
+# Finalidad del registro
 
-Este registro permite reconstruir el avance de las clases sin duplicar todo el contenido temático.
+Esta cronología conserva el orden en que se incorporaron los contenidos. Los conceptos se desarrollan en los capítulos temáticos; aquí se documenta cuándo aparecieron y qué se practicó.
+
+# Clases registradas
 
 ## 29 de mayo de 2026
 
+**Temas principales**
+
 - saludos y despedidas;
-- `おげんきですか` (*ogenki desu ka*);
-- partículas `は` y `か`;
+- pronombres personales;
+- partícula temática `は`;
+- partícula interrogativa `か`;
 - nacionalidades;
 - sufijos honoríficos.
 
+**Expresiones representativas**
+
+> **Japonés:** おげんきですか。  
+> **Romaji:** *Ogenki desu ka.*  
+> **Español:** ¿Cómo está? / ¿Cómo estás?
+
+> **Japonés:** わたしは アルゼンチンじんです。  
+> **Romaji:** *Watashi wa Aruzenchin-jin desu.*  
+> **Español:** Soy argentino.
+
 ## 1 de junio de 2026
 
+**Temas principales**
+
+- presentación personal;
 - `はじめまして` (*hajimemashite*);
 - `こちらこそ` (*kochira koso*);
-- `から きました` (*kara kimashita*);
+- procedencia con `から きました` (*kara kimashita*);
 - demostrativos `これ・それ・あれ`;
 - vocabulario de objetos.
 
+**Modelo representativo**
+
+> **Japonés:** これは ほんです。  
+> **Romaji:** *Kore wa hon desu.*  
+> **Español:** Esto es un libro.
+
 ## 3 de junio de 2026
+
+**Temas principales**
 
 - números del 0 al 10;
 - decenas y centenas;
-- lectura de hiragana;
-- vocabulario breve.
+- expresiones de lugar `ここ・そこ・あそこ`;
+- vocabulario de universidad y edificios;
+- lectura de hiragana.
+
+**Modelo representativo**
+
+> **Japonés:** ここは きょうしつです。  
+> **Romaji:** *Koko wa kyōshitsu desu.*  
+> **Español:** Aquí está el aula / Esto es un aula.
 
 ## 8 de junio de 2026
 
-- números grandes;
+**Temas principales**
+
+- centenas irregulares;
+- miles y diez mil;
 - precios;
 - preguntas con `いくら`;
-- práctica acumulativa.
+- práctica acumulativa con objetos.
+
+**Modelo representativo**
+
+> **Japonés:** これは いくらですか。  
+> **Romaji:** *Kore wa ikura desu ka.*  
+> **Español:** ¿Cuánto cuesta esto?
 
 ## 10 de junio de 2026
 
-- combinaciones `きゃ・きゅ・きょ` y series relacionadas;
+**Temas principales**
+
+- combinaciones con `ゃ・ゅ・ょ`;
+- series `きゃ・しゃ・ちゃ・にゃ・ひゃ・みゃ・りゃ`;
+- variantes sonoras y semisonoras;
 - horas y minutos;
-- lectura y pronunciación.
+- palabras con vocales largas.
+
+**Ejemplos representativos**
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| きょうしつ | *kyōshitsu* | aula |
+| かいしゃ | *kaisha* | empresa |
+| べんきょうします | *benkyō shimasu* | estudiar |
+| とうきょう | *Tōkyō* | Tokio |
 
 ## 17 de julio de 2026
 
-- katakana;
-- nombres de países y nombres propios;
+**Temas principales**
+
+- introducción y repaso de katakana;
+- países y nombres propios;
+- palabras de origen extranjero;
 - consonante doble `っ / ッ`;
-- `ざっし` (*zasshi*) y `ワット` (*watto*).
+- diferencias entre hiragana y katakana.
 
-## Criterio de actualización
+**Ejemplos representativos**
 
-Después de cada clase se deberá:
+| Japonés | Romaji | Español | Observación |
+|---|---|---|---|
+| パン | *pan* | pan | préstamo extranjero |
+| スーパー | *sūpā* | supermercado | vocal larga `ー` |
+| アルゼンチン | *Aruzenchin* | Argentina | nombre de país |
+| ざっし | *zasshi* | revista | consonante doble en hiragana |
+| ワット | *watto* | watt | consonante doble en katakana |
+| ヘレミアス | *Heremiasu* | Jeremías | nombre propio practicado |
 
-1. agregar una entrada breve a esta cronología;
-2. trasladar los conceptos nuevos al capítulo temático correspondiente;
-3. incorporar vocabulario al archivo de datos;
-4. añadir ejercicios de repaso cuando corresponda.
+# Procedimiento de actualización
+
+Después de cada clase se debe:
+
+1. crear una ficha a partir de `plantillas/nueva-clase.qmd`;
+2. agregar una síntesis a esta cronología;
+3. trasladar los conceptos nuevos al capítulo temático correspondiente;
+4. incorporar el vocabulario a `datos/vocabulario.csv`;
+5. añadir ejercicios de repaso y respuestas;
+6. verificar que los ejemplos incluyan japonés, romaji y español.

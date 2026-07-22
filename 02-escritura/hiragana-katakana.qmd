@@ -6,7 +6,29 @@ title: "Hiragana y katakana"
 
 El **hiragana** se utiliza principalmente para palabras japonesas, terminaciones gramaticales y partículas. El **katakana** se utiliza con frecuencia para préstamos lingüísticos, nombres extranjeros y énfasis.
 
-## Ejemplos en hiragana
+Cada par de la tabla muestra primero hiragana y después katakana.
+
+# Tabla básica
+
+| Serie | A | I | U | E | O |
+|---|---|---|---|---|---|
+| Vocales | あ / ア — *a* | い / イ — *i* | う / ウ — *u* | え / エ — *e* | お / オ — *o* |
+| K | か / カ — *ka* | き / キ — *ki* | く / ク — *ku* | け / ケ — *ke* | こ / コ — *ko* |
+| S | さ / サ — *sa* | し / シ — *shi* | す / ス — *su* | せ / セ — *se* | そ / ソ — *so* |
+| T | た / タ — *ta* | ち / チ — *chi* | つ / ツ — *tsu* | て / テ — *te* | と / ト — *to* |
+| N | な / ナ — *na* | に / ニ — *ni* | ぬ / ヌ — *nu* | ね / ネ — *ne* | の / ノ — *no* |
+| H | は / ハ — *ha* | ひ / ヒ — *hi* | ふ / フ — *fu* | へ / ヘ — *he* | ほ / ホ — *ho* |
+| M | ま / マ — *ma* | み / ミ — *mi* | む / ム — *mu* | め / メ — *me* | も / モ — *mo* |
+| Y | や / ヤ — *ya* | — | ゆ / ユ — *yu* | — | よ / ヨ — *yo* |
+| R | ら / ラ — *ra* | り / リ — *ri* | る / ル — *ru* | れ / レ — *re* | ろ / ロ — *ro* |
+| W | わ / ワ — *wa* | — | — | — | を / ヲ — *o / wo* |
+
+La nasal final se escribe `ん` en hiragana y `ン` en katakana: *n*.
+
+> [!NOTE]
+> La tabla funciona como referencia general. El dominio de los caracteres se adquiere progresivamente mediante palabras y ejercicios de lectura.
+
+# Ejemplos en hiragana
 
 | Japonés | Romaji | Español |
 |---|---|---|
@@ -16,8 +38,10 @@ El **hiragana** se utiliza principalmente para palabras japonesas, terminaciones
 | みみ | *mimi* | oreja |
 | むし | *mushi* | insecto |
 | もも | *momo* | durazno / muslo, según contexto |
+| よむ | *yomu* | leer |
+| もち | *mochi* | pastel de arroz |
 
-## Ejemplos en katakana
+# Ejemplos en katakana
 
 | Japonés | Romaji | Español |
 |---|---|---|
@@ -29,11 +53,12 @@ El **hiragana** se utiliza principalmente para palabras japonesas, terminaciones
 | カナダ | *Kanada* | Canadá |
 | ワット | *watto* | watt |
 
-## Nombres propios
+# Nombres propios
 
 Los nombres extranjeros suelen adaptarse al sistema fonético japonés y escribirse en katakana. La forma definitiva puede variar según la pronunciación que se quiera representar.
 
 - ヘレミアス — *Heremiasu* — Jeremías.
+- アイメ — *Aime* — Aime.
 
-> [!NOTE]
-> La transliteración de nombres propios debe revisarse con el docente, porque puede haber más de una aproximación posible.
+> [!IMPORTANT]
+> La transliteración de nombres propios debe revisarse con el docente porque puede haber más de una aproximación posible.

@@ -1,12 +1,81 @@
 japones,kana,romaji,espanol,categoria,clase,notas
+元気,げんき,genki,bien o saludable,expresiones,2026-05-29,
+初めまして,はじめまして,hajimemashite,mucho gusto,expresiones,2026-06-01,
+こちらこそ,こちらこそ,kochira koso,igualmente o el gusto es mío,expresiones,2026-06-01,
+何,なん,nan,qué,interrogativos,2026-06-01,
+いくら,いくら,ikura,cuánto cuesta,interrogativos,2026-06-08,
+これ,これ,kore,esto,demostrativos,2026-06-01,cerca de quien habla
+それ,それ,sore,eso,demostrativos,2026-06-01,cerca de quien escucha
+あれ,あれ,are,aquello,demostrativos,2026-06-01,lejos de ambas personas
+ここ,ここ,koko,aquí,lugares,2026-06-03,
+こちら,こちら,kochira,aquí o este lado,lugares,2026-06-03,forma cortés
+そこ,そこ,soko,ahí,lugares,2026-06-03,
+そちら,そちら,sochira,ahí o ese lado,lugares,2026-06-03,forma cortés
+あそこ,あそこ,asoko,allá,lugares,2026-06-03,
+あちら,あちら,achira,allá o aquel lado,lugares,2026-06-03,forma cortés
+受付,うけつけ,uketsuke,recepción,lugares,2026-06-03,
+大学,だいがく,daigaku,universidad,lugares,2026-06-03,
+ロビー,ロビー,robī,vestíbulo,lugares,2026-06-03,katakana
 教室,きょうしつ,kyōshitsu,aula,lugares,2026-06-10,vocal larga
-雑誌,ざっし,zasshi,revista,objetos,2026-07-17,consonante doble
 会社,かいしゃ,kaisha,empresa,lugares,2026-06-10,
-本,ほん,hon,libro,objetos,2026-06-01,
+事務所,じむしょ,jimusho,oficina,lugares,2026-06-03,
+食堂,しょくどう,shokudō,comedor,lugares,2026-06-03,vocal larga
+学校,がっこう,gakkō,escuela o colegio,lugares,2026-06-03,consonante doble
+地下,ちか,chika,subsuelo,lugares,2026-06-03,
+お手洗い,おてあらい,otearai,baño formal,lugares,2026-06-03,
+トイレ,トイレ,toire,baño,lugares,2026-06-03,katakana
+雑誌,ざっし,zasshi,revista,objetos,2026-07-17,consonante doble
+辞書,じしょ,jisho,diccionario,objetos,2026-06-01,
+ノート,ノート,nōto,cuaderno,objetos,2026-06-01,vocal larga en katakana
+テレビ,テレビ,terebi,televisión,objetos,2026-06-01,katakana
+手帳,てちょう,techō,agenda,objetos,2026-06-01,vocal larga
 鍵,かぎ,kagi,llave,objetos,2026-06-01,
 鞄,かばん,kaban,bolso,objetos,2026-06-01,
+時計,とけい,tokei,reloj,objetos,2026-06-01,
+椅子,いす,isu,silla,objetos,2026-06-01,
+カメラ,カメラ,kamera,cámara,objetos,2026-06-01,katakana
+シャープペンシル,シャープペンシル,shāpu penshiru,lápiz mecánico,objetos,2026-06-01,préstamo del inglés
+鉛筆,えんぴつ,enpitsu,lápiz,objetos,2026-06-01,
+ボールペン,ボールペン,bōrupen,lapicera,objetos,2026-06-01,préstamo del inglés
+ラジオ,ラジオ,rajio,radio,objetos,2026-06-01,katakana
+本,ほん,hon,libro,objetos,2026-06-01,
+電話,でんわ,denwa,teléfono,objetos,2026-06-01,
 箱,はこ,hako,caja,objetos,2026-06-01,
-大学,だいがく,daigaku,universidad,lugares,2026-06-03,
-お手洗い,おてあらい,otearai,baño formal,lugares,2026-06-03,
+判子,はんこ,hanko,sello personal,objetos,2026-06-01,
+私,わたし,watashi,yo,personas,2026-05-29,
+あなた,あなた,anata,usted o vos,personas,2026-05-29,
+母,はは,haha,mi madre,personas,2026-06-01,
+父,ちち,chichi,mi padre,personas,2026-06-01,
+課長,かちょう,kachō,jefe de sección,personas,2026-06-10,vocal larga
+お客様,おきゃくさま,okyakusama,cliente o huésped,personas,2026-06-10,expresión honorífica
+お茶,おちゃ,ocha,té verde,alimentos,2026-06-10,
+みかん,みかん,mikan,mandarina,alimentos,2026-06-03,
+桃,もも,momo,durazno,alimentos,2026-06-03,
+餅,もち,mochi,pastel de arroz,alimentos,2026-06-03,
+パン,パン,pan,pan,alimentos,2026-07-17,katakana
+塩,しお,shio,sal,alimentos,2026-05-29,
+花,はな,hana,flor,naturaleza,2026-06-01,
+浜,はま,hama,costa o playa,naturaleza,2026-06-01,
+耳,みみ,mimi,oreja u oído,cuerpo,2026-06-03,
+足,あし,ashi,pie o pierna,cuerpo,2026-05-29,
+虫,むし,mushi,insecto,naturaleza,2026-06-03,
+服,ふく,fuku,ropa,objetos,2026-06-01,
+低い,ひくい,hikui,bajo,adjetivos,2026-06-01,
+遅い,おそい,osoi,lento o tarde,adjetivos,2026-05-29,
+今,いま,ima,ahora,tiempo,2026-06-03,
+明日,あした,ashita,mañana,tiempo,2026-05-29,
+分,ふん,fun,minuto,tiempo,2026-06-01,la lectura cambia según el número
+読む,よむ,yomu,leer,verbos,2026-06-03,
+勉強します,べんきょうします,benkyō shimasu,estudiar,verbos,2026-06-10,
+地下鉄,ちかてつ,chikatetsu,subte o metro,transporte,2026-05-29,
+中国,ちゅうごく,Chūgoku,China,países,2026-06-10,vocal larga
+京都,きょうと,Kyōto,Kioto,ciudades,2026-06-10,vocal larga
+東京,とうきょう,Tōkyō,Tokio,ciudades,2026-06-10,vocal larga
 アルゼンチン,アルゼンチン,Aruzenchin,Argentina,países,2026-07-17,katakana
+ドイツ,ドイツ,Doitsu,Alemania,países,2026-07-17,katakana
+メキシコ,メキシコ,Mekishiko,México,países,2026-07-17,katakana
+カナダ,カナダ,Kanada,Canadá,países,2026-07-17,katakana
 スーパー,スーパー,sūpā,supermercado,lugares,2026-07-17,vocal larga en katakana
+ワット,ワット,watto,watt,préstamos,2026-07-17,consonante doble en katakana
+ヘレミアス,ヘレミアス,Heremiasu,Jeremías,nombres,2026-07-17,transliteración practicada en clase
+アイメ,アイメ,Aime,Aime,nombres,2026-07-17,transliteración practicada en clase

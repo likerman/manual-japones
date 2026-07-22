@@ -15,25 +15,40 @@ El material tiene dos recorridos complementarios:
 
 ## Convención principal
 
-Toda palabra u oración nueva se presenta, siempre que corresponda, en tres niveles:
+Toda palabra u oración nueva se presenta, siempre que corresponda, en cuatro niveles:
 
 > **Japonés:** これは ほんです。  
+> **Kana:** これは ほんです。  
 > **Romaji:** *Kore wa hon desu.*  
 > **Español:** Esto es un libro.
 
-## Alcance de la versión 0.1
+Cuando la forma japonesa ya está completamente escrita en kana, las dos primeras líneas coinciden y se muestra solamente una.
 
-Esta primera versión reúne los temas trabajados hasta julio de 2026:
+## Contenido de la versión 0.2
+
+La versión actual reúne los temas trabajados entre mayo y julio de 2026:
 
 - saludos y presentación personal;
 - pronombres y nacionalidades;
 - partículas `は` y `か`;
+- formas afirmativas, negativas e interrogativas;
+- procedencia con `から きました`;
 - demostrativos y expresiones de lugar;
-- vocabulario de objetos y lugares;
-- números, centenas, miles y precios;
-- horas y minutos;
-- hiragana, katakana y combinaciones fonéticas;
-- consonante doble;
-- ejercicios acumulativos.
+- vocabulario de objetos, lugares, personas, alimentos y países;
+- números, centenas, miles, diez mil y millón;
+- precios, horas y minutos;
+- tabla básica de hiragana y katakana;
+- combinaciones fonéticas y consonante doble;
+- diálogos y ejercicios acumulativos;
+- glosario estructurado con 80 entradas iniciales.
 
-El contenido se ampliará después de cada nueva clase.
+## Actualización progresiva
+
+Después de cada nueva clase se incorporarán:
+
+1. una ficha cronológica;
+2. los conceptos nuevos en su capítulo temático;
+3. las palabras nuevas en el glosario;
+4. ejercicios y respuestas de repaso.
+
+El objetivo no es anticipar el curso sino consolidar, ordenar y hacer consultable lo que efectivamente se vaya aprendiendo.

@@ -18,34 +18,69 @@ title: "Números, precios y horas"
 | 9 | きゅう / く | *kyū / ku* |
 | 10 | じゅう | *jū* |
 
+# Decenas
+
+Las decenas se forman colocando el número antes de `じゅう` (*jū*).
+
+| Número | Japonés | Romaji |
+|---:|---|---|
+| 20 | にじゅう | *nijū* |
+| 30 | さんじゅう | *sanjū* |
+| 40 | よんじゅう | *yonjū* |
+| 90 | きゅうじゅう | *kyūjū* |
+
+Para agregar unidades, se coloca el número después de la decena:
+
+- 21: にじゅう いち — *nijū ichi*.
+- 47: よんじゅう なな — *yonjū nana*.
+- 98: きゅうじゅう はち — *kyūjū hachi*.
+
 # Centenas y cambios fonéticos
 
 | Número | Japonés | Romaji |
 |---:|---|---|
 | 100 | ひゃく | *hyaku* |
+| 200 | にひゃく | *nihyaku* |
 | 300 | さんびゃく | *sanbyaku* |
+| 400 | よんひゃく | *yonhyaku* |
+| 500 | ごひゃく | *gohyaku* |
 | 600 | ろっぴゃく | *roppyaku* |
+| 700 | ななひゃく | *nanahyaku* |
 | 800 | はっぴゃく | *happyaku* |
+| 900 | きゅうひゃく | *kyūhyaku* |
+
+Los cambios importantes son 300, 600 y 800.
 
 # Miles y números grandes
 
 | Número | Japonés | Romaji |
 |---:|---|---|
 | 1.000 | せん | *sen* |
+| 2.000 | にせん | *nisen* |
 | 3.000 | さんぜん | *sanzen* |
 | 8.000 | はっせん | *hassen* |
 | 10.000 | いちまん | *ichiman* |
 | 100.000 | じゅうまん | *jūman* |
 | 1.000.000 | ひゃくまん | *hyakuman* |
 
+> [!IMPORTANT]
+> El japonés agrupa los números grandes alrededor de `まん` (*man*), que equivale a 10.000. Por eso, un millón se expresa como cien unidades de diez mil: `ひゃくまん` (*hyakuman*).
+
 ## Ejemplos trabajados
 
 - 345: さんびゃく よんじゅう ご — *sanbyaku yonjū go*.
 - 608: ろっぴゃく はち — *roppyaku hachi*.
+- 714: ななひゃく じゅう よん — *nanahyaku jū yon*.
+- 882: はっぴゃく はちじゅう に — *happyaku hachijū ni*.
+- 947: きゅうひゃく よんじゅう なな — *kyūhyaku yonjū nana*.
 - 2.230: にせん にひゃく さんじゅう — *nisen nihyaku sanjū*.
+- 5.472: ごせん よんひゃく ななじゅう に — *gosen yonhyaku nanajū ni*.
+- 8.335: はっせん さんびゃく さんじゅう ご — *hassen sanbyaku sanjū go*.
 - 9.999: きゅうせん きゅうひゃく きゅうじゅう きゅう — *kyūsen kyūhyaku kyūjū kyū*.
 
 # Precios
+
+La moneda japonesa se expresa con `円`, leído `えん` (*en*).
 
 > **Japonés:** これは いくらですか。  
 > **Romaji:** *Kore wa ikura desu ka.*  
@@ -55,9 +90,20 @@ title: "Números, precios y horas"
 > **Romaji:** *Sanbyaku-en desu.*  
 > **Español:** Cuesta 300 yenes.
 
-# Horas
+> **Japonés:** ごせん よんひゃく ななじゅう にえんです。  
+> **Romaji:** *Gosen yonhyaku nanajū ni-en desu.*  
+> **Español:** Cuesta 5.472 yenes.
 
-La hora se construye con el número seguido de `じ` (*ji*). Los minutos se expresan con `ふん / ぷん` (*fun / pun*), con cambios fonéticos según el número.
+# Horas y minutos
 
-- 19:30: しちじ はん — *shichiji han* — siete y media de la tarde.
-- 19:36: しちじ さんじゅうろっぷん — *shichiji sanjūroppun* — siete y treinta y seis de la tarde.
+La hora se construye con el número seguido de `じ` (*ji*). Los minutos se expresan con `ふん / ぷん` (*fun / pun*) y presentan cambios fonéticos.
+
+`はん` (*han*) significa «media» cuando se habla de la hora.
+
+| Hora | Japonés | Romaji | Español |
+|---|---|---|---|
+| 19:30 | ごご しちじ はん | *gogo shichiji han* | siete y media de la tarde |
+| 19:36 | ごご しちじ さんじゅうろっぷん | *gogo shichiji sanjūroppun* | siete y treinta y seis de la tarde |
+
+> [!NOTE]
+> `ごご` (*gogo*) indica «p. m.». Sin esa expresión, `しちじ` puede interpretarse simplemente como «las siete» según el contexto.

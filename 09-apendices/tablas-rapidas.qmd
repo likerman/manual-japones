@@ -28,16 +28,34 @@ title: "Tablas rápidas"
 - ちゃ・ちゅ・ちょ — *cha, chu, cho*.
 - じゃ・じゅ・じょ — *ja, ju, jo*.
 
-# Modelos de consulta
+# Modelos de oración
 
-> これは なんですか。  
-> *Kore wa nan desu ka.*  
-> ¿Qué es esto?
+## Afirmación
 
-> これは いくらですか。  
-> *Kore wa ikura desu ka.*  
-> ¿Cuánto cuesta esto?
+> **Japonés:** これは ほんです。  
+> **Romaji:** *Kore wa hon desu.*  
+> **Español:** Esto es un libro.
 
-> ここは どこですか。  
-> *Koko wa doko desu ka.*  
-> ¿Dónde es aquí? / ¿Qué lugar es este?
+## Pregunta
+
+> **Japonés:** これは なんですか。  
+> **Romaji:** *Kore wa nan desu ka.*  
+> **Español:** ¿Qué es esto?
+
+## Negación
+
+> **Japonés:** これは じしょじゃありません。  
+> **Romaji:** *Kore wa jisho ja arimasen.*  
+> **Español:** Esto no es un diccionario.
+
+## Precio
+
+> **Japonés:** これは いくらですか。  
+> **Romaji:** *Kore wa ikura desu ka.*  
+> **Español:** ¿Cuánto cuesta esto?
+
+## Lugar
+
+> **Japonés:** ここは きょうしつです。  
+> **Romaji:** *Koko wa kyōshitsu desu.*  
+> **Español:** Aquí está el aula / Esto es un aula.

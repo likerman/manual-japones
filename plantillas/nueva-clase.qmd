@@ -1,0 +1,51 @@
+---
+title: "Clase del AAAA-MM-DD"
+date: AAAA-MM-DD
+---
+
+# Temas trabajados
+
+- Tema 1.
+- Tema 2.
+- Tema 3.
+
+# Escritura y pronunciación
+
+| Japonés | Romaji | Español | Observación |
+|---|---|---|---|
+|  |  |  |  |
+
+# Gramática
+
+## Estructura nueva
+
+> **Japonés:**  
+> **Romaji:**  
+> **Español:**  
+> **Estructura:**  
+> **Nota:**  
+
+# Vocabulario nuevo
+
+| Japonés | Kana | Romaji | Español | Categoría | Notas |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
+
+# Ejemplos de clase
+
+1. **Japonés:**  
+   **Romaji:**  
+   **Español:**
+
+# Dudas o correcciones pendientes
+
+- Ninguna por ahora.
+
+# Tareas de integración
+
+- [ ] Agregar la clase al registro cronológico.
+- [ ] Incorporar la gramática al capítulo temático correspondiente.
+- [ ] Agregar las palabras nuevas a `datos/vocabulario.csv`.
+- [ ] Actualizar el capítulo de vocabulario.
+- [ ] Crear al menos un ejercicio de repaso.
+- [ ] Revisar que todo ejemplo tenga japonés, romaji y español.
