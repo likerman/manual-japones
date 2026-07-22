@@ -6,15 +6,20 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 
 concurrency:
-  group: publicar-manual-web
+  group: github-pages
   cancel-in-progress: true
 
 jobs:
   publicar:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Descargar repositorio
         uses: actions/checkout@v4
@@ -25,17 +30,23 @@ jobs:
       - name: Renderizar edición web
         run: quarto render --to html
 
-      - name: Preparar GitHub Pages
-        run: touch _book/.nojekyll
-
-      - name: Publicar en la rama gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Recuperar PDF publicado
         run: |
-          cd _book
-          git init
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add --all
-          git commit -m "Publicar manual desde ${GITHUB_SHA}"
-          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:gh-pages
+          mkdir -p _book/downloads
+          git fetch origin gh-pages:refs/remotes/origin/gh-pages || true
+          git show refs/remotes/origin/gh-pages:downloads/Manual_de_japones.pdf > _book/downloads/Manual_de_japones.pdf || true
+          touch _book/.nojekyll
+
+      - name: Habilitar GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Cargar sitio para Pages
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _book
+
+      - name: Desplegar GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
