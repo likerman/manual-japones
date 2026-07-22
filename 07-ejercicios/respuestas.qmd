@@ -2,7 +2,7 @@
 title: "Respuestas"
 ---
 
-# 1. Lectura y romaji
+## 1. Lectura y romaji
 
 1. ざっし — *zasshi* — revista.
 2. きょうしつ — *kyōshitsu* — aula.
@@ -15,7 +15,7 @@ title: "Respuestas"
 9. ボールペン — *bōrupen* — lapicera.
 10. おきゃくさま — *okyakusama* — cliente / huésped, honorífico.
 
-# 2. Traducción
+## 2. Traducción
 
 1. Esto es un libro.
 2. ¿Qué es esto?
@@ -26,7 +26,7 @@ title: "Respuestas"
 7. Vengo de Argentina.
 8. Cuesta 300 yenes.
 
-# 3. Completar
+## 3. Completar
 
 1. これ **は** ほんです。
 2. あなたは にほんじんです **か**。
@@ -35,7 +35,7 @@ title: "Respuestas"
 5. これは じしょ **じゃありません**。
 6. これ **は** なんですか。
 
-# 4. Números
+## 4. Números
 
 1. さんびゃく よんじゅう ご — *sanbyaku yonjū go*.
 2. ろっぴゃく はち — *roppyaku hachi*.
@@ -48,14 +48,14 @@ title: "Respuestas"
 9. じゅうまん — *jūman*.
 10. ひゃくまん — *hyakuman*.
 
-# 5. Precios y horas
+## 5. Precios y horas
 
 1. さんびゃくえんです。— *Sanbyaku-en desu.*
 2. ごせん よんひゃく ななじゅう にえんです。— *Gosen yonhyaku nanajū ni-en desu.*
 3. ごご しちじ はんです。— *Gogo shichiji han desu.*
 4. ごご しちじ さんじゅうろっぷんです。— *Gogo shichiji sanjūroppun desu.*
 
-# 6. Escritura
+## 6. Escritura
 
 1. スーパー: katakana y vocal larga.
 2. ざっし: consonante doble en hiragana.
@@ -64,7 +64,7 @@ title: "Respuestas"
 5. ノート: katakana y vocal larga.
 6. きょうしつ: combinación con `ょ` pequeña y vocal larga.
 
-# 7. Producción
+## 7. Producción
 
 Las respuestas pueden variar. Modelos posibles:
 
