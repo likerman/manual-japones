@@ -4,22 +4,44 @@ title: "Vocabulario inicial"
 
 Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuando una palabra puede escribirse con kanji, se muestra el kanji y, entre paréntesis, su lectura en kana.
 
-## Palabras funcionales y demostrativos
+## Palabras funcionales, interrogativos y demostrativos
 
 | Japonés | Romaji | Español |
 |---|---|---|
 | 元気（げんき） | *genki* | bien; saludable |
 | 何（なん） | *nan* | qué |
+| 何の（なんの） | *nan no* | de qué; de qué tipo |
+| だれ | *dare* | quién; de quién con `の` |
+| どなた | *donata* | quién, forma cortés |
+| 何歳（なんさい） | *nan-sai* | cuántos años |
 | いくら | *ikura* | cuánto; cuánto cuesta |
 | これ | *kore* | esto |
 | それ | *sore* | eso |
 | あれ | *are* | aquello |
+| この | *kono* | este / esta; acompaña a un sustantivo |
+| その | *sono* | ese / esa; acompaña a un sustantivo |
+| あの | *ano* | aquel / aquella; acompaña a un sustantivo |
 | ここ | *koko* | aquí |
 | こちら | *kochira* | aquí; este lado, cortés |
 | そこ | *soko* | ahí |
 | そちら | *sochira* | ahí; ese lado, cortés |
 | あそこ | *asoko* | allá |
 | あちら | *achira* | allá; aquel lado, cortés |
+| そう | *sō* | así; de esa manera |
+| 違います（ちがいます） | *chigaimasu* | no es así; es diferente |
+
+## Expresiones de cortesía
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| 初めまして（はじめまして） | *hajimemashite* | mucho gusto |
+| こちらこそ | *kochira koso* | igualmente; el gusto es mío |
+| どうぞ | *dōzo* | aquí tiene; adelante |
+| あのう | *anō* | eh…; disculpe… |
+| これから お世話に なります | *kore kara osewa ni narimasu* | de ahora en adelante, espero contar con su ayuda |
+| よろしく お願いします | *yoroshiku onegaishimasu* | mucho gusto; cuento con usted |
+| どうも ありがとう ございます | *dōmo arigatō gozaimasu* | muchas gracias |
+| ほんの 気持ちです | *hon no kimochi desu* | es solo un pequeño detalle |
 
 ## Lugares
 
@@ -37,6 +59,7 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | お手洗い（おてあらい） | *otearai* | baño, formal |
 | トイレ | *toire* | baño |
 | スーパー | *sūpā* | supermercado |
+| 病院（びょういん） | *byōin* | hospital |
 
 ## Objetos
 
@@ -44,13 +67,16 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 |---|---|---|
 | 雑誌（ざっし） | *zasshi* | revista |
 | 辞書（じしょ） | *jisho* | diccionario |
+| 新聞（しんぶん） | *shinbun* | periódico |
 | ノート | *nōto* | cuaderno |
 | テレビ | *terebi* | televisión |
 | 手帳（てちょう） | *techō* | agenda |
+| 名刺（めいし） | *meishi* | tarjeta personal |
 | 鍵（かぎ） | *kagi* | llave |
 | 鞄（かばん） | *kaban* | bolso |
 | 時計（とけい） | *tokei* | reloj |
 | 椅子（いす） | *isu* | silla |
+| 机（つくえ） | *tsukue* | escritorio |
 | カメラ | *kamera* | cámara |
 | シャープペンシル | *shāpu penshiru* | lápiz mecánico |
 | 鉛筆（えんぴつ） | *enpitsu* | lápiz |
@@ -61,6 +87,10 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | 箱（はこ） | *hako* | caja |
 | 判子（はんこ） | *hanko* | sello personal |
 | 服（ふく） | *fuku* | ropa |
+| 車（くるま） | *kuruma* | auto |
+| CD（シーディー） | *shīdī* | CD |
+| カード | *kādo* | tarjeta |
+| お土産（おみやげ） | *omiyage* | recuerdo; pequeño regalo |
 
 ## Personas y vínculos
 
@@ -68,10 +98,23 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 |---|---|---|
 | 私（わたし） | *watashi* | yo |
 | あなた | *anata* | usted; vos |
+| 人（ひと） | *hito* | persona |
+| 方（かた） | *kata* | persona, forma cortés |
+| 先生（せんせい） | *sensei* | profesor/a; maestro/a |
 | 母（はは） | *haha* | mi madre |
 | 父（ちち） | *chichi* | mi padre |
 | 課長（かちょう） | *kachō* | jefe de sección |
 | お客様（おきゃくさま） | *okyakusama* | cliente; huésped, honorífico |
+
+## Idiomas y nacionalidades
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| 日本語（にほんご） | *Nihongo* | idioma japonés |
+| 英語（えいご） | *Eigo* | idioma inglés |
+| 韓国語（かんこくご） | *Kankokugo* | idioma coreano |
+| アメリカ人（アメリカじん） | *Amerika-jin* | estadounidense |
+| イギリス人（イギリスじん） | *Igirisu-jin* | británico/a |
 
 ## Tiempo y acciones
 
@@ -80,6 +123,7 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | 今（いま） | *ima* | ahora |
 | 明日（あした） | *ashita* | mañana |
 | 分（ふん） | *fun* | minuto; la pronunciación cambia según el número |
+| 歳（さい） | *sai* | años de edad |
 | 読む（よむ） | *yomu* | leer |
 | 勉強します（べんきょうします） | *benkyō shimasu* | estudiar |
 | 低い（ひくい） | *hikui* | bajo |
@@ -90,6 +134,8 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | Japonés | Romaji | Español |
 |---|---|---|
 | お茶（おちゃ） | *ocha* | té verde |
+| コーヒー | *kōhī* | café |
+| チョコレート | *chokorēto* | chocolate |
 | みかん | *mikan* | mandarina |
 | 桃（もも） | *momo* | durazno |
 | 餅（もち） | *mochi* | pastel de arroz |

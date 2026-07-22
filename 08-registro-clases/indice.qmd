@@ -118,6 +118,36 @@ Esta cronología conserva el orden en que se incorporaron los contenidos. Los co
 | ワット | *watto* | watt | consonante doble en katakana |
 | ヘレミアス | *Heremiasu* | Jeremías | nombre propio practicado |
 
+### 22 de julio de 2026 — Lección 2
+
+**Temas principales**
+
+- consolidación de `これ・それ・あれ`;
+- incorporación de `この・その・あの`;
+- posesión y relación entre sustantivos con `の`;
+- omisión del sustantivo mediante `～のです`;
+- preguntas con `何の`, `だれの`, `どなた` y `何歳`;
+- preguntas con dos alternativas: `Aですか、Bですか`;
+- respuestas `はい、そうです`, `いいえ、違います` y `じゃありません`;
+- presentación ante un vecino y entrega de un pequeño obsequio;
+- audios CD06, CD07 y CD08 de la Lección 2.
+
+**Modelos representativos**
+
+> **Japonés:** この 本は わたしのです。  
+> **Romaji:** *Kono hon wa watashi no desu.*  
+> **Español:** Este libro es mío.
+
+> **Japonés:** この かぎは だれのですか。  
+> **Romaji:** *Kono kagi wa dare no desu ka.*  
+> **Español:** ¿De quién es esta llave?
+
+> **Japonés:** これから お世話に なります。  
+> **Romaji:** *Kore kara osewa ni narimasu.*  
+> **Español:** A partir de ahora, espero contar con su ayuda.
+
+La ficha completa de la clase se encuentra en [Clase del 22 de julio de 2026 — Lección 2](2026-07-22.qmd).
+
 ## Procedimiento de actualización
 
 Después de cada clase se debe:

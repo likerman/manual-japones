@@ -1,0 +1,23 @@
+---
+title: "Recursos de consulta"
+---
+
+## Minna no Nihongo
+
+### VNJPCLUB — segunda edición
+
+- [Página general de Minna no Nihongo](https://www.vnjpclub.com/en/minna-no-nihongo/)
+- [Lección 2 — lectura y modelos](https://www.vnjpclub.com/en/minna-no-nihongo/lesson-2-reading.html)
+- [Lección 2 — conversación](https://www.vnjpclub.com/en/minna-no-nihongo/lesson-2-conversation.html)
+- [Lección 2 — ejercicios, audios y guiones](https://www.vnjpclub.com/en/minna-no-nihongo/lesson-2-exercises.html)
+
+Este sitio se conserva como recurso complementario para:
+
+- verificar guiones de los audios;
+- revisar respuestas de los ejercicios;
+- consultar vocabulario y modelos gramaticales;
+- contrastar traducciones cuando una grabación no resulte clara.
+
+::: {.callout-important}
+El orden de aprendizaje y las explicaciones del manual deben seguir las clases efectivamente realizadas. Los recursos externos sirven para verificar y ampliar, pero no para introducir contenidos todavía no estudiados.
+:::
