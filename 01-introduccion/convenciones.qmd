@@ -4,38 +4,47 @@ title: "Convenciones del manual"
 
 # Escritura y lectura
 
-Cada entrada nueva debe incluir:
+Cada entrada nueva debe incluir, siempre que corresponda:
 
 1. japonés;
-2. romaji;
-3. traducción al español.
+2. lectura en kana cuando haya kanji;
+3. romaji;
+4. traducción al español.
 
-## Romaji
+# Romaji
 
-Se utilizará una romanización sencilla y consistente. Cuando sea útil, las vocales largas podrán indicarse con macrón:
+El manual utiliza una romanización consistente con macrones para indicar vocales largas:
 
 - きょうしつ — *kyōshitsu* — aula;
-- とうきょう — *Tōkyō* — Tokio.
+- とうきょう — *Tōkyō* — Tokio;
+- スーパー — *sūpā* — supermercado.
 
-En ejercicios iniciales también puede aparecer la forma sin macrón:
+En los apuntes originales de clase puede aparecer también la forma sin macrón:
 
-- *kyoushitsu*;
-- *Toukyou*.
+- *kyoushitsu* en lugar de *kyōshitsu*;
+- *Toukyou* en lugar de *Tōkyō*.
 
-## Partículas
+Ambas permiten reconocer la palabra, pero en el cuerpo principal del manual se prefiere el macrón.
 
-Algunas partículas se escriben de una forma y se pronuncian de otra:
+# Partículas
 
-- は se escribe *ha*, pero como partícula se pronuncia *wa*;
-- へ se escribe *he*, pero como partícula se pronuncia *e*;
-- を se romaniza habitualmente *o*.
-
-## Ejemplos
+La partícula `は` se escribe con el kana *ha*, pero se pronuncia y romaniza *wa* cuando marca el tema de la oración.
 
 > **Japonés:** わたしは ヘレミアスです。  
-> **Romaji:** *Watashi wa Jeremíasu desu.*  
+> **Romaji:** *Watashi wa Heremiasu desu.*  
 > **Español:** Yo soy Jeremías.
 
-## Criterio pedagógico
+# Formato de los ejemplos
 
-Los ejemplos y ejercicios deben usar prioritariamente vocabulario y estructuras ya estudiadas. Toda incorporación nueva debe marcarse de manera explícita.
+Los modelos completos se presentan así:
+
+> **Japonés:** これは ほんです。  
+> **Romaji:** *Kore wa hon desu.*  
+> **Español:** Esto es un libro.  
+> **Estructura:** `これ + は + ほん + です`
+
+# Criterio pedagógico
+
+Los ejemplos y ejercicios deben usar vocabulario y estructuras ya estudiadas. Toda incorporación adicional debe marcarse de manera explícita y no debe confundirse con contenido ya aprendido.
+
+Las dudas sobre nombres propios, pronunciación o traducción deben conservarse como pendientes hasta verificarlas con el docente.
