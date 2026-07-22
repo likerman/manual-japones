@@ -1,0 +1,9 @@
+_book/
+.quarto/
+_freeze/
+*.aux
+*.log
+*.out
+*.toc
+*.tex
+.DS_Store
