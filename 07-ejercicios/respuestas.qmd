@@ -20,13 +20,10 @@ title: "Respuestas"
 
 # 3. Completar
 
-1. これは **は** ほんです。 → Corrección natural: これは ほんです。
+1. これ **は** ほんです。
 2. あなたは にほんじんです **か**。
 3. わたしは ヘレミアス **です**。
 4. ここ **は** だいがくです。
-
-> [!CAUTION]
-> En el ejercicio 1, `これ` ya está seguido por la partícula `は`: la forma correcta completa es `これは ほんです`.
 
 # 4. Números
 
