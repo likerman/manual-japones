@@ -2,15 +2,20 @@
 title: "Ejercicios"
 ---
 
-# 1. Lectura
+# 1. Lectura y romaji
 
-Escribí en romaji:
+Escribí cada palabra en romaji y traducila al español:
 
 1. ざっし
 2. きょうしつ
 3. かいしゃ
-4. アルゼンチン
-5. スーパー
+4. がっこう
+5. べんきょうします
+6. アルゼンチン
+7. スーパー
+8. ワット
+9. ボールペン
+10. おきゃくさま
 
 # 2. Traducción al español
 
@@ -19,15 +24,20 @@ Escribí en romaji:
 3. わたしは アルゼンチンじんです。
 4. ここは きょうしつです。
 5. これは いくらですか。
+6. これは じしょじゃありません。
+7. アルゼンチンから きました。
+8. さんびゃくえんです。
 
-# 3. Completar
+# 3. Completar partículas y formas
 
-Completá con `は`, `か` o `です`:
+Completá con `は`, `か`, `です` o `じゃありません`:
 
 1. これ ___ ほんです。
 2. あなたは にほんじんです ___。
 3. わたしは ヘレミアス ___。
 4. ここ ___ だいがくです。
+5. これは じしょ ___。
+6. これ ___ なんですか。
 
 # 4. Números
 
@@ -35,11 +45,41 @@ Escribí en japonés y romaji:
 
 1. 345
 2. 608
-3. 2.230
-4. 8.335
-5. 10.000
-6. 1.000.000
+3. 714
+4. 947
+5. 2.230
+6. 5.472
+7. 8.335
+8. 10.000
+9. 100.000
+10. 1.000.000
 
-# 5. Producción
+# 5. Precios y horas
 
-Construí una oración afirmativa, una negativa y una pregunta usando solamente vocabulario estudiado.
+Escribí en japonés y romaji:
+
+1. Cuesta 300 yenes.
+2. Cuesta 5.472 yenes.
+3. Son las siete y media de la tarde.
+4. Son las siete y treinta y seis de la tarde.
+
+# 6. Escritura
+
+Indicá qué fenómeno aparece en cada palabra: katakana, vocal larga o consonante doble. Puede haber más de uno.
+
+1. スーパー
+2. ざっし
+3. ワット
+4. がっこう
+5. ノート
+6. きょうしつ
+
+# 7. Producción
+
+Construí con vocabulario estudiado:
+
+1. una oración afirmativa;
+2. una oración negativa;
+3. una pregunta sobre un objeto;
+4. una pregunta por un precio;
+5. una oración que indique procedencia.
