@@ -63,8 +63,9 @@ Los cambios importantes son 300, 600 y 800.
 | 100.000 | じゅうまん | *jūman* |
 | 1.000.000 | ひゃくまん | *hyakuman* |
 
-> [!IMPORTANT]
-> El japonés agrupa los números grandes alrededor de `まん` (*man*), que equivale a 10.000. Por eso, un millón se expresa como cien unidades de diez mil: `ひゃくまん` (*hyakuman*).
+::: {.callout-important}
+El japonés agrupa los números grandes alrededor de `まん` (*man*), que equivale a 10.000. Por eso, un millón se expresa como cien unidades de diez mil: `ひゃくまん` (*hyakuman*).
+:::
 
 ### Ejemplos trabajados
 
@@ -105,5 +106,6 @@ La hora se construye con el número seguido de `じ` (*ji*). Los minutos se expr
 | 19:30 | ごご しちじ はん | *gogo shichiji han* | siete y media de la tarde |
 | 19:36 | ごご しちじ さんじゅうろっぷん | *gogo shichiji sanjūroppun* | siete y treinta y seis de la tarde |
 
-> [!NOTE]
-> `ごご` (*gogo*) indica «p. m.». Sin esa expresión, `しちじ` puede interpretarse simplemente como «las siete» según el contexto.
+::: {.callout-note}
+`ごご` (*gogo*) indica «p. m.». Sin esa expresión, `しちじ` puede interpretarse simplemente como «las siete» según el contexto.
+:::
