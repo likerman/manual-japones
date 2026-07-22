@@ -25,20 +25,42 @@ Cada entrada en japonés debe incluir, siempre que corresponda:
 El proyecto utiliza [Quarto](https://quarto.org/) para generar:
 
 - un libro web navegable;
-- un PDF imprimible mediante LuaLaTeX.
+- un PDF imprimible mediante LuaLaTeX;
+- un glosario estructurado en CSV.
+
+## Estructura de actualización
+
+- `datos/vocabulario.csv`: fuente estructurada del glosario.
+- `plantillas/nueva-clase.qmd`: ficha reutilizable para registrar una clase.
+- `GUIA_ACTUALIZACION.md`: procedimiento editorial y técnico.
+- `08-registro-clases/indice.qmd`: cronología general.
 
 ## Compilación local
+
+Para previsualizar la edición web:
 
 ```bash
 quarto preview
 ```
 
-Para generar todos los formatos:
+Para generar solamente la web:
 
 ```bash
-quarto render
+quarto render --to html
 ```
+
+Para generar el PDF se necesita LuaLaTeX y una fuente japonesa compatible:
+
+```bash
+quarto render --to pdf
+```
+
+## Automatizaciones
+
+- `validar.yml`: comprueba la edición HTML en los pull requests.
+- `publicar.yml`: publica la edición web en la rama `gh-pages`.
+- `generar-pdf.yml`: genera el PDF por separado y lo guarda como artefacto de GitHub Actions.
 
 ## Estado
 
-Versión inicial en desarrollo: `v0.1`.
+Versión de contenido en preparación: `v0.2`.
