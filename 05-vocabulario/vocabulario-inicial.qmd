@@ -4,7 +4,7 @@ title: "Vocabulario inicial"
 
 Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuando una palabra puede escribirse con kanji, se muestra el kanji y, entre paréntesis, su lectura en kana.
 
-# Palabras funcionales y demostrativos
+## Palabras funcionales y demostrativos
 
 | Japonés | Romaji | Español |
 |---|---|---|
@@ -21,7 +21,7 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | あそこ | *asoko* | allá |
 | あちら | *achira* | allá; aquel lado, cortés |
 
-# Lugares
+## Lugares
 
 | Japonés | Romaji | Español |
 |---|---|---|
@@ -38,7 +38,7 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | トイレ | *toire* | baño |
 | スーパー | *sūpā* | supermercado |
 
-# Objetos
+## Objetos
 
 | Japonés | Romaji | Español |
 |---|---|---|
@@ -62,7 +62,7 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | 判子（はんこ） | *hanko* | sello personal |
 | 服（ふく） | *fuku* | ropa |
 
-# Personas y vínculos
+## Personas y vínculos
 
 | Japonés | Romaji | Español |
 |---|---|---|
@@ -73,7 +73,7 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | 課長（かちょう） | *kachō* | jefe de sección |
 | お客様（おきゃくさま） | *okyakusama* | cliente; huésped, honorífico |
 
-# Tiempo y acciones
+## Tiempo y acciones
 
 | Japonés | Romaji | Español |
 |---|---|---|
@@ -85,7 +85,7 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | 低い（ひくい） | *hikui* | bajo |
 | 遅い（おそい） | *osoi* | lento; tarde |
 
-# Alimentos, cuerpo y naturaleza
+## Alimentos, cuerpo y naturaleza
 
 | Japonés | Romaji | Español |
 |---|---|---|
@@ -101,7 +101,7 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | 足（あし） | *ashi* | pie; pierna |
 | 虫（むし） | *mushi* | insecto |
 
-# Países, ciudades y nombres
+## Países, ciudades y nombres
 
 | Japonés | Romaji | Español |
 |---|---|---|
@@ -115,7 +115,7 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | ヘレミアス | *Heremiasu* | Jeremías |
 | アイメ | *Aime* | Aime |
 
-# Préstamos y consonante doble
+## Préstamos y consonante doble
 
 | Japonés | Romaji | Español | Observación |
 |---|---|---|---|
