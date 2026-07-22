@@ -22,11 +22,11 @@ Igualmente.
 
 ## Identificar un objeto
 
-**A:** これは なんですか。  
+**A:** これは 何ですか。  
 *Kore wa nan desu ka.*  
 ¿Qué es esto?
 
-**B:** これは ほんです。  
+**B:** これは 本です。  
 *Kore wa hon desu.*  
 Esto es un libro.
 
@@ -42,14 +42,106 @@ Cuesta 950 yenes.
 
 ## Confirmar un lugar
 
-**A:** ここは きょうしつですか。  
+**A:** ここは 教室ですか。  
 *Koko wa kyōshitsu desu ka.*  
 ¿Esto es un aula?
 
-**B:** ここは きょうしつです。  
+**B:** ここは 教室です。  
 *Koko wa kyōshitsu desu.*  
 Esto es un aula.
 
+## Presentarse ante un vecino
+
+**山田一郎:** はい。どなたですか。  
+*Yamada Ichirō: Hai. Donata desu ka.*  
+¿Sí? ¿Quién es?
+
+**サントス:** 408の サントスです。  
+*Santosu: Yon-hyaku hachi no Santosu desu.*  
+Soy Santos, del departamento 408.
+
+**サントス:** こんにちは。サントスです。  
+*Santosu: Konnichiwa. Santosu desu.*  
+Buenas tardes. Soy Santos.
+
+**サントス:** これから お世話に なります。  
+*Santosu: Kore kara osewa ni narimasu.*  
+A partir de ahora, espero contar con su ayuda.
+
+**サントス:** どうぞ よろしく お願いします。  
+*Santosu: Dōzo yoroshiku onegaishimasu.*  
+Mucho gusto; espero que tengamos una buena relación.
+
+**山田一郎:** こちらこそ よろしく お願いします。  
+*Yamada Ichirō: Kochira koso yoroshiku onegaishimasu.*  
+Igualmente.
+
+## Entregar un pequeño regalo
+
+**サントス:** あのう、これ、コーヒーです。どうぞ。  
+*Santosu: Anō, kore, kōhī desu. Dōzo.*  
+Eh…, esto es café. Aquí tiene.
+
+**山田一郎:** どうも ありがとう ございます。  
+*Yamada Ichirō: Dōmo arigatō gozaimasu.*  
+Muchas gracias.
+
+### Variante con お土産
+
+**A:** あのう、これ、お土産です。  
+*Anō, kore, omiyage desu.*  
+Disculpe…, esto es un pequeño regalo.
+
+**B:** えっ、何ですか。  
+*E, nan desu ka.*  
+¿Eh? ¿Qué es?
+
+**A:** チョコレートです。どうぞ。  
+*Chokorēto desu. Dōzo.*  
+Es chocolate. Aquí tiene.
+
+**B:** どうも ありがとう ございます。  
+*Dōmo arigatō gozaimasu.*  
+Muchas gracias.
+
+### Expresión de modestia al dar un obsequio
+
+> **Japonés:** ほんの 気持ちです。  
+> **Romaji:** *Hon no kimochi desu.*  
+> **Español:** Es solo un pequeño detalle.
+
+## Preguntar por un objeto y su tema
+
+**A:** それは 何ですか。  
+*Sore wa nan desu ka.*  
+¿Qué es eso?
+
+**B:** これですか。英語の CDです。  
+*Kore desu ka. Eigo no shīdī desu.*  
+¿Esto? Es un CD de inglés.
+
+**A:** そうですか。  
+*Sō desu ka.*  
+Ah, entiendo.
+
+## Preguntar por el propietario
+
+**A:** この 傘は ミラーさんのですか。  
+*Kono kasa wa Mirā-san no desu ka.*  
+¿Este paraguas es del señor Miller?
+
+**B:** いいえ、違います。  
+*Iie, chigaimasu.*  
+No, no lo es.
+
+**A:** だれのですか。  
+*Dare no desu ka.*  
+¿De quién es?
+
+**C:** あ、わたしのです。ありがとう ございます。  
+*A, watashi no desu. Arigatō gozaimasu.*  
+Ah, es mío. Muchas gracias.
+
 ::: {.callout-important}
-Estos diálogos reutilizan solamente estructuras ya registradas: `です`, `は`, `か`, `から きました`, demostrativos, lugares y precios.
+Los diálogos reutilizan estructuras ya registradas: `です`, `は`, `か`, `から きました`, demostrativos, `の`, preguntas por objetos y propietarios, lugares y precios.
 :::
