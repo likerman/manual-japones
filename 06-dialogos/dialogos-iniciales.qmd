@@ -9,7 +9,7 @@ title: "Diálogos iniciales"
 Mucho gusto.
 
 **B:** はじめまして。ヘレミアスです。アルゼンチンから きました。  
-*Hajimemashite. Jeremíasu desu. Aruzenchin kara kimashita.*  
+*Hajimemashite. Heremiasu desu. Aruzenchin kara kimashita.*  
 Mucho gusto. Soy Jeremías. Vengo de Argentina.
 
 **A:** どうぞ よろしく。  
@@ -40,15 +40,15 @@ Esto es un libro.
 *Kyūhyaku gojū-en desu.*  
 Cuesta 950 yenes.
 
-# Preguntar por un lugar
+# Confirmar un lugar
 
-**A:** おてあらいは どこですか。  
-*Otearai wa doko desu ka.*  
-¿Dónde está el baño?
+**A:** ここは きょうしつですか。  
+*Koko wa kyōshitsu desu ka.*  
+¿Esto es un aula?
 
-**B:** あそこです。  
-*Asoko desu.*  
-Está allí.
+**B:** ここは きょうしつです。  
+*Koko wa kyōshitsu desu.*  
+Esto es un aula.
 
-> [!NOTE]
-> `どこ` se incorpora aquí como palabra necesaria para preguntar “dónde”. Debe marcarse como vocabulario nuevo si todavía no fue formalmente estudiada en clase.
+> [!IMPORTANT]
+> Estos diálogos reutilizan solamente estructuras ya registradas: `です`, `は`, `か`, `から きました`, demostrativos, lugares y precios.
