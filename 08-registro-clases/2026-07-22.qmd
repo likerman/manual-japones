@@ -1,0 +1,398 @@
+---
+title: "Clase del 22 de julio de 2026 — Lección 2"
+date: 2026-07-22
+---
+
+## Temas trabajados
+
+- Lección 2 de *Minna no Nihongo*: `これから お世話に なります`.
+- Demostrativos para objetos: `これ・それ・あれ`.
+- Demostrativos que acompañan a un sustantivo: `この・その・あの`.
+- Posesión y relación entre sustantivos mediante `の`.
+- Omisión del sustantivo con `～のです`.
+- Preguntas con `何`, `何の`, `だれ`, `どなた` y `何歳`.
+- Preguntas con dos alternativas: `Aですか、Bですか`.
+- Respuestas de confirmación y corrección: `はい、そうです`, `いいえ、違います` y `じゃありません`.
+- Presentación ante un vecino y entrega de un pequeño obsequio.
+- Práctica auditiva con los audios CD06, CD07 y CD08.
+
+## Modelos centrales de la lección
+
+> **Japonés:** これは 辞書です。  
+> **Romaji:** *Kore wa jisho desu.*  
+> **Español:** Esto es un diccionario.
+
+> **Japonés:** それは わたしの 傘です。  
+> **Romaji:** *Sore wa watashi no kasa desu.*  
+> **Español:** Ese es mi paraguas.
+
+> **Japonés:** この 本は わたしのです。  
+> **Romaji:** *Kono hon wa watashi no desu.*  
+> **Español:** Este libro es mío.
+
+## これ・それ・あれ
+
+| Japonés | Romaji | Uso | Español |
+|---|---|---|---|
+| これ | *kore* | objeto cercano a quien habla | esto |
+| それ | *sore* | objeto cercano a quien escucha | eso |
+| あれ | *are* | objeto alejado de ambas personas | aquello |
+
+Estas palabras funcionan solas y reemplazan al sustantivo.
+
+> **Japonés:** それは 何ですか。  
+> **Romaji:** *Sore wa nan desu ka.*  
+> **Español:** ¿Qué es eso?
+
+## この・その・あの
+
+| Japonés | Romaji | Uso | Español |
+|---|---|---|---|
+| この + sustantivo | *kono + sustantivo* | cerca de quien habla | este / esta |
+| その + sustantivo | *sono + sustantivo* | cerca de quien escucha | ese / esa |
+| あの + sustantivo | *ano + sustantivo* | lejos de ambas personas | aquel / aquella |
+
+A diferencia de `これ・それ・あれ`, estas formas siempre deben acompañar a un sustantivo.
+
+> **Japonés:** この かぎは だれのですか。  
+> **Romaji:** *Kono kagi wa dare no desu ka.*  
+> **Español:** ¿De quién es esta llave?
+
+## La partícula の
+
+### Posesión o relación entre sustantivos
+
+**Estructura:** `N1 の N2`
+
+> **Japonés:** わたしの 傘  
+> **Romaji:** *Watashi no kasa*  
+> **Español:** mi paraguas
+
+> **Japonés:** 車の かぎ  
+> **Romaji:** *Kuruma no kagi*  
+> **Español:** la llave del auto
+
+> **Japonés:** コンピューターの 雑誌  
+> **Romaji:** *Konpyūtā no zasshi*  
+> **Español:** revista de computación
+
+### Omisión del sustantivo
+
+Cuando el objeto ya se conoce por el contexto, el segundo sustantivo puede omitirse.
+
+> **Japonés:** わたしの かばんです。  
+> **Romaji:** *Watashi no kaban desu.*  
+> **Español:** Es mi bolso.
+
+> **Japonés:** わたしのです。  
+> **Romaji:** *Watashi no desu.*  
+> **Español:** Es mío.
+
+> **Japonés:** ミラーさんのじゃ ありません。  
+> **Romaji:** *Mirā-san no ja arimasen.*  
+> **Español:** No es del señor Miller.
+
+### Preguntar el tipo o tema
+
+**Estructura:** `何の + sustantivo`
+
+> **Japonés:** それは 何の 雑誌ですか。  
+> **Romaji:** *Sore wa nan no zasshi desu ka.*  
+> **Español:** ¿De qué es esa revista?
+
+> **Japonés:** カメラの 雑誌です。  
+> **Romaji:** *Kamera no zasshi desu.*  
+> **Español:** Es una revista de fotografía o cámaras.
+
+### Preguntar el propietario
+
+**Estructuras:** `だれの + sustantivo` y `だれのですか`
+
+> **Japonés:** あれは だれの かばんですか。  
+> **Romaji:** *Are wa dare no kaban desu ka.*  
+> **Español:** ¿De quién es aquel bolso?
+
+> **Japonés:** 佐藤さんの かばんです。  
+> **Romaji:** *Satō-san no kaban desu.*  
+> **Español:** Es el bolso del señor Satō.
+
+## Preguntas y respuestas
+
+### Confirmación
+
+> **Japonés:** これは ボールペンですか。  
+> **Romaji:** *Kore wa bōrupen desu ka.*  
+> **Español:** ¿Esto es una lapicera?
+
+> **Japonés:** はい、そうです。  
+> **Romaji:** *Hai, sō desu.*  
+> **Español:** Sí, así es.
+
+### Corrección
+
+> **Japonés:** それは ノートですか。  
+> **Romaji:** *Sore wa nōto desu ka.*  
+> **Español:** ¿Eso es un cuaderno?
+
+> **Japonés:** いいえ、手帳です。  
+> **Romaji:** *Iie, techō desu.*  
+> **Español:** No, es una agenda.
+
+También se practicó:
+
+> **Japonés:** いいえ、違います。  
+> **Romaji:** *Iie, chigaimasu.*  
+> **Español:** No, no es así / no es correcto.
+
+### Dos alternativas
+
+**Estructura:** `Aですか、Bですか`
+
+> **Japonés:** これは 「9」ですか、「7」ですか。  
+> **Romaji:** *Kore wa “kyū” desu ka, “nana” desu ka.*  
+> **Español:** ¿Esto es un nueve o un siete?
+
+> **Japonés:** 「9」です。  
+> **Romaji:** *“Kyū” desu.*  
+> **Español:** Es un nueve.
+
+## Interrogativos y formas corteses
+
+| Japonés | Kana | Romaji | Español | Nota |
+|---|---|---|---|---|
+| 何 | なん | *nan* | qué | aparece antes de `です`, `の` y contadores |
+| だれ | だれ | *dare* | quién / de quién | forma común |
+| どなた | どなた | *donata* | quién | forma cortés |
+| 方 | かた | *kata* | persona | forma cortés |
+| 何歳 | なんさい | *nan-sai* | cuántos años | pregunta por la edad |
+
+> **Japonés:** あの 方は どなたですか。  
+> **Romaji:** *Ano kata wa donata desu ka.*  
+> **Español:** ¿Quién es aquella persona?
+
+> **Japonés:** テレーザちゃんは 何歳ですか。  
+> **Romaji:** *Terēza-chan wa nan-sai desu ka.*  
+> **Español:** ¿Cuántos años tiene Teresa?
+
+## Conversación: これから お世話に なります
+
+**山田一郎:** はい。どなたですか。  
+*Yamada Ichirō: Hai. Donata desu ka.*  
+¿Sí? ¿Quién es?
+
+**サントス:** 408の サントスです。  
+*Santosu: Yon-hyaku hachi no Santosu desu.*  
+Soy Santos, del departamento 408.
+
+**サントス:** こんにちは。サントスです。  
+*Santosu: Konnichiwa. Santosu desu.*  
+Buenas tardes. Soy Santos.
+
+**サントス:** これから お世話に なります。  
+*Santosu: Kore kara osewa ni narimasu.*  
+A partir de ahora, espero contar con su ayuda.
+
+**サントス:** どうぞ よろしく お願いします。  
+*Santosu: Dōzo yoroshiku onegaishimasu.*  
+Mucho gusto; espero que tengamos una buena relación.
+
+**山田一郎:** こちらこそ よろしく お願いします。  
+*Yamada Ichirō: Kochira koso yoroshiku onegaishimasu.*  
+Igualmente.
+
+**サントス:** あのう、これ、コーヒーです。どうぞ。  
+*Santosu: Anō, kore, kōhī desu. Dōzo.*  
+Eh…, esto es café. Aquí tiene.
+
+**山田一郎:** どうも ありがとう ございます。  
+*Yamada Ichirō: Dōmo arigatō gozaimasu.*  
+Muchas gracias.
+
+## Dar un pequeño regalo
+
+> **Japonés:** あのう、これ、お土産です。  
+> **Romaji:** *Anō, kore, omiyage desu.*  
+> **Español:** Disculpe…, esto es un pequeño regalo.
+
+> **Japonés:** えっ、何ですか。  
+> **Romaji:** *E, nan desu ka.*  
+> **Español:** ¿Eh? ¿Qué es?
+
+> **Japonés:** チョコレートです。どうぞ。  
+> **Romaji:** *Chokorēto desu. Dōzo.*  
+> **Español:** Es chocolate. Aquí tiene.
+
+> **Japonés:** どうも ありがとう ございます。  
+> **Romaji:** *Dōmo arigatō gozaimasu.*  
+> **Español:** Muchas gracias.
+
+En el audio también apareció la expresión:
+
+> **Japonés:** ほんの 気持ちです。  
+> **Romaji:** *Hon no kimochi desu.*  
+> **Español:** Es solo un pequeño detalle.
+
+## Práctica auditiva CD06
+
+### 1
+
+> **Japonés:** これは 手帳ですか。― はい、そうです。  
+> **Romaji:** *Kore wa techō desu ka. — Hai, sō desu.*  
+> **Español:** ¿Esto es una agenda? — Sí, así es.
+
+### 2
+
+> **Japonés:** これは 「あ」ですか、「お」ですか。― 「あ」です。  
+> **Romaji:** *Kore wa “a” desu ka, “o” desu ka. — “A” desu.*  
+> **Español:** ¿Esto es「あ」o「お」? — Es「あ」.
+
+### 3
+
+> **Japonés:** これは 何ですか。― 名刺です。  
+> **Romaji:** *Kore wa nan desu ka. — Meishi desu.*  
+> **Español:** ¿Qué es esto? — Es una tarjeta personal.
+
+### 4
+
+> **Japonés:** これは 何の 雑誌ですか。― 車の 雑誌です。  
+> **Romaji:** *Kore wa nan no zasshi desu ka. — Kuruma no zasshi desu.*  
+> **Español:** ¿De qué es esta revista? — Es una revista de autos.
+
+### 5
+
+> **Japonés:** この かばんは あなたのですか。― いいえ、わたしのじゃ ありません。  
+> **Romaji:** *Kono kaban wa anata no desu ka. — Iie, watashi no ja arimasen.*  
+> **Español:** ¿Este bolso es suyo? — No, no es mío.
+
+## Práctica auditiva CD07
+
+### 1. Presentación entre vecinos
+
+**女:** はい。どなたですか。  
+*Onna: Hai. Donata desu ka.*  
+¿Sí? ¿Quién es?
+
+**男:** 505の ミラーです。  
+*Otoko: Go-hyaku go no Mirā desu.*  
+Soy Miller, del departamento 505.
+
+**男:** ミラーです。これから お世話に なります。どうぞ よろしく お願いします。  
+*Otoko: Mirā desu. Kore kara osewa ni narimasu. Dōzo yoroshiku onegaishimasu.*  
+Soy Miller. A partir de ahora, espero contar con su ayuda. Mucho gusto.
+
+**女:** 田中です。こちらこそ よろしく。  
+*Onna: Tanaka desu. Kochira koso yoroshiku.*  
+Soy Tanaka. Igualmente.
+
+**Respuesta:** imagen ②.
+
+### 2. Un pequeño detalle
+
+**男:** あのう、これ、ほんの 気持ちです。  
+*Otoko: Anō, kore, hon no kimochi desu.*  
+Eh…, esto es solo un pequeño detalle.
+
+**女:** えっ、何ですか。  
+*Onna: E, nan desu ka.*  
+¿Eh? ¿Qué es?
+
+**男:** チョコレートです。  
+*Otoko: Chokorēto desu.*  
+Es chocolate.
+
+**女:** どうも ありがとう ございます。  
+*Onna: Dōmo arigatō gozaimasu.*  
+Muchas gracias.
+
+**Respuesta:** imagen ①.
+
+## Práctica auditiva CD08
+
+### 1. Agenda o diccionario
+
+**男:** それは 手帳ですか。  
+*Otoko: Sore wa techō desu ka.*  
+¿Eso es una agenda?
+
+**女:** いいえ、違います。  
+*Onna: Iie, chigaimasu.*  
+No, no lo es.
+
+**男:** 何ですか。  
+*Otoko: Nan desu ka.*  
+¿Qué es?
+
+**女:** 辞書です。  
+*Onna: Jisho desu.*  
+Es un diccionario.
+
+**Afirmación:** `これは 手帳です。`  
+**Respuesta:** ×, falso.
+
+### 2. El auto de Kimura
+
+**男:** 木村さん、あの 車は あなたのですか。  
+*Otoko: Kimura-san, ano kuruma wa anata no desu ka.*  
+Señora Kimura, ¿aquel auto es suyo?
+
+**女:** はい、そうです。わたしのです。  
+*Onna: Hai, sō desu. Watashi no desu.*  
+Sí, así es. Es mío.
+
+**Afirmación:** `あの 車は 木村さんのです。`  
+**Respuesta:** ○, verdadero.
+
+### 3. Revista de cámaras
+
+**男:** それは コンピューターの 雑誌ですか。  
+*Otoko: Sore wa konpyūtā no zasshi desu ka.*  
+¿Esa es una revista de computación?
+
+**女:** いいえ、カメラの 雑誌です。  
+*Onna: Iie, kamera no zasshi desu.*  
+No, es una revista de cámaras.
+
+**男:** そうですか。  
+*Otoko: Sō desu ka.*  
+Ah, entiendo.
+
+**Afirmación:** `これは コンピューターの 雑誌じゃ ありません。`  
+**Respuesta:** ○, verdadero.
+
+## Vocabulario incorporado
+
+| Japonés | Kana | Romaji | Español |
+|---|---|---|---|
+| 傘 | かさ | *kasa* | paraguas |
+| 名刺 | めいし | *meishi* | tarjeta personal |
+| 新聞 | しんぶん | *shinbun* | periódico |
+| 机 | つくえ | *tsukue* | escritorio |
+| 車 | くるま | *kuruma* | auto |
+| コンピューター | コンピューター | *konpyūtā* | computadora |
+| CD | シーディー | *shīdī* | CD |
+| 日本語 | にほんご | *Nihongo* | idioma japonés |
+| 英語 | えいご | *Eigo* | idioma inglés |
+| 韓国語 | かんこくご | *Kankokugo* | idioma coreano |
+| コーヒー | コーヒー | *kōhī* | café |
+| お土産 | おみやげ | *omiyage* | recuerdo; pequeño regalo |
+| チョコレート | チョコレート | *chokorēto* | chocolate |
+| 病院 | びょういん | *byōin* | hospital |
+| カード | カード | *kādo* | tarjeta |
+| 違います | ちがいます | *chigaimasu* | no es así; es diferente |
+| お世話になります | おせわになります | *osewa ni narimasu* | espero contar con su ayuda |
+| ほんの気持ちです | ほんのきもちです | *hon no kimochi desu* | es solo un pequeño detalle |
+
+## Presentación personal repasada
+
+> **Japonés:** 初めまして。わたしは ヘレミアスです。アルゼンチンから 来ました。どうぞ よろしく。  
+> **Romaji:** *Hajimemashite. Watashi wa Heremiasu desu. Aruzenchin kara kimashita. Dōzo yoroshiku.*  
+> **Español:** Mucho gusto. Soy Jeremías. Vengo de Argentina. Encantado.
+
+## Recurso de referencia
+
+Para verificar los guiones de los audios, las respuestas y las traducciones de *Minna no Nihongo* se registró como recurso complementario:
+
+- [VNJPCLUB — Minna no Nihongo, segunda edición](https://www.vnjpclub.com/en/minna-no-nihongo/)
+- [Lección 2 — ejercicios y audios](https://www.vnjpclub.com/en/minna-no-nihongo/lesson-2-exercises.html)
+
+Este recurso se utiliza como apoyo de consulta; los contenidos del manual siguen el orden y las explicaciones trabajadas en clase.
