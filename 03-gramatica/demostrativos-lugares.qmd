@@ -1,19 +1,169 @@
 ---
-title: "Demostrativos y lugares"
+title: "Demostrativos, posesión y lugares"
 ---
 
-## Pronombres demostrativos
+## Pronombres demostrativos para objetos
+
+| Japonés | Romaji | Español | Referencia espacial |
+|---|---|---|---|
+| これ | *kore* | esto | cerca de quien habla |
+| それ | *sore* | eso | cerca de quien escucha |
+| あれ | *are* | aquello | lejos de ambas personas |
+
+Estas formas funcionan solas y reemplazan al sustantivo.
+
+> **Japonés:** これは 何ですか。  
+> **Romaji:** *Kore wa nan desu ka.*  
+> **Español:** ¿Qué es esto?
+
+> **Japonés:** それは ノートです。  
+> **Romaji:** *Sore wa nōto desu.*  
+> **Español:** Eso es un cuaderno.
+
+> **Japonés:** あれは テレビです。  
+> **Romaji:** *Are wa terebi desu.*  
+> **Español:** Aquello es un televisor.
+
+## Demostrativos que acompañan a un sustantivo
+
+| Japonés | Romaji | Español | Referencia espacial |
+|---|---|---|---|
+| この + sustantivo | *kono + sustantivo* | este / esta | cerca de quien habla |
+| その + sustantivo | *sono + sustantivo* | ese / esa | cerca de quien escucha |
+| あの + sustantivo | *ano + sustantivo* | aquel / aquella | lejos de ambas personas |
+
+A diferencia de `これ・それ・あれ`, estas formas no pueden aparecer solas.
+
+> **Japonés:** この 本は わたしのです。  
+> **Romaji:** *Kono hon wa watashi no desu.*  
+> **Español:** Este libro es mío.
+
+> **Japonés:** その 傘は だれのですか。  
+> **Romaji:** *Sono kasa wa dare no desu ka.*  
+> **Español:** ¿De quién es ese paraguas?
+
+> **Japonés:** あの 車は 木村さんのです。  
+> **Romaji:** *Ano kuruma wa Kimura-san no desu.*  
+> **Español:** Aquel auto es de la señora Kimura.
+
+## La partícula の
+
+### Posesión y relación
+
+`の` conecta dos sustantivos. El primero especifica al segundo.
+
+**Estructura:** `N1 の N2`
 
 | Japonés | Romaji | Español |
 |---|---|---|
-| これ | *kore* | esto |
-| それ | *sore* | eso |
-| あれ | *are* | aquello |
-| なん / なに | *nan / nani* | qué |
+| わたしの 傘 | *watashi no kasa* | mi paraguas |
+| 佐藤さんの かばん | *Satō-san no kaban* | el bolso del señor Satō |
+| 車の かぎ | *kuruma no kagi* | la llave del auto |
+| コンピューターの 雑誌 | *konpyūtā no zasshi* | revista de computación |
+| 日本語の 本 | *Nihongo no hon* | libro de japonés |
 
-> **Japonés:** これは なんですか。  
-> **Romaji:** *Kore wa nan desu ka.*  
-> **Español:** ¿Qué es esto?
+### Omisión del sustantivo conocido
+
+Cuando el objeto ya se conoce por el contexto, puede omitirse el segundo sustantivo.
+
+> **Forma completa:** わたしの かばんです。  
+> *Watashi no kaban desu.*  
+> Es mi bolso.
+
+> **Forma abreviada:** わたしのです。  
+> *Watashi no desu.*  
+> Es mío.
+
+La negación conserva `の`:
+
+> **Japonés:** ミラーさんのじゃ ありません。  
+> **Romaji:** *Mirā-san no ja arimasen.*  
+> **Español:** No es del señor Miller.
+
+## Preguntas con 何の y だれの
+
+### 何の — de qué tipo o tema
+
+> **Japonés:** それは 何の 雑誌ですか。  
+> **Romaji:** *Sore wa nan no zasshi desu ka.*  
+> **Español:** ¿De qué es esa revista?
+
+> **Japonés:** カメラの 雑誌です。  
+> **Romaji:** *Kamera no zasshi desu.*  
+> **Español:** Es una revista de cámaras o fotografía.
+
+### だれの — de quién
+
+> **Japonés:** あれは だれの かばんですか。  
+> **Romaji:** *Are wa dare no kaban desu ka.*  
+> **Español:** ¿De quién es aquel bolso?
+
+> **Japonés:** 佐藤さんの かばんです。  
+> **Romaji:** *Satō-san no kaban desu.*  
+> **Español:** Es el bolso del señor Satō.
+
+También puede preguntarse con el objeto como tema:
+
+> **Japonés:** この かぎは だれのですか。  
+> **Romaji:** *Kono kagi wa dare no desu ka.*  
+> **Español:** ¿De quién es esta llave?
+
+## Confirmación y corrección
+
+### Respuesta afirmativa
+
+> **Japonés:** これは ボールペンですか。  
+> **Romaji:** *Kore wa bōrupen desu ka.*  
+> **Español:** ¿Esto es una lapicera?
+
+> **Japonés:** はい、そうです。  
+> **Romaji:** *Hai, sō desu.*  
+> **Español:** Sí, así es.
+
+### Respuesta negativa o corrección
+
+> **Japonés:** それは ノートですか。  
+> **Romaji:** *Sore wa nōto desu ka.*  
+> **Español:** ¿Eso es un cuaderno?
+
+> **Japonés:** いいえ、手帳です。  
+> **Romaji:** *Iie, techō desu.*  
+> **Español:** No, es una agenda.
+
+> **Japonés:** いいえ、違います。  
+> **Romaji:** *Iie, chigaimasu.*  
+> **Español:** No, no es así / no es correcto.
+
+## Preguntas con dos alternativas
+
+En japonés se presentan las dos opciones con `ですか`; no hace falta agregar una palabra equivalente a «o».
+
+**Estructura:** `Aですか、Bですか`
+
+> **Japonés:** これは 「9」ですか、「7」ですか。  
+> **Romaji:** *Kore wa “kyū” desu ka, “nana” desu ka.*  
+> **Español:** ¿Esto es un nueve o un siete?
+
+> **Japonés:** 「9」です。  
+> **Romaji:** *“Kyū” desu.*  
+> **Español:** Es un nueve.
+
+## Interrogativos relacionados
+
+| Japonés | Romaji | Español | Uso |
+|---|---|---|---|
+| 何（なん） | *nan* | qué | identificar una cosa |
+| だれ | *dare* | quién | preguntar por una persona |
+| どなた | *donata* | quién | forma cortés |
+| 何歳（なんさい） | *nan-sai* | cuántos años | preguntar la edad |
+
+> **Japonés:** あの 方は どなたですか。  
+> **Romaji:** *Ano kata wa donata desu ka.*  
+> **Español:** ¿Quién es aquella persona?
+
+> **Japonés:** ミラーさんは 何歳ですか。  
+> **Romaji:** *Mirā-san wa nan-sai desu ka.*  
+> **Español:** ¿Cuántos años tiene el señor Miller?
 
 ## Expresiones de lugar
 
@@ -27,18 +177,18 @@ title: "Demostrativos y lugares"
 
 | Japonés | Romaji | Español |
 |---|---|---|
-| うけつけ | *uketsuke* | recepción |
-| だいがく | *daigaku* | universidad |
+| 受付（うけつけ） | *uketsuke* | recepción |
+| 大学（だいがく） | *daigaku* | universidad |
 | ロビー | *robī* | vestíbulo |
-| きょうしつ | *kyōshitsu* | aula |
-| かいしゃ | *kaisha* | empresa |
-| じむしょ | *jimusho* | oficina |
-| しょくどう | *shokudō* | comedor |
-| がっこう | *gakkō* | escuela |
-| ちか | *chika* | subsuelo |
-| おてあらい | *otearai* | baño, formal |
+| 教室（きょうしつ） | *kyōshitsu* | aula |
+| 会社（かいしゃ） | *kaisha* | empresa |
+| 事務所（じむしょ） | *jimusho* | oficina |
+| 食堂（しょくどう） | *shokudō* | comedor |
+| 学校（がっこう） | *gakkō* | escuela |
+| 地下（ちか） | *chika* | subsuelo |
+| お手洗い（おてあらい） | *otearai* | baño, formal |
 | トイレ | *toire* | baño |
 
-> **Japonés:** ここは きょうしつです。  
+> **Japonés:** ここは 教室です。  
 > **Romaji:** *Koko wa kyōshitsu desu.*  
 > **Español:** Aquí está el aula / Esto es un aula.
