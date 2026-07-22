@@ -25,8 +25,9 @@ Cada par de la tabla muestra primero hiragana y después katakana.
 
 La nasal final se escribe `ん` en hiragana y `ン` en katakana: *n*.
 
-> [!NOTE]
-> La tabla funciona como referencia general. El dominio de los caracteres se adquiere progresivamente mediante palabras y ejercicios de lectura.
+::: {.callout-note}
+La tabla funciona como referencia general. El dominio de los caracteres se adquiere progresivamente mediante palabras y ejercicios de lectura.
+:::
 
 ## Ejemplos en hiragana
 
@@ -60,5 +61,6 @@ Los nombres extranjeros suelen adaptarse al sistema fonético japonés y escribi
 - ヘレミアス — *Heremiasu* — Jeremías.
 - アイメ — *Aime* — Aime.
 
-> [!IMPORTANT]
-> La transliteración de nombres propios debe revisarse con el docente porque puede haber más de una aproximación posible.
+::: {.callout-important}
+La transliteración de nombres propios debe revisarse con el docente porque puede haber más de una aproximación posible.
+:::
