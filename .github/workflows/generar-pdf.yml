@@ -1,6 +1,12 @@
 name: Generar PDF
 
 on:
+  pull_request:
+    paths:
+      - "**/*.qmd"
+      - "_quarto.yml"
+      - "estilos/**"
+      - ".github/workflows/generar-pdf.yml"
   push:
     branches: [main]
     paths:
