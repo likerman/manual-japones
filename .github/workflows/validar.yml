@@ -6,6 +6,7 @@ on:
 
 permissions:
   contents: read
+  pages: write
 
 jobs:
   validar-html:
@@ -19,3 +20,32 @@ jobs:
 
       - name: Comprobar edición web
         run: quarto render --to html
+
+      - name: Diagnosticar estado de GitHub Pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          status=$(curl -sS -o /tmp/pages.json -w "%{http_code}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/pages")
+          echo "${status}" > /tmp/pages_status.txt
+
+          status_runs=$(curl -sS -o /tmp/runs.json -w "%{http_code}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/actions/runs?branch=main&per_page=10")
+          echo "${status_runs}" > /tmp/runs_status.txt
+
+      - name: Guardar diagnóstico
+        uses: actions/upload-artifact@v4
+        with:
+          name: diagnostico-pages
+          path: |
+            /tmp/pages.json
+            /tmp/pages_status.txt
+            /tmp/runs.json
+            /tmp/runs_status.txt
+          if-no-files-found: error
