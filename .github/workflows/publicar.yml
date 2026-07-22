@@ -1,4 +1,4 @@
-name: Publicar manual
+name: Publicar manual web
 
 on:
   push:
@@ -7,6 +7,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: publicar-manual-web
+  cancel-in-progress: true
 
 jobs:
   publicar:
@@ -18,10 +22,13 @@ jobs:
       - name: Instalar Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Publicar edición web
+      - name: Renderizar edición web
+        run: quarto render --to html
+
+      - name: Publicar en GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
-          render: true
+          render: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
