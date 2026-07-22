@@ -33,7 +33,11 @@ book:
     - part: "Registro de clases"
       chapters:
         - 08-registro-clases/indice.qmd
-    - 09-apendices/tablas-rapidas.qmd
+        - 08-registro-clases/2026-07-22.qmd
+    - part: "Apéndices"
+      chapters:
+        - 09-apendices/tablas-rapidas.qmd
+        - 09-apendices/recursos.qmd
 
 format:
   html:
