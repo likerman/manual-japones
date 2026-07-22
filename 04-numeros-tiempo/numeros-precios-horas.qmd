@@ -2,7 +2,7 @@
 title: "Números, precios y horas"
 ---
 
-# Números básicos
+## Números básicos
 
 | Número | Japonés | Romaji |
 |---:|---|---|
@@ -18,7 +18,7 @@ title: "Números, precios y horas"
 | 9 | きゅう / く | *kyū / ku* |
 | 10 | じゅう | *jū* |
 
-# Decenas
+## Decenas
 
 Las decenas se forman colocando el número antes de `じゅう` (*jū*).
 
@@ -35,7 +35,7 @@ Para agregar unidades, se coloca el número después de la decena:
 - 47: よんじゅう なな — *yonjū nana*.
 - 98: きゅうじゅう はち — *kyūjū hachi*.
 
-# Centenas y cambios fonéticos
+## Centenas y cambios fonéticos
 
 | Número | Japonés | Romaji |
 |---:|---|---|
@@ -51,7 +51,7 @@ Para agregar unidades, se coloca el número después de la decena:
 
 Los cambios importantes son 300, 600 y 800.
 
-# Miles y números grandes
+## Miles y números grandes
 
 | Número | Japonés | Romaji |
 |---:|---|---|
@@ -66,7 +66,7 @@ Los cambios importantes son 300, 600 y 800.
 > [!IMPORTANT]
 > El japonés agrupa los números grandes alrededor de `まん` (*man*), que equivale a 10.000. Por eso, un millón se expresa como cien unidades de diez mil: `ひゃくまん` (*hyakuman*).
 
-## Ejemplos trabajados
+### Ejemplos trabajados
 
 - 345: さんびゃく よんじゅう ご — *sanbyaku yonjū go*.
 - 608: ろっぴゃく はち — *roppyaku hachi*.
@@ -78,7 +78,7 @@ Los cambios importantes son 300, 600 y 800.
 - 8.335: はっせん さんびゃく さんじゅう ご — *hassen sanbyaku sanjū go*.
 - 9.999: きゅうせん きゅうひゃく きゅうじゅう きゅう — *kyūsen kyūhyaku kyūjū kyū*.
 
-# Precios
+## Precios
 
 La moneda japonesa se expresa con `円`, leído `えん` (*en*).
 
@@ -94,7 +94,7 @@ La moneda japonesa se expresa con `円`, leído `えん` (*en*).
 > **Romaji:** *Gosen yonhyaku nanajū ni-en desu.*  
 > **Español:** Cuesta 5.472 yenes.
 
-# Horas y minutos
+## Horas y minutos
 
 La hora se construye con el número seguido de `じ` (*ji*). Los minutos se expresan con `ふん / ぷん` (*fun / pun*) y presentan cambios fonéticos.
 
