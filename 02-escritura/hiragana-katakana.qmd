@@ -2,13 +2,13 @@
 title: "Hiragana y katakana"
 ---
 
-# Los dos silabarios
+## Los dos silabarios
 
 El **hiragana** se utiliza principalmente para palabras japonesas, terminaciones gramaticales y partículas. El **katakana** se utiliza con frecuencia para préstamos lingüísticos, nombres extranjeros y énfasis.
 
 Cada par de la tabla muestra primero hiragana y después katakana.
 
-# Tabla básica
+## Tabla básica
 
 | Serie | A | I | U | E | O |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@ La nasal final se escribe `ん` en hiragana y `ン` en katakana: *n*.
 > [!NOTE]
 > La tabla funciona como referencia general. El dominio de los caracteres se adquiere progresivamente mediante palabras y ejercicios de lectura.
 
-# Ejemplos en hiragana
+## Ejemplos en hiragana
 
 | Japonés | Romaji | Español |
 |---|---|---|
@@ -41,7 +41,7 @@ La nasal final se escribe `ん` en hiragana y `ン` en katakana: *n*.
 | よむ | *yomu* | leer |
 | もち | *mochi* | pastel de arroz |
 
-# Ejemplos en katakana
+## Ejemplos en katakana
 
 | Japonés | Romaji | Español |
 |---|---|---|
@@ -53,7 +53,7 @@ La nasal final se escribe `ん` en hiragana y `ン` en katakana: *n*.
 | カナダ | *Kanada* | Canadá |
 | ワット | *watto* | watt |
 
-# Nombres propios
+## Nombres propios
 
 Los nombres extranjeros suelen adaptarse al sistema fonético japonés y escribirse en katakana. La forma definitiva puede variar según la pronunciación que se quiera representar.
 
