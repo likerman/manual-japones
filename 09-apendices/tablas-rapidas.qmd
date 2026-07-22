@@ -1,0 +1,43 @@
+---
+title: "Tablas rápidas"
+---
+
+# Demostrativos
+
+| Cerca del hablante | Cerca del oyente | Lejos de ambos |
+|---|---|---|
+| これ (*kore*) | それ (*sore*) | あれ (*are*) |
+| ここ (*koko*) | そこ (*soko*) | あそこ (*asoko*) |
+| こちら (*kochira*) | そちら (*sochira*) | あちら (*achira*) |
+
+# Centenas irregulares
+
+- 300: さんびゃく — *sanbyaku*.
+- 600: ろっぴゃく — *roppyaku*.
+- 800: はっぴゃく — *happyaku*.
+
+# Miles irregulares
+
+- 3.000: さんぜん — *sanzen*.
+- 8.000: はっせん — *hassen*.
+
+# Combinaciones esenciales
+
+- きゃ・きゅ・きょ — *kya, kyu, kyo*.
+- しゃ・しゅ・しょ — *sha, shu, sho*.
+- ちゃ・ちゅ・ちょ — *cha, chu, cho*.
+- じゃ・じゅ・じょ — *ja, ju, jo*.
+
+# Modelos de consulta
+
+> これは なんですか。  
+> *Kore wa nan desu ka.*  
+> ¿Qué es esto?
+
+> これは いくらですか。  
+> *Kore wa ikura desu ka.*  
+> ¿Cuánto cuesta esto?
+
+> ここは どこですか。  
+> *Koko wa doko desu ka.*  
+> ¿Dónde es aquí? / ¿Qué lugar es este?
