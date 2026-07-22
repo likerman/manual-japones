@@ -1,12 +1,10 @@
 ---
-title: "Inicio"
+title: "Cómo usar este manual"
 ---
-
-# Manual de japonés
 
 Este manual organiza de manera temática y cronológica los contenidos estudiados en las clases de japonés.
 
-## Cómo usarlo
+## Recorridos de consulta
 
 El material tiene dos recorridos complementarios:
 

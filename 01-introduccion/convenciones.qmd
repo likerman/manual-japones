@@ -2,7 +2,7 @@
 title: "Convenciones del manual"
 ---
 
-# Escritura y lectura
+## Escritura y lectura
 
 Cada entrada nueva debe incluir, siempre que corresponda:
 
@@ -11,7 +11,7 @@ Cada entrada nueva debe incluir, siempre que corresponda:
 3. romaji;
 4. traducción al español.
 
-# Romaji
+## Romaji
 
 El manual utiliza una romanización consistente con macrones para indicar vocales largas:
 
@@ -26,7 +26,7 @@ En los apuntes originales de clase puede aparecer también la forma sin macrón:
 
 Ambas permiten reconocer la palabra, pero en el cuerpo principal del manual se prefiere el macrón.
 
-# Partículas
+## Partículas
 
 La partícula `は` se escribe con el kana *ha*, pero se pronuncia y romaniza *wa* cuando marca el tema de la oración.
 
@@ -34,7 +34,7 @@ La partícula `は` se escribe con el kana *ha*, pero se pronuncia y romaniza *w
 > **Romaji:** *Watashi wa Heremiasu desu.*  
 > **Español:** Yo soy Jeremías.
 
-# Formato de los ejemplos
+## Formato de los ejemplos
 
 Los modelos completos se presentan así:
 
@@ -43,7 +43,7 @@ Los modelos completos se presentan así:
 > **Español:** Esto es un libro.  
 > **Estructura:** `これ + は + ほん + です`
 
-# Criterio pedagógico
+## Criterio pedagógico
 
 Los ejemplos y ejercicios deben usar vocabulario y estructuras ya estudiadas. Toda incorporación adicional debe marcarse de manera explícita y no debe confundirse con contenido ya aprendido.
 

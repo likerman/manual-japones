@@ -2,7 +2,7 @@
 title: "Ejercicios"
 ---
 
-# 1. Lectura y romaji
+## 1. Lectura y romaji
 
 Escribí cada palabra en romaji y traducila al español:
 
@@ -17,7 +17,7 @@ Escribí cada palabra en romaji y traducila al español:
 9. ボールペン
 10. おきゃくさま
 
-# 2. Traducción al español
+## 2. Traducción al español
 
 1. これは ほんです。
 2. これは なんですか。
@@ -28,7 +28,7 @@ Escribí cada palabra en romaji y traducila al español:
 7. アルゼンチンから きました。
 8. さんびゃくえんです。
 
-# 3. Completar partículas y formas
+## 3. Completar partículas y formas
 
 Completá con `は`, `か`, `です` o `じゃありません`:
 
@@ -39,7 +39,7 @@ Completá con `は`, `か`, `です` o `じゃありません`:
 5. これは じしょ ___。
 6. これ ___ なんですか。
 
-# 4. Números
+## 4. Números
 
 Escribí en japonés y romaji:
 
@@ -54,7 +54,7 @@ Escribí en japonés y romaji:
 9. 100.000
 10. 1.000.000
 
-# 5. Precios y horas
+## 5. Precios y horas
 
 Escribí en japonés y romaji:
 
@@ -63,7 +63,7 @@ Escribí en japonés y romaji:
 3. Son las siete y media de la tarde.
 4. Son las siete y treinta y seis de la tarde.
 
-# 6. Escritura
+## 6. Escritura
 
 Indicá qué fenómeno aparece en cada palabra: katakana, vocal larga o consonante doble. Puede haber más de uno.
 
@@ -74,7 +74,7 @@ Indicá qué fenómeno aparece en cada palabra: katakana, vocal larga o consonan
 5. ノート
 6. きょうしつ
 
-# 7. Producción
+## 7. Producción
 
 Construí con vocabulario estudiado:
 

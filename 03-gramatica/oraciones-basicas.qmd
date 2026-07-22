@@ -2,11 +2,11 @@
 title: "Oraciones básicas"
 ---
 
-# La cópula です
+## La cópula です
 
 `です` (*desu*) permite construir oraciones nominales corteses. En esta etapa puede entenderse aproximadamente como «ser» o «estar», aunque no funciona exactamente igual que esos verbos en español.
 
-## Modelo afirmativo
+### Modelo afirmativo
 
 **Estructura:** `A は B です。`
 
@@ -14,7 +14,7 @@ title: "Oraciones básicas"
 > **Romaji:** *Kore wa hon desu.*  
 > **Español:** Esto es un libro.
 
-# La partícula は
+## La partícula は
 
 La partícula `は` marca el tema de la oración. Se escribe *ha*, pero se pronuncia *wa* cuando funciona como partícula.
 
@@ -24,7 +24,7 @@ La partícula `は` marca el tema de la oración. Se escribe *ha*, pero se pronu
 
 En japonés, el pronombre puede omitirse cuando el contexto deja claro quién es el tema.
 
-# La partícula か
+## La partícula か
 
 La partícula `か` (*ka*) colocada al final transforma una oración cortés en una pregunta.
 
@@ -34,10 +34,11 @@ La partícula `か` (*ka*) colocada al final transforma una oración cortés en 
 > **Romaji:** *Anata wa Kankoku-jin desu ka.*  
 > **Español:** ¿Usted es coreano/a?
 
-> [!NOTE]
-> En japonés no es necesario agregar un signo de interrogación cuando la oración termina en `か`, aunque puede aparecer en escritura informal.
+::: {.callout-note}
+En japonés no es necesario agregar un signo de interrogación cuando la oración termina en `か`, aunque puede aparecer en escritura informal.
+:::
 
-# Negación
+## Negación
 
 En las primeras clases se utilizó la forma cortés `じゃありません` (*ja arimasen*).
 
@@ -47,7 +48,7 @@ En las primeras clases se utilizó la forma cortés `じゃありません` (*ja
 > **Romaji:** *Watashi wa Nihon-jin ja arimasen.*  
 > **Español:** Yo no soy japonés.
 
-# Procedencia con から きました
+## Procedencia con から きました
 
 `から` (*kara*) marca el punto de origen y `きました` (*kimashita*) significa «vine» en forma cortés.
 
@@ -55,13 +56,13 @@ En las primeras clases se utilizó la forma cortés `じゃありません` (*ja
 > **Romaji:** *Aruzenchin kara kimashita.*  
 > **Español:** Vengo de Argentina.
 
-# Presentación inicial
+## Presentación inicial
 
 > **Japonés:** はじめまして。ヘレミアスです。アルゼンチンから きました。  
 > **Romaji:** *Hajimemashite. Heremiasu desu. Aruzenchin kara kimashita.*  
 > **Español:** Mucho gusto. Soy Jeremías. Vengo de Argentina.
 
-# Sufijos honoríficos estudiados
+## Sufijos honoríficos estudiados
 
 | Sufijo | Romaji | Uso inicial |
 |---|---|---|

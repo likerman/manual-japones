@@ -45,7 +45,15 @@ format:
   pdf:
     documentclass: scrreprt
     pdf-engine: lualatex
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - top=25mm
+      - bottom=25mm
+      - left=24mm
+      - right=24mm
     toc: true
+    toc-depth: 2
     number-sections: true
     keep-tex: false
     include-in-header:

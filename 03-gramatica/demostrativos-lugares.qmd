@@ -2,7 +2,7 @@
 title: "Demostrativos y lugares"
 ---
 
-# Pronombres demostrativos
+## Pronombres demostrativos
 
 | Japonés | Romaji | Español |
 |---|---|---|
@@ -15,7 +15,7 @@ title: "Demostrativos y lugares"
 > **Romaji:** *Kore wa nan desu ka.*  
 > **Español:** ¿Qué es esto?
 
-# Expresiones de lugar
+## Expresiones de lugar
 
 | Japonés | Romaji | Español |
 |---|---|---|
@@ -23,7 +23,7 @@ title: "Demostrativos y lugares"
 | そこ / そちら | *soko / sochira* | ahí / por ahí |
 | あそこ / あちら | *asoko / achira* | allí / por allí |
 
-## Lugares estudiados
+### Lugares estudiados
 
 | Japonés | Romaji | Español |
 |---|---|---|

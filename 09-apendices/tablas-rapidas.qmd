@@ -2,7 +2,7 @@
 title: "Tablas rápidas"
 ---
 
-# Demostrativos
+## Demostrativos
 
 | Cerca del hablante | Cerca del oyente | Lejos de ambos |
 |---|---|---|
@@ -10,51 +10,51 @@ title: "Tablas rápidas"
 | ここ (*koko*) | そこ (*soko*) | あそこ (*asoko*) |
 | こちら (*kochira*) | そちら (*sochira*) | あちら (*achira*) |
 
-# Centenas irregulares
+## Centenas irregulares
 
 - 300: さんびゃく — *sanbyaku*.
 - 600: ろっぴゃく — *roppyaku*.
 - 800: はっぴゃく — *happyaku*.
 
-# Miles irregulares
+## Miles irregulares
 
 - 3.000: さんぜん — *sanzen*.
 - 8.000: はっせん — *hassen*.
 
-# Combinaciones esenciales
+## Combinaciones esenciales
 
 - きゃ・きゅ・きょ — *kya, kyu, kyo*.
 - しゃ・しゅ・しょ — *sha, shu, sho*.
 - ちゃ・ちゅ・ちょ — *cha, chu, cho*.
 - じゃ・じゅ・じょ — *ja, ju, jo*.
 
-# Modelos de oración
+## Modelos de oración
 
-## Afirmación
+### Afirmación
 
 > **Japonés:** これは ほんです。  
 > **Romaji:** *Kore wa hon desu.*  
 > **Español:** Esto es un libro.
 
-## Pregunta
+### Pregunta
 
 > **Japonés:** これは なんですか。  
 > **Romaji:** *Kore wa nan desu ka.*  
 > **Español:** ¿Qué es esto?
 
-## Negación
+### Negación
 
 > **Japonés:** これは じしょじゃありません。  
 > **Romaji:** *Kore wa jisho ja arimasen.*  
 > **Español:** Esto no es un diccionario.
 
-## Precio
+### Precio
 
 > **Japonés:** これは いくらですか。  
 > **Romaji:** *Kore wa ikura desu ka.*  
 > **Español:** ¿Cuánto cuesta esto?
 
-## Lugar
+### Lugar
 
 > **Japonés:** ここは きょうしつです。  
 > **Romaji:** *Koko wa kyōshitsu desu.*  

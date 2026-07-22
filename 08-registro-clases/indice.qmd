@@ -2,13 +2,13 @@
 title: "Registro de clases"
 ---
 
-# Finalidad del registro
+## Finalidad del registro
 
 Esta cronología conserva el orden en que se incorporaron los contenidos. Los conceptos se desarrollan en los capítulos temáticos; aquí se documenta cuándo aparecieron y qué se practicó.
 
-# Clases registradas
+## Clases registradas
 
-## 29 de mayo de 2026
+### 29 de mayo de 2026
 
 **Temas principales**
 
@@ -29,7 +29,7 @@ Esta cronología conserva el orden en que se incorporaron los contenidos. Los co
 > **Romaji:** *Watashi wa Aruzenchin-jin desu.*  
 > **Español:** Soy argentino.
 
-## 1 de junio de 2026
+### 1 de junio de 2026
 
 **Temas principales**
 
@@ -46,7 +46,7 @@ Esta cronología conserva el orden en que se incorporaron los contenidos. Los co
 > **Romaji:** *Kore wa hon desu.*  
 > **Español:** Esto es un libro.
 
-## 3 de junio de 2026
+### 3 de junio de 2026
 
 **Temas principales**
 
@@ -62,7 +62,7 @@ Esta cronología conserva el orden en que se incorporaron los contenidos. Los co
 > **Romaji:** *Koko wa kyōshitsu desu.*  
 > **Español:** Aquí está el aula / Esto es un aula.
 
-## 8 de junio de 2026
+### 8 de junio de 2026
 
 **Temas principales**
 
@@ -78,7 +78,7 @@ Esta cronología conserva el orden en que se incorporaron los contenidos. Los co
 > **Romaji:** *Kore wa ikura desu ka.*  
 > **Español:** ¿Cuánto cuesta esto?
 
-## 10 de junio de 2026
+### 10 de junio de 2026
 
 **Temas principales**
 
@@ -97,7 +97,7 @@ Esta cronología conserva el orden en que se incorporaron los contenidos. Los co
 | べんきょうします | *benkyō shimasu* | estudiar |
 | とうきょう | *Tōkyō* | Tokio |
 
-## 17 de julio de 2026
+### 17 de julio de 2026
 
 **Temas principales**
 
@@ -118,7 +118,7 @@ Esta cronología conserva el orden en que se incorporaron los contenidos. Los co
 | ワット | *watto* | watt | consonante doble en katakana |
 | ヘレミアス | *Heremiasu* | Jeremías | nombre propio practicado |
 
-# Procedimiento de actualización
+## Procedimiento de actualización
 
 Después de cada clase se debe:
 

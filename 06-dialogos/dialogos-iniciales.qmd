@@ -2,7 +2,7 @@
 title: "Diálogos iniciales"
 ---
 
-# Presentación personal
+## Presentación personal
 
 **A:** はじめまして。  
 *Hajimemashite.*  
@@ -20,7 +20,7 @@ Encantado/a.
 *Kochira koso.*  
 Igualmente.
 
-# Identificar un objeto
+## Identificar un objeto
 
 **A:** これは なんですか。  
 *Kore wa nan desu ka.*  
@@ -30,7 +30,7 @@ Igualmente.
 *Kore wa hon desu.*  
 Esto es un libro.
 
-# Preguntar el precio
+## Preguntar el precio
 
 **A:** これは いくらですか。  
 *Kore wa ikura desu ka.*  
@@ -40,7 +40,7 @@ Esto es un libro.
 *Kyūhyaku gojū-en desu.*  
 Cuesta 950 yenes.
 
-# Confirmar un lugar
+## Confirmar un lugar
 
 **A:** ここは きょうしつですか。  
 *Koko wa kyōshitsu desu ka.*  
@@ -50,5 +50,6 @@ Cuesta 950 yenes.
 *Koko wa kyōshitsu desu.*  
 Esto es un aula.
 
-> [!IMPORTANT]
-> Estos diálogos reutilizan solamente estructuras ya registradas: `です`, `は`, `か`, `から きました`, demostrativos, lugares y precios.
+::: {.callout-important}
+Estos diálogos reutilizan solamente estructuras ya registradas: `です`, `は`, `か`, `から きました`, demostrativos, lugares y precios.
+:::

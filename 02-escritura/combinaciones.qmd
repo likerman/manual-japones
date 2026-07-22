@@ -2,7 +2,7 @@
 title: "Combinaciones y consonante doble"
 ---
 
-# Sonidos combinados
+## Sonidos combinados
 
 Las sílabas terminadas en `i` pueden combinarse con una versión pequeña de や, ゆ o よ.
 
