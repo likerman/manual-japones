@@ -2,21 +2,29 @@
 title: "Respuestas"
 ---
 
-# 1. Lectura
+# 1. Lectura y romaji
 
-1. *zasshi* — revista.
-2. *kyōshitsu* — aula.
-3. *kaisha* — empresa.
-4. *Aruzenchin* — Argentina.
-5. *sūpā* — supermercado.
+1. ざっし — *zasshi* — revista.
+2. きょうしつ — *kyōshitsu* — aula.
+3. かいしゃ — *kaisha* — empresa.
+4. がっこう — *gakkō* — escuela / colegio.
+5. べんきょうします — *benkyō shimasu* — estudiar.
+6. アルゼンチン — *Aruzenchin* — Argentina.
+7. スーパー — *sūpā* — supermercado.
+8. ワット — *watto* — watt.
+9. ボールペン — *bōrupen* — lapicera.
+10. おきゃくさま — *okyakusama* — cliente / huésped, honorífico.
 
 # 2. Traducción
 
 1. Esto es un libro.
 2. ¿Qué es esto?
-3. Yo soy argentino.
+3. Soy argentino.
 4. Aquí está el aula / Esto es un aula.
 5. ¿Cuánto cuesta esto?
+6. Esto no es un diccionario.
+7. Vengo de Argentina.
+8. Cuesta 300 yenes.
 
 # 3. Completar
 
@@ -24,12 +32,44 @@ title: "Respuestas"
 2. あなたは にほんじんです **か**。
 3. わたしは ヘレミアス **です**。
 4. ここ **は** だいがくです。
+5. これは じしょ **じゃありません**。
+6. これ **は** なんですか。
 
 # 4. Números
 
 1. さんびゃく よんじゅう ご — *sanbyaku yonjū go*.
 2. ろっぴゃく はち — *roppyaku hachi*.
-3. にせん にひゃく さんじゅう — *nisen nihyaku sanjū*.
-4. はっせん さんびゃく さんじゅう ご — *hassen sanbyaku sanjū go*.
-5. いちまん — *ichiman*.
-6. ひゃくまん — *hyakuman*.
+3. ななひゃく じゅう よん — *nanahyaku jū yon*.
+4. きゅうひゃく よんじゅう なな — *kyūhyaku yonjū nana*.
+5. にせん にひゃく さんじゅう — *nisen nihyaku sanjū*.
+6. ごせん よんひゃく ななじゅう に — *gosen yonhyaku nanajū ni*.
+7. はっせん さんびゃく さんじゅう ご — *hassen sanbyaku sanjū go*.
+8. いちまん — *ichiman*.
+9. じゅうまん — *jūman*.
+10. ひゃくまん — *hyakuman*.
+
+# 5. Precios y horas
+
+1. さんびゃくえんです。— *Sanbyaku-en desu.*
+2. ごせん よんひゃく ななじゅう にえんです。— *Gosen yonhyaku nanajū ni-en desu.*
+3. ごご しちじ はんです。— *Gogo shichiji han desu.*
+4. ごご しちじ さんじゅうろっぷんです。— *Gogo shichiji sanjūroppun desu.*
+
+# 6. Escritura
+
+1. スーパー: katakana y vocal larga.
+2. ざっし: consonante doble en hiragana.
+3. ワット: katakana y consonante doble.
+4. がっこう: consonante doble y vocal larga.
+5. ノート: katakana y vocal larga.
+6. きょうしつ: combinación con `ょ` pequeña y vocal larga.
+
+# 7. Producción
+
+Las respuestas pueden variar. Modelos posibles:
+
+1. **Afirmativa:** これは ほんです。— *Kore wa hon desu.* — Esto es un libro.
+2. **Negativa:** これは じしょじゃありません。— *Kore wa jisho ja arimasen.* — Esto no es un diccionario.
+3. **Pregunta:** これは なんですか。— *Kore wa nan desu ka.* — ¿Qué es esto?
+4. **Precio:** これは いくらですか。— *Kore wa ikura desu ka.* — ¿Cuánto cuesta esto?
+5. **Procedencia:** アルゼンチンから きました。— *Aruzenchin kara kimashita.* — Vengo de Argentina.
