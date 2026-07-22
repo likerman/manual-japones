@@ -1,0 +1,21 @@
+body {
+  line-height: 1.65;
+}
+
+.japanese,
+[lang="ja"] {
+  font-size: 1.08em;
+}
+
+blockquote {
+  border-left-width: 0.3rem;
+  padding-left: 1rem;
+}
+
+table {
+  font-size: 0.96rem;
+}
+
+.sidebar-title {
+  font-weight: 700;
+}
