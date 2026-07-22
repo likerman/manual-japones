@@ -37,9 +37,6 @@ jobs:
         with:
           tinytex: true
 
-      - name: Instalar paquetes LaTeX japoneses
-        run: tlmgr install koma-script luatexja
-
       - name: Generar edición PDF
         run: quarto render --to pdf
 
