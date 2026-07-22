@@ -1,3 +1,4 @@
+# Publicación automática del manual mediante GitHub Pages
 name: Publicar manual web
 
 on:
