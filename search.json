@@ -1,0 +1,816 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Manual de japonés",
+    "section": "",
+    "text": "0.1 Recorridos de consulta\nEste manual organiza de manera temática y cronológica los contenidos estudiados en las clases de japonés.\nDescargar la edición PDF del manual\nEl material tiene dos recorridos complementarios:",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cómo usar este manual</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#recorridos-de-consulta",
+    "href": "index.html#recorridos-de-consulta",
+    "title": "Manual de japonés",
+    "section": "",
+    "text": "Recorrido temático: escritura, gramática, números, vocabulario, diálogos y ejercicios.\nRecorrido cronológico: registro de los contenidos incorporados en cada clase.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cómo usar este manual</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#convención-principal",
+    "href": "index.html#convención-principal",
+    "title": "Manual de japonés",
+    "section": "0.2 Convención principal",
+    "text": "0.2 Convención principal\nToda palabra u oración nueva se presenta, siempre que corresponda, en cuatro niveles:\n\nJaponés: これは ほんです。\nKana: これは ほんです。\nRomaji: Kore wa hon desu.\nEspañol: Esto es un libro.\n\nCuando la forma japonesa ya está completamente escrita en kana, las dos primeras líneas coinciden y se muestra solamente una.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cómo usar este manual</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#contenido-de-la-versión-0.2",
+    "href": "index.html#contenido-de-la-versión-0.2",
+    "title": "Manual de japonés",
+    "section": "0.3 Contenido de la versión 0.2",
+    "text": "0.3 Contenido de la versión 0.2\nLa versión actual reúne los temas trabajados entre mayo y julio de 2026:\n\nsaludos y presentación personal;\npronombres y nacionalidades;\npartículas は y か;\nformas afirmativas, negativas e interrogativas;\nprocedencia con から きました;\ndemostrativos y expresiones de lugar;\nvocabulario de objetos, lugares, personas, alimentos y países;\nnúmeros, centenas, miles, diez mil y millón;\nprecios, horas y minutos;\ntabla básica de hiragana y katakana;\ncombinaciones fonéticas y consonante doble;\ndiálogos y ejercicios acumulativos;\nglosario estructurado con 80 entradas iniciales.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cómo usar este manual</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#actualización-progresiva",
+    "href": "index.html#actualización-progresiva",
+    "title": "Manual de japonés",
+    "section": "0.4 Actualización progresiva",
+    "text": "0.4 Actualización progresiva\nDespués de cada nueva clase se incorporarán:\n\nuna ficha cronológica;\nlos conceptos nuevos en su capítulo temático;\nlas palabras nuevas en el glosario;\nejercicios y respuestas de repaso.\n\nEl objetivo no es anticipar el curso sino consolidar, ordenar y hacer consultable lo que efectivamente se vaya aprendiendo.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cómo usar este manual</span>"
+    ]
+  },
+  {
+    "objectID": "01-introduccion/convenciones.html",
+    "href": "01-introduccion/convenciones.html",
+    "title": "2  Convenciones del manual",
+    "section": "",
+    "text": "2.1 Escritura y lectura\nCada entrada nueva debe incluir, siempre que corresponda:",
+    "crumbs": [
+      "Fundamentos",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Convenciones del manual</span>"
+    ]
+  },
+  {
+    "objectID": "01-introduccion/convenciones.html#escritura-y-lectura",
+    "href": "01-introduccion/convenciones.html#escritura-y-lectura",
+    "title": "2  Convenciones del manual",
+    "section": "",
+    "text": "japonés;\nlectura en kana cuando haya kanji;\nromaji;\ntraducción al español.",
+    "crumbs": [
+      "Fundamentos",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Convenciones del manual</span>"
+    ]
+  },
+  {
+    "objectID": "01-introduccion/convenciones.html#romaji",
+    "href": "01-introduccion/convenciones.html#romaji",
+    "title": "2  Convenciones del manual",
+    "section": "2.2 Romaji",
+    "text": "2.2 Romaji\nEl manual utiliza una romanización consistente con macrones para indicar vocales largas:\n\nきょうしつ — kyōshitsu — aula;\nとうきょう — Tōkyō — Tokio;\nスーパー — sūpā — supermercado.\n\nEn los apuntes originales de clase puede aparecer también la forma sin macrón:\n\nkyoushitsu en lugar de kyōshitsu;\nToukyou en lugar de Tōkyō.\n\nAmbas permiten reconocer la palabra, pero en el cuerpo principal del manual se prefiere el macrón.",
+    "crumbs": [
+      "Fundamentos",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Convenciones del manual</span>"
+    ]
+  },
+  {
+    "objectID": "01-introduccion/convenciones.html#partículas",
+    "href": "01-introduccion/convenciones.html#partículas",
+    "title": "2  Convenciones del manual",
+    "section": "2.3 Partículas",
+    "text": "2.3 Partículas\nLa partícula は se escribe con el kana ha, pero se pronuncia y romaniza wa cuando marca el tema de la oración.\n\nJaponés: わたしは ヘレミアスです。\nRomaji: Watashi wa Heremiasu desu.\nEspañol: Yo soy Jeremías.",
+    "crumbs": [
+      "Fundamentos",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Convenciones del manual</span>"
+    ]
+  },
+  {
+    "objectID": "01-introduccion/convenciones.html#formato-de-los-ejemplos",
+    "href": "01-introduccion/convenciones.html#formato-de-los-ejemplos",
+    "title": "2  Convenciones del manual",
+    "section": "2.4 Formato de los ejemplos",
+    "text": "2.4 Formato de los ejemplos\nLos modelos completos se presentan así:\n\nJaponés: これは ほんです。\nRomaji: Kore wa hon desu.\nEspañol: Esto es un libro.\nEstructura: これ + は + ほん + です",
+    "crumbs": [
+      "Fundamentos",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Convenciones del manual</span>"
+    ]
+  },
+  {
+    "objectID": "01-introduccion/convenciones.html#criterio-pedagógico",
+    "href": "01-introduccion/convenciones.html#criterio-pedagógico",
+    "title": "2  Convenciones del manual",
+    "section": "2.5 Criterio pedagógico",
+    "text": "2.5 Criterio pedagógico\nLos ejemplos y ejercicios deben usar vocabulario y estructuras ya estudiadas. Toda incorporación adicional debe marcarse de manera explícita y no debe confundirse con contenido ya aprendido.\nLas dudas sobre nombres propios, pronunciación o traducción deben conservarse como pendientes hasta verificarlas con el docente.",
+    "crumbs": [
+      "Fundamentos",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Convenciones del manual</span>"
+    ]
+  },
+  {
+    "objectID": "02-escritura/hiragana-katakana.html",
+    "href": "02-escritura/hiragana-katakana.html",
+    "title": "3  Hiragana y katakana",
+    "section": "",
+    "text": "3.1 Los dos silabarios\nEl hiragana se utiliza principalmente para palabras japonesas, terminaciones gramaticales y partículas. El katakana se utiliza con frecuencia para préstamos lingüísticos, nombres extranjeros y énfasis.\nCada par de la tabla muestra primero hiragana y después katakana.",
+    "crumbs": [
+      "Fundamentos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Hiragana y katakana</span>"
+    ]
+  },
+  {
+    "objectID": "02-escritura/hiragana-katakana.html#tabla-básica",
+    "href": "02-escritura/hiragana-katakana.html#tabla-básica",
+    "title": "3  Hiragana y katakana",
+    "section": "3.2 Tabla básica",
+    "text": "3.2 Tabla básica\n\n\n\n\n\n\n\n\n\n\n\nSerie\nA\nI\nU\nE\nO\n\n\n\n\nVocales\nあ / ア — a\nい / イ — i\nう / ウ — u\nえ / エ — e\nお / オ — o\n\n\nK\nか / カ — ka\nき / キ — ki\nく / ク — ku\nけ / ケ — ke\nこ / コ — ko\n\n\nS\nさ / サ — sa\nし / シ — shi\nす / ス — su\nせ / セ — se\nそ / ソ — so\n\n\nT\nた / タ — ta\nち / チ — chi\nつ / ツ — tsu\nて / テ — te\nと / ト — to\n\n\nN\nな / ナ — na\nに / ニ — ni\nぬ / ヌ — nu\nね / ネ — ne\nの / ノ — no\n\n\nH\nは / ハ — ha\nひ / ヒ — hi\nふ / フ — fu\nへ / ヘ — he\nほ / ホ — ho\n\n\nM\nま / マ — ma\nみ / ミ — mi\nむ / ム — mu\nめ / メ — me\nも / モ — mo\n\n\nY\nや / ヤ — ya\n—\nゆ / ユ — yu\n—\nよ / ヨ — yo\n\n\nR\nら / ラ — ra\nり / リ — ri\nる / ル — ru\nれ / レ — re\nろ / ロ — ro\n\n\nW\nわ / ワ — wa\n—\n—\n—\nを / ヲ — o / wo\n\n\n\nLa nasal final se escribe ん en hiragana y ン en katakana: n.\n\n\n\n\n\n\nNota\n\n\n\nLa tabla funciona como referencia general. El dominio de los caracteres se adquiere progresivamente mediante palabras y ejercicios de lectura.",
+    "crumbs": [
+      "Fundamentos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Hiragana y katakana</span>"
+    ]
+  },
+  {
+    "objectID": "02-escritura/hiragana-katakana.html#ejemplos-en-hiragana",
+    "href": "02-escritura/hiragana-katakana.html#ejemplos-en-hiragana",
+    "title": "3  Hiragana y katakana",
+    "section": "3.3 Ejemplos en hiragana",
+    "text": "3.3 Ejemplos en hiragana\n\n\n\nJaponés\nRomaji\nEspañol\n\n\n\n\nはな\nhana\nflor / nariz, según contexto\n\n\nほん\nhon\nlibro\n\n\nはこ\nhako\ncaja\n\n\nみみ\nmimi\noreja\n\n\nむし\nmushi\ninsecto\n\n\nもも\nmomo\ndurazno / muslo, según contexto\n\n\nよむ\nyomu\nleer\n\n\nもち\nmochi\npastel de arroz",
+    "crumbs": [
+      "Fundamentos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Hiragana y katakana</span>"
+    ]
+  },
+  {
+    "objectID": "02-escritura/hiragana-katakana.html#ejemplos-en-katakana",
+    "href": "02-escritura/hiragana-katakana.html#ejemplos-en-katakana",
+    "title": "3  Hiragana y katakana",
+    "section": "3.4 Ejemplos en katakana",
+    "text": "3.4 Ejemplos en katakana\n\n\n\nJaponés\nRomaji\nEspañol\n\n\n\n\nパン\npan\npan\n\n\nスーパー\nsūpā\nsupermercado\n\n\nアルゼンチン\nAruzenchin\nArgentina\n\n\nドイツ\nDoitsu\nAlemania\n\n\nメキシコ\nMekishiko\nMéxico\n\n\nカナダ\nKanada\nCanadá\n\n\nワット\nwatto\nwatt",
+    "crumbs": [
+      "Fundamentos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Hiragana y katakana</span>"
+    ]
+  },
+  {
+    "objectID": "02-escritura/hiragana-katakana.html#nombres-propios",
+    "href": "02-escritura/hiragana-katakana.html#nombres-propios",
+    "title": "3  Hiragana y katakana",
+    "section": "3.5 Nombres propios",
+    "text": "3.5 Nombres propios\nLos nombres extranjeros suelen adaptarse al sistema fonético japonés y escribirse en katakana. La forma definitiva puede variar según la pronunciación que se quiera representar.\n\nヘレミアス — Heremiasu — Jeremías.\nアイメ — Aime — Aime.\n\n\n\n\n\n\n\nImportante\n\n\n\nLa transliteración de nombres propios debe revisarse con el docente porque puede haber más de una aproximación posible.",
+    "crumbs": [
+      "Fundamentos",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Hiragana y katakana</span>"
+    ]
+  },
+  {
+    "objectID": "02-escritura/combinaciones.html",
+    "href": "02-escritura/combinaciones.html",
+    "title": "4  Combinaciones y consonante doble",
+    "section": "",
+    "text": "4.1 Sonidos combinados\nLas sílabas terminadas en i pueden combinarse con una versión pequeña de や, ゆ o よ.",
+    "crumbs": [
+      "Fundamentos",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Combinaciones y consonante doble</span>"
+    ]
+  },
+  {
+    "objectID": "02-escritura/combinaciones.html#sonidos-combinados",
+    "href": "02-escritura/combinaciones.html#sonidos-combinados",
+    "title": "4  Combinaciones y consonante doble",
+    "section": "",
+    "text": "Japonés\nRomaji\n\n\n\n\nきゃ・きゅ・きょ\nkya, kyu, kyo\n\n\nしゃ・しゅ・しょ\nsha, shu, sho\n\n\nちゃ・ちゅ・ちょ\ncha, chu, cho\n\n\nにゃ・にゅ・にょ\nnya, nyu, nyo\n\n\nひゃ・ひゅ・ひょ\nhya, hyu, hyo\n\n\nみゃ・みゅ・みょ\nmya, myu, myo\n\n\nりゃ・りゅ・りょ\nrya, ryu, ryo\n\n\nぎゃ・ぎゅ・ぎょ\ngya, gyu, gyo\n\n\nじゃ・じゅ・じょ\nja, ju, jo\n\n\nびゃ・びゅ・びょ\nbya, byu, byo\n\n\nぴゃ・ぴゅ・ぴょ\npya, pyu, pyo",
+    "crumbs": [
+      "Fundamentos",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Combinaciones y consonante doble</span>"
+    ]
+  },
+  {
+    "objectID": "02-escritura/combinaciones.html#consonante-doble",
+    "href": "02-escritura/combinaciones.html#consonante-doble",
+    "title": "4  Combinaciones y consonante doble",
+    "section": "4.2 Consonante doble",
+    "text": "4.2 Consonante doble\nLa っ pequeña en hiragana y la ッ pequeña en katakana indican una pausa breve y la duplicación de la consonante siguiente.\n\n\n\nJaponés\nRomaji\nEspañol\n\n\n\n\nざっし\nzasshi\nrevista\n\n\nワット\nwatto\nwatt\n\n\n\nLa consonante doble no debe confundirse con una sílaba tsu completa:\n\nつ — tsu;\nっ — pausa y duplicación consonántica.",
+    "crumbs": [
+      "Fundamentos",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Combinaciones y consonante doble</span>"
+    ]
+  },
+  {
+    "objectID": "03-gramatica/oraciones-basicas.html",
+    "href": "03-gramatica/oraciones-basicas.html",
+    "title": "5  Oraciones básicas",
+    "section": "",
+    "text": "5.1 La cópula です\nです (desu) permite construir oraciones nominales corteses. En esta etapa puede entenderse aproximadamente como «ser» o «estar», aunque no funciona exactamente igual que esos verbos en español.",
+    "crumbs": [
+      "Gramática",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Oraciones básicas</span>"
+    ]
+  },
+  {
+    "objectID": "03-gramatica/oraciones-basicas.html#la-cópula-です",
+    "href": "03-gramatica/oraciones-basicas.html#la-cópula-です",
+    "title": "5  Oraciones básicas",
+    "section": "",
+    "text": "5.1.1 Modelo afirmativo\nEstructura: A は B です。\n\nJaponés: これは ほんです。\nRomaji: Kore wa hon desu.\nEspañol: Esto es un libro.",
+    "crumbs": [
+      "Gramática",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Oraciones básicas</span>"
+    ]
+  },
+  {
+    "objectID": "03-gramatica/oraciones-basicas.html#la-partícula-は",
+    "href": "03-gramatica/oraciones-basicas.html#la-partícula-は",
+    "title": "5  Oraciones básicas",
+    "section": "5.2 La partícula は",
+    "text": "5.2 La partícula は\nLa partícula は marca el tema de la oración. Se escribe ha, pero se pronuncia wa cuando funciona como partícula.\n\nJaponés: わたしは アルゼンチンじんです。\nRomaji: Watashi wa Aruzenchin-jin desu.\nEspañol: Soy argentino.\n\nEn japonés, el pronombre puede omitirse cuando el contexto deja claro quién es el tema.",
+    "crumbs": [
+      "Gramática",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Oraciones básicas</span>"
+    ]
+  },
+  {
+    "objectID": "03-gramatica/oraciones-basicas.html#la-partícula-か",
+    "href": "03-gramatica/oraciones-basicas.html#la-partícula-か",
+    "title": "5  Oraciones básicas",
+    "section": "5.3 La partícula か",
+    "text": "5.3 La partícula か\nLa partícula か (ka) colocada al final transforma una oración cortés en una pregunta.\nEstructura: A は B ですか。\n\nJaponés: あなたは かんこくじんですか。\nRomaji: Anata wa Kankoku-jin desu ka.\nEspañol: ¿Usted es coreano/a?\n\n\n\n\n\n\n\nNota\n\n\n\nEn japonés no es necesario agregar un signo de interrogación cuando la oración termina en か, aunque puede aparecer en escritura informal.",
+    "crumbs": [
+      "Gramática",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Oraciones básicas</span>"
+    ]
+  },
+  {
+    "objectID": "03-gramatica/oraciones-basicas.html#negación",
+    "href": "03-gramatica/oraciones-basicas.html#negación",
+    "title": "5  Oraciones básicas",
+    "section": "5.4 Negación",
+    "text": "5.4 Negación\nEn las primeras clases se utilizó la forma cortés じゃありません (ja arimasen).\nEstructura: A は B じゃありません。\n\nJaponés: わたしは にほんじんじゃありません。\nRomaji: Watashi wa Nihon-jin ja arimasen.\nEspañol: Yo no soy japonés.",
+    "crumbs": [
+      "Gramática",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Oraciones básicas</span>"
+    ]
+  },
+  {
+    "objectID": "03-gramatica/oraciones-basicas.html#procedencia-con-から-きました",
+    "href": "03-gramatica/oraciones-basicas.html#procedencia-con-から-きました",
+    "title": "5  Oraciones básicas",
+    "section": "5.5 Procedencia con から きました",
+    "text": "5.5 Procedencia con から きました\nから (kara) marca el punto de origen y きました (kimashita) significa «vine» en forma cortés.\n\nJaponés: アルゼンチンから きました。\nRomaji: Aruzenchin kara kimashita.\nEspañol: Vengo de Argentina.",
+    "crumbs": [
+      "Gramática",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Oraciones básicas</span>"
+    ]
+  },
+  {
+    "objectID": "03-gramatica/oraciones-basicas.html#presentación-inicial",
+    "href": "03-gramatica/oraciones-basicas.html#presentación-inicial",
+    "title": "5  Oraciones básicas",
+    "section": "5.6 Presentación inicial",
+    "text": "5.6 Presentación inicial\n\nJaponés: はじめまして。ヘレミアスです。アルゼンチンから きました。\nRomaji: Hajimemashite. Heremiasu desu. Aruzenchin kara kimashita.\nEspañol: Mucho gusto. Soy Jeremías. Vengo de Argentina.",
+    "crumbs": [
+      "Gramática",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Oraciones básicas</span>"
+    ]
+  },
+  {
+    "objectID": "03-gramatica/oraciones-basicas.html#sufijos-honoríficos-estudiados",
+    "href": "03-gramatica/oraciones-basicas.html#sufijos-honoríficos-estudiados",
+    "title": "5  Oraciones básicas",
+    "section": "5.7 Sufijos honoríficos estudiados",
+    "text": "5.7 Sufijos honoríficos estudiados\n\n\n\nSufijo\nRomaji\nUso inicial\n\n\n\n\nさん\nsan\ntratamiento cortés general\n\n\nちゃん\nchan\ntratamiento afectuoso o familiar\n\n\nさま\nsama\ntratamiento muy respetuoso\n\n\n\nEjemplo:\n\nJaponés: おきゃくさま\nRomaji: Okyakusama\nEspañol: cliente / huésped, en forma honorífica.",
+    "crumbs": [
+      "Gramática",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Oraciones básicas</span>"
+    ]
+  },
+  {
+    "objectID": "03-gramatica/demostrativos-lugares.html",
+    "href": "03-gramatica/demostrativos-lugares.html",
+    "title": "6  Demostrativos y lugares",
+    "section": "",
+    "text": "6.1 Pronombres demostrativos",
+    "crumbs": [
+      "Gramática",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Demostrativos y lugares</span>"
+    ]
+  },
+  {
+    "objectID": "03-gramatica/demostrativos-lugares.html#pronombres-demostrativos",
+    "href": "03-gramatica/demostrativos-lugares.html#pronombres-demostrativos",
+    "title": "6  Demostrativos y lugares",
+    "section": "",
+    "text": "Japonés\nRomaji\nEspañol\n\n\n\n\nこれ\nkore\nesto\n\n\nそれ\nsore\neso\n\n\nあれ\nare\naquello\n\n\nなん / なに\nnan / nani\nqué\n\n\n\n\nJaponés: これは なんですか。\nRomaji: Kore wa nan desu ka.\nEspañol: ¿Qué es esto?",
+    "crumbs": [
+      "Gramática",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Demostrativos y lugares</span>"
+    ]
+  },
+  {
+    "objectID": "03-gramatica/demostrativos-lugares.html#expresiones-de-lugar",
+    "href": "03-gramatica/demostrativos-lugares.html#expresiones-de-lugar",
+    "title": "6  Demostrativos y lugares",
+    "section": "6.2 Expresiones de lugar",
+    "text": "6.2 Expresiones de lugar\n\n\n\nJaponés\nRomaji\nEspañol\n\n\n\n\nここ / こちら\nkoko / kochira\naquí / por aquí\n\n\nそこ / そちら\nsoko / sochira\nahí / por ahí\n\n\nあそこ / あちら\nasoko / achira\nallí / por allí\n\n\n\n\n6.2.1 Lugares estudiados\n\n\n\nJaponés\nRomaji\nEspañol\n\n\n\n\nうけつけ\nuketsuke\nrecepción\n\n\nだいがく\ndaigaku\nuniversidad\n\n\nロビー\nrobī\nvestíbulo\n\n\nきょうしつ\nkyōshitsu\naula\n\n\nかいしゃ\nkaisha\nempresa\n\n\nじむしょ\njimusho\noficina\n\n\nしょくどう\nshokudō\ncomedor\n\n\nがっこう\ngakkō\nescuela\n\n\nちか\nchika\nsubsuelo\n\n\nおてあらい\notearai\nbaño, formal\n\n\nトイレ\ntoire\nbaño\n\n\n\n\nJaponés: ここは きょうしつです。\nRomaji: Koko wa kyōshitsu desu.\nEspañol: Aquí está el aula / Esto es un aula.",
+    "crumbs": [
+      "Gramática",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Demostrativos y lugares</span>"
+    ]
+  },
+  {
+    "objectID": "04-numeros-tiempo/numeros-precios-horas.html",
+    "href": "04-numeros-tiempo/numeros-precios-horas.html",
+    "title": "7  Números, precios y horas",
+    "section": "",
+    "text": "7.1 Números básicos",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Números, precios y horas</span>"
+    ]
+  },
+  {
+    "objectID": "04-numeros-tiempo/numeros-precios-horas.html#números-básicos",
+    "href": "04-numeros-tiempo/numeros-precios-horas.html#números-básicos",
+    "title": "7  Números, precios y horas",
+    "section": "",
+    "text": "Número\nJaponés\nRomaji\n\n\n\n\n0\nれい / ゼロ\nrei / zero\n\n\n1\nいち\nichi\n\n\n2\nに\nni\n\n\n3\nさん\nsan\n\n\n4\nよん / し\nyon / shi\n\n\n5\nご\ngo\n\n\n6\nろく\nroku\n\n\n7\nなな / しち\nnana / shichi\n\n\n8\nはち\nhachi\n\n\n9\nきゅう / く\nkyū / ku\n\n\n10\nじゅう\njū",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Números, precios y horas</span>"
+    ]
+  },
+  {
+    "objectID": "04-numeros-tiempo/numeros-precios-horas.html#decenas",
+    "href": "04-numeros-tiempo/numeros-precios-horas.html#decenas",
+    "title": "7  Números, precios y horas",
+    "section": "7.2 Decenas",
+    "text": "7.2 Decenas\nLas decenas se forman colocando el número antes de じゅう (jū).\n\n\n\nNúmero\nJaponés\nRomaji\n\n\n\n\n20\nにじゅう\nnijū\n\n\n30\nさんじゅう\nsanjū\n\n\n40\nよんじゅう\nyonjū\n\n\n90\nきゅうじゅう\nkyūjū\n\n\n\nPara agregar unidades, se coloca el número después de la decena:\n\n21: にじゅう いち — nijū ichi.\n47: よんじゅう なな — yonjū nana.\n98: きゅうじゅう はち — kyūjū hachi.",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Números, precios y horas</span>"
+    ]
+  },
+  {
+    "objectID": "04-numeros-tiempo/numeros-precios-horas.html#centenas-y-cambios-fonéticos",
+    "href": "04-numeros-tiempo/numeros-precios-horas.html#centenas-y-cambios-fonéticos",
+    "title": "7  Números, precios y horas",
+    "section": "7.3 Centenas y cambios fonéticos",
+    "text": "7.3 Centenas y cambios fonéticos\n\n\n\nNúmero\nJaponés\nRomaji\n\n\n\n\n100\nひゃく\nhyaku\n\n\n200\nにひゃく\nnihyaku\n\n\n300\nさんびゃく\nsanbyaku\n\n\n400\nよんひゃく\nyonhyaku\n\n\n500\nごひゃく\ngohyaku\n\n\n600\nろっぴゃく\nroppyaku\n\n\n700\nななひゃく\nnanahyaku\n\n\n800\nはっぴゃく\nhappyaku\n\n\n900\nきゅうひゃく\nkyūhyaku\n\n\n\nLos cambios importantes son 300, 600 y 800.",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Números, precios y horas</span>"
+    ]
+  },
+  {
+    "objectID": "04-numeros-tiempo/numeros-precios-horas.html#miles-y-números-grandes",
+    "href": "04-numeros-tiempo/numeros-precios-horas.html#miles-y-números-grandes",
+    "title": "7  Números, precios y horas",
+    "section": "7.4 Miles y números grandes",
+    "text": "7.4 Miles y números grandes\n\n\n\nNúmero\nJaponés\nRomaji\n\n\n\n\n1.000\nせん\nsen\n\n\n2.000\nにせん\nnisen\n\n\n3.000\nさんぜん\nsanzen\n\n\n8.000\nはっせん\nhassen\n\n\n10.000\nいちまん\nichiman\n\n\n100.000\nじゅうまん\njūman\n\n\n1.000.000\nひゃくまん\nhyakuman\n\n\n\n\n\n\n\n\n\nImportante\n\n\n\nEl japonés agrupa los números grandes alrededor de まん (man), que equivale a 10.000. Por eso, un millón se expresa como cien unidades de diez mil: ひゃくまん (hyakuman).\n\n\n\n7.4.1 Ejemplos trabajados\n\n345: さんびゃく よんじゅう ご — sanbyaku yonjū go.\n608: ろっぴゃく はち — roppyaku hachi.\n714: ななひゃく じゅう よん — nanahyaku jū yon.\n882: はっぴゃく はちじゅう に — happyaku hachijū ni.\n947: きゅうひゃく よんじゅう なな — kyūhyaku yonjū nana.\n2.230: にせん にひゃく さんじゅう — nisen nihyaku sanjū.\n5.472: ごせん よんひゃく ななじゅう に — gosen yonhyaku nanajū ni.\n8.335: はっせん さんびゃく さんじゅう ご — hassen sanbyaku sanjū go.\n9.999: きゅうせん きゅうひゃく きゅうじゅう きゅう — kyūsen kyūhyaku kyūjū kyū.",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Números, precios y horas</span>"
+    ]
+  },
+  {
+    "objectID": "04-numeros-tiempo/numeros-precios-horas.html#precios",
+    "href": "04-numeros-tiempo/numeros-precios-horas.html#precios",
+    "title": "7  Números, precios y horas",
+    "section": "7.5 Precios",
+    "text": "7.5 Precios\nLa moneda japonesa se expresa con 円, leído えん (en).\n\nJaponés: これは いくらですか。\nRomaji: Kore wa ikura desu ka.\nEspañol: ¿Cuánto cuesta esto?\n\n\nJaponés: さんびゃくえんです。\nRomaji: Sanbyaku-en desu.\nEspañol: Cuesta 300 yenes.\n\n\nJaponés: ごせん よんひゃく ななじゅう にえんです。\nRomaji: Gosen yonhyaku nanajū ni-en desu.\nEspañol: Cuesta 5.472 yenes.",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Números, precios y horas</span>"
+    ]
+  },
+  {
+    "objectID": "04-numeros-tiempo/numeros-precios-horas.html#horas-y-minutos",
+    "href": "04-numeros-tiempo/numeros-precios-horas.html#horas-y-minutos",
+    "title": "7  Números, precios y horas",
+    "section": "7.6 Horas y minutos",
+    "text": "7.6 Horas y minutos\nLa hora se construye con el número seguido de じ (ji). Los minutos se expresan con ふん / ぷん (fun / pun) y presentan cambios fonéticos.\nはん (han) significa «media» cuando se habla de la hora.\n\n\n\n\n\n\n\n\n\nHora\nJaponés\nRomaji\nEspañol\n\n\n\n\n19:30\nごご しちじ はん\ngogo shichiji han\nsiete y media de la tarde\n\n\n19:36\nごご しちじ さんじゅうろっぷん\ngogo shichiji sanjūroppun\nsiete y treinta y seis de la tarde\n\n\n\n\n\n\n\n\n\nNota\n\n\n\nごご (gogo) indica «p. m.». Sin esa expresión, しちじ puede interpretarse simplemente como «las siete» según el contexto.",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Números, precios y horas</span>"
+    ]
+  },
+  {
+    "objectID": "05-vocabulario/vocabulario-inicial.html",
+    "href": "05-vocabulario/vocabulario-inicial.html",
+    "title": "8  Vocabulario inicial",
+    "section": "",
+    "text": "8.1 Palabras funcionales y demostrativos\nEste capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuando una palabra puede escribirse con kanji, se muestra el kanji y, entre paréntesis, su lectura en kana.",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vocabulario inicial</span>"
+    ]
+  },
+  {
+    "objectID": "05-vocabulario/vocabulario-inicial.html#palabras-funcionales-y-demostrativos",
+    "href": "05-vocabulario/vocabulario-inicial.html#palabras-funcionales-y-demostrativos",
+    "title": "8  Vocabulario inicial",
+    "section": "",
+    "text": "Japonés\nRomaji\nEspañol\n\n\n\n\n元気（げんき）\ngenki\nbien; saludable\n\n\n何（なん）\nnan\nqué\n\n\nいくら\nikura\ncuánto; cuánto cuesta\n\n\nこれ\nkore\nesto\n\n\nそれ\nsore\neso\n\n\nあれ\nare\naquello\n\n\nここ\nkoko\naquí\n\n\nこちら\nkochira\naquí; este lado, cortés\n\n\nそこ\nsoko\nahí\n\n\nそちら\nsochira\nahí; ese lado, cortés\n\n\nあそこ\nasoko\nallá\n\n\nあちら\nachira\nallá; aquel lado, cortés",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vocabulario inicial</span>"
+    ]
+  },
+  {
+    "objectID": "05-vocabulario/vocabulario-inicial.html#lugares",
+    "href": "05-vocabulario/vocabulario-inicial.html#lugares",
+    "title": "8  Vocabulario inicial",
+    "section": "8.2 Lugares",
+    "text": "8.2 Lugares\n\n\n\nJaponés\nRomaji\nEspañol\n\n\n\n\n受付（うけつけ）\nuketsuke\nrecepción\n\n\n大学（だいがく）\ndaigaku\nuniversidad\n\n\nロビー\nrobī\nvestíbulo\n\n\n教室（きょうしつ）\nkyōshitsu\naula\n\n\n会社（かいしゃ）\nkaisha\nempresa\n\n\n事務所（じむしょ）\njimusho\noficina\n\n\n食堂（しょくどう）\nshokudō\ncomedor\n\n\n学校（がっこう）\ngakkō\nescuela; colegio\n\n\n地下（ちか）\nchika\nsubsuelo\n\n\nお手洗い（おてあらい）\notearai\nbaño, formal\n\n\nトイレ\ntoire\nbaño\n\n\nスーパー\nsūpā\nsupermercado",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vocabulario inicial</span>"
+    ]
+  },
+  {
+    "objectID": "05-vocabulario/vocabulario-inicial.html#objetos",
+    "href": "05-vocabulario/vocabulario-inicial.html#objetos",
+    "title": "8  Vocabulario inicial",
+    "section": "8.3 Objetos",
+    "text": "8.3 Objetos\n\n\n\nJaponés\nRomaji\nEspañol\n\n\n\n\n雑誌（ざっし）\nzasshi\nrevista\n\n\n辞書（じしょ）\njisho\ndiccionario\n\n\nノート\nnōto\ncuaderno\n\n\nテレビ\nterebi\ntelevisión\n\n\n手帳（てちょう）\ntechō\nagenda\n\n\n鍵（かぎ）\nkagi\nllave\n\n\n鞄（かばん）\nkaban\nbolso\n\n\n時計（とけい）\ntokei\nreloj\n\n\n椅子（いす）\nisu\nsilla\n\n\nカメラ\nkamera\ncámara\n\n\nシャープペンシル\nshāpu penshiru\nlápiz mecánico\n\n\n鉛筆（えんぴつ）\nenpitsu\nlápiz\n\n\nボールペン\nbōrupen\nlapicera\n\n\nラジオ\nrajio\nradio\n\n\n本（ほん）\nhon\nlibro\n\n\n電話（でんわ）\ndenwa\nteléfono\n\n\n箱（はこ）\nhako\ncaja\n\n\n判子（はんこ）\nhanko\nsello personal\n\n\n服（ふく）\nfuku\nropa",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vocabulario inicial</span>"
+    ]
+  },
+  {
+    "objectID": "05-vocabulario/vocabulario-inicial.html#personas-y-vínculos",
+    "href": "05-vocabulario/vocabulario-inicial.html#personas-y-vínculos",
+    "title": "8  Vocabulario inicial",
+    "section": "8.4 Personas y vínculos",
+    "text": "8.4 Personas y vínculos\n\n\n\nJaponés\nRomaji\nEspañol\n\n\n\n\n私（わたし）\nwatashi\nyo\n\n\nあなた\nanata\nusted; vos\n\n\n母（はは）\nhaha\nmi madre\n\n\n父（ちち）\nchichi\nmi padre\n\n\n課長（かちょう）\nkachō\njefe de sección\n\n\nお客様（おきゃくさま）\nokyakusama\ncliente; huésped, honorífico",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vocabulario inicial</span>"
+    ]
+  },
+  {
+    "objectID": "05-vocabulario/vocabulario-inicial.html#tiempo-y-acciones",
+    "href": "05-vocabulario/vocabulario-inicial.html#tiempo-y-acciones",
+    "title": "8  Vocabulario inicial",
+    "section": "8.5 Tiempo y acciones",
+    "text": "8.5 Tiempo y acciones\n\n\n\nJaponés\nRomaji\nEspañol\n\n\n\n\n今（いま）\nima\nahora\n\n\n明日（あした）\nashita\nmañana\n\n\n分（ふん）\nfun\nminuto; la pronunciación cambia según el número\n\n\n読む（よむ）\nyomu\nleer\n\n\n勉強します（べんきょうします）\nbenkyō shimasu\nestudiar\n\n\n低い（ひくい）\nhikui\nbajo\n\n\n遅い（おそい）\nosoi\nlento; tarde",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vocabulario inicial</span>"
+    ]
+  },
+  {
+    "objectID": "05-vocabulario/vocabulario-inicial.html#alimentos-cuerpo-y-naturaleza",
+    "href": "05-vocabulario/vocabulario-inicial.html#alimentos-cuerpo-y-naturaleza",
+    "title": "8  Vocabulario inicial",
+    "section": "8.6 Alimentos, cuerpo y naturaleza",
+    "text": "8.6 Alimentos, cuerpo y naturaleza\n\n\n\nJaponés\nRomaji\nEspañol\n\n\n\n\nお茶（おちゃ）\nocha\nté verde\n\n\nみかん\nmikan\nmandarina\n\n\n桃（もも）\nmomo\ndurazno\n\n\n餅（もち）\nmochi\npastel de arroz\n\n\nパン\npan\npan\n\n\n塩（しお）\nshio\nsal\n\n\n花（はな）\nhana\nflor\n\n\n浜（はま）\nhama\ncosta; playa\n\n\n耳（みみ）\nmimi\noreja; oído\n\n\n足（あし）\nashi\npie; pierna\n\n\n虫（むし）\nmushi\ninsecto",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vocabulario inicial</span>"
+    ]
+  },
+  {
+    "objectID": "05-vocabulario/vocabulario-inicial.html#países-ciudades-y-nombres",
+    "href": "05-vocabulario/vocabulario-inicial.html#países-ciudades-y-nombres",
+    "title": "8  Vocabulario inicial",
+    "section": "8.7 Países, ciudades y nombres",
+    "text": "8.7 Países, ciudades y nombres\n\n\n\nJaponés\nRomaji\nEspañol\n\n\n\n\n中国（ちゅうごく）\nChūgoku\nChina\n\n\n京都（きょうと）\nKyōto\nKioto\n\n\n東京（とうきょう）\nTōkyō\nTokio\n\n\nアルゼンチン\nAruzenchin\nArgentina\n\n\nドイツ\nDoitsu\nAlemania\n\n\nメキシコ\nMekishiko\nMéxico\n\n\nカナダ\nKanada\nCanadá\n\n\nヘレミアス\nHeremiasu\nJeremías\n\n\nアイメ\nAime\nAime",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vocabulario inicial</span>"
+    ]
+  },
+  {
+    "objectID": "05-vocabulario/vocabulario-inicial.html#préstamos-y-consonante-doble",
+    "href": "05-vocabulario/vocabulario-inicial.html#préstamos-y-consonante-doble",
+    "title": "8  Vocabulario inicial",
+    "section": "8.8 Préstamos y consonante doble",
+    "text": "8.8 Préstamos y consonante doble\n\n\n\n\n\n\n\n\n\nJaponés\nRomaji\nEspañol\nObservación\n\n\n\n\nワット\nwatto\nwatt\nッ duplica la consonante siguiente\n\n\n雑誌（ざっし）\nzasshi\nrevista\nっ produce el mismo efecto en hiragana\n\n\n学校（がっこう）\ngakkō\nescuela\nconsonante doble y vocal larga\n\n\n\n\n\n\n\n\n\nImportante\n\n\n\nEl archivo datos/vocabulario.csv es la base estructurada del glosario. Allí se registran también la categoría, la clase de origen y las observaciones de pronunciación o escritura.",
+    "crumbs": [
+      "Números y vocabulario",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Vocabulario inicial</span>"
+    ]
+  },
+  {
+    "objectID": "06-dialogos/dialogos-iniciales.html",
+    "href": "06-dialogos/dialogos-iniciales.html",
+    "title": "9  Diálogos iniciales",
+    "section": "",
+    "text": "9.1 Presentación personal\nA: はじめまして。\nHajimemashite.\nMucho gusto.\nB: はじめまして。ヘレミアスです。アルゼンチンから きました。\nHajimemashite. Heremiasu desu. Aruzenchin kara kimashita.\nMucho gusto. Soy Jeremías. Vengo de Argentina.\nA: どうぞ よろしく。\nDōzo yoroshiku.\nEncantado/a.\nB: こちらこそ。\nKochira koso.\nIgualmente.",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Diálogos iniciales</span>"
+    ]
+  },
+  {
+    "objectID": "06-dialogos/dialogos-iniciales.html#identificar-un-objeto",
+    "href": "06-dialogos/dialogos-iniciales.html#identificar-un-objeto",
+    "title": "9  Diálogos iniciales",
+    "section": "9.2 Identificar un objeto",
+    "text": "9.2 Identificar un objeto\nA: これは なんですか。\nKore wa nan desu ka.\n¿Qué es esto?\nB: これは ほんです。\nKore wa hon desu.\nEsto es un libro.",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Diálogos iniciales</span>"
+    ]
+  },
+  {
+    "objectID": "06-dialogos/dialogos-iniciales.html#preguntar-el-precio",
+    "href": "06-dialogos/dialogos-iniciales.html#preguntar-el-precio",
+    "title": "9  Diálogos iniciales",
+    "section": "9.3 Preguntar el precio",
+    "text": "9.3 Preguntar el precio\nA: これは いくらですか。\nKore wa ikura desu ka.\n¿Cuánto cuesta esto?\nB: きゅうひゃく ごじゅうえんです。\nKyūhyaku gojū-en desu.\nCuesta 950 yenes.",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Diálogos iniciales</span>"
+    ]
+  },
+  {
+    "objectID": "06-dialogos/dialogos-iniciales.html#confirmar-un-lugar",
+    "href": "06-dialogos/dialogos-iniciales.html#confirmar-un-lugar",
+    "title": "9  Diálogos iniciales",
+    "section": "9.4 Confirmar un lugar",
+    "text": "9.4 Confirmar un lugar\nA: ここは きょうしつですか。\nKoko wa kyōshitsu desu ka.\n¿Esto es un aula?\nB: ここは きょうしつです。\nKoko wa kyōshitsu desu.\nEsto es un aula.\n\n\n\n\n\n\nImportante\n\n\n\nEstos diálogos reutilizan solamente estructuras ya registradas: です, は, か, から きました, demostrativos, lugares y precios.",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Diálogos iniciales</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/ejercicios.html",
+    "href": "07-ejercicios/ejercicios.html",
+    "title": "10  Ejercicios",
+    "section": "",
+    "text": "10.1 1. Lectura y romaji\nEscribí cada palabra en romaji y traducila al español:",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Ejercicios</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/ejercicios.html#lectura-y-romaji",
+    "href": "07-ejercicios/ejercicios.html#lectura-y-romaji",
+    "title": "10  Ejercicios",
+    "section": "",
+    "text": "ざっし\nきょうしつ\nかいしゃ\nがっこう\nべんきょうします\nアルゼンチン\nスーパー\nワット\nボールペン\nおきゃくさま",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Ejercicios</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/ejercicios.html#traducción-al-español",
+    "href": "07-ejercicios/ejercicios.html#traducción-al-español",
+    "title": "10  Ejercicios",
+    "section": "10.2 2. Traducción al español",
+    "text": "10.2 2. Traducción al español\n\nこれは ほんです。\nこれは なんですか。\nわたしは アルゼンチンじんです。\nここは きょうしつです。\nこれは いくらですか。\nこれは じしょじゃありません。\nアルゼンチンから きました。\nさんびゃくえんです。",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Ejercicios</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/ejercicios.html#completar-partículas-y-formas",
+    "href": "07-ejercicios/ejercicios.html#completar-partículas-y-formas",
+    "title": "10  Ejercicios",
+    "section": "10.3 3. Completar partículas y formas",
+    "text": "10.3 3. Completar partículas y formas\nCompletá con は, か, です o じゃありません:\n\nこれ ___ ほんです。\nあなたは にほんじんです ___。\nわたしは ヘレミアス ___。\nここ ___ だいがくです。\nこれは じしょ ___。\nこれ ___ なんですか。",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Ejercicios</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/ejercicios.html#números",
+    "href": "07-ejercicios/ejercicios.html#números",
+    "title": "10  Ejercicios",
+    "section": "10.4 4. Números",
+    "text": "10.4 4. Números\nEscribí en japonés y romaji:\n\n345\n608\n714\n947\n2.230\n5.472\n8.335\n10.000\n100.000\n1.000.000",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Ejercicios</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/ejercicios.html#precios-y-horas",
+    "href": "07-ejercicios/ejercicios.html#precios-y-horas",
+    "title": "10  Ejercicios",
+    "section": "10.5 5. Precios y horas",
+    "text": "10.5 5. Precios y horas\nEscribí en japonés y romaji:\n\nCuesta 300 yenes.\nCuesta 5.472 yenes.\nSon las siete y media de la tarde.\nSon las siete y treinta y seis de la tarde.",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Ejercicios</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/ejercicios.html#escritura",
+    "href": "07-ejercicios/ejercicios.html#escritura",
+    "title": "10  Ejercicios",
+    "section": "10.6 6. Escritura",
+    "text": "10.6 6. Escritura\nIndicá qué fenómeno aparece en cada palabra: katakana, vocal larga o consonante doble. Puede haber más de uno.\n\nスーパー\nざっし\nワット\nがっこう\nノート\nきょうしつ",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Ejercicios</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/ejercicios.html#producción",
+    "href": "07-ejercicios/ejercicios.html#producción",
+    "title": "10  Ejercicios",
+    "section": "10.7 7. Producción",
+    "text": "10.7 7. Producción\nConstruí con vocabulario estudiado:\n\nuna oración afirmativa;\nuna oración negativa;\nuna pregunta sobre un objeto;\nuna pregunta por un precio;\nuna oración que indique procedencia.",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Ejercicios</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/respuestas.html",
+    "href": "07-ejercicios/respuestas.html",
+    "title": "11  Respuestas",
+    "section": "",
+    "text": "11.1 1. Lectura y romaji",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Respuestas</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/respuestas.html#lectura-y-romaji",
+    "href": "07-ejercicios/respuestas.html#lectura-y-romaji",
+    "title": "11  Respuestas",
+    "section": "",
+    "text": "ざっし — zasshi — revista.\nきょうしつ — kyōshitsu — aula.\nかいしゃ — kaisha — empresa.\nがっこう — gakkō — escuela / colegio.\nべんきょうします — benkyō shimasu — estudiar.\nアルゼンチン — Aruzenchin — Argentina.\nスーパー — sūpā — supermercado.\nワット — watto — watt.\nボールペン — bōrupen — lapicera.\nおきゃくさま — okyakusama — cliente / huésped, honorífico.",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Respuestas</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/respuestas.html#traducción",
+    "href": "07-ejercicios/respuestas.html#traducción",
+    "title": "11  Respuestas",
+    "section": "11.2 2. Traducción",
+    "text": "11.2 2. Traducción\n\nEsto es un libro.\n¿Qué es esto?\nSoy argentino.\nAquí está el aula / Esto es un aula.\n¿Cuánto cuesta esto?\nEsto no es un diccionario.\nVengo de Argentina.\nCuesta 300 yenes.",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Respuestas</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/respuestas.html#completar",
+    "href": "07-ejercicios/respuestas.html#completar",
+    "title": "11  Respuestas",
+    "section": "11.3 3. Completar",
+    "text": "11.3 3. Completar\n\nこれ は ほんです。\nあなたは にほんじんです か。\nわたしは ヘレミアス です。\nここ は だいがくです。\nこれは じしょ じゃありません。\nこれ は なんですか。",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Respuestas</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/respuestas.html#números",
+    "href": "07-ejercicios/respuestas.html#números",
+    "title": "11  Respuestas",
+    "section": "11.4 4. Números",
+    "text": "11.4 4. Números\n\nさんびゃく よんじゅう ご — sanbyaku yonjū go.\nろっぴゃく はち — roppyaku hachi.\nななひゃく じゅう よん — nanahyaku jū yon.\nきゅうひゃく よんじゅう なな — kyūhyaku yonjū nana.\nにせん にひゃく さんじゅう — nisen nihyaku sanjū.\nごせん よんひゃく ななじゅう に — gosen yonhyaku nanajū ni.\nはっせん さんびゃく さんじゅう ご — hassen sanbyaku sanjū go.\nいちまん — ichiman.\nじゅうまん — jūman.\nひゃくまん — hyakuman.",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Respuestas</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/respuestas.html#precios-y-horas",
+    "href": "07-ejercicios/respuestas.html#precios-y-horas",
+    "title": "11  Respuestas",
+    "section": "11.5 5. Precios y horas",
+    "text": "11.5 5. Precios y horas\n\nさんびゃくえんです。— Sanbyaku-en desu.\nごせん よんひゃく ななじゅう にえんです。— Gosen yonhyaku nanajū ni-en desu.\nごご しちじ はんです。— Gogo shichiji han desu.\nごご しちじ さんじゅうろっぷんです。— Gogo shichiji sanjūroppun desu.",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Respuestas</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/respuestas.html#escritura",
+    "href": "07-ejercicios/respuestas.html#escritura",
+    "title": "11  Respuestas",
+    "section": "11.6 6. Escritura",
+    "text": "11.6 6. Escritura\n\nスーパー: katakana y vocal larga.\nざっし: consonante doble en hiragana.\nワット: katakana y consonante doble.\nがっこう: consonante doble y vocal larga.\nノート: katakana y vocal larga.\nきょうしつ: combinación con ょ pequeña y vocal larga.",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Respuestas</span>"
+    ]
+  },
+  {
+    "objectID": "07-ejercicios/respuestas.html#producción",
+    "href": "07-ejercicios/respuestas.html#producción",
+    "title": "11  Respuestas",
+    "section": "11.7 7. Producción",
+    "text": "11.7 7. Producción\nLas respuestas pueden variar. Modelos posibles:\n\nAfirmativa: これは ほんです。— Kore wa hon desu. — Esto es un libro.\nNegativa: これは じしょじゃありません。— Kore wa jisho ja arimasen. — Esto no es un diccionario.\nPregunta: これは なんですか。— Kore wa nan desu ka. — ¿Qué es esto?\nPrecio: これは いくらですか。— Kore wa ikura desu ka. — ¿Cuánto cuesta esto?\nProcedencia: アルゼンチンから きました。— Aruzenchin kara kimashita. — Vengo de Argentina.",
+    "crumbs": [
+      "Práctica",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Respuestas</span>"
+    ]
+  },
+  {
+    "objectID": "08-registro-clases/indice.html",
+    "href": "08-registro-clases/indice.html",
+    "title": "12  Registro de clases",
+    "section": "",
+    "text": "12.1 Finalidad del registro\nEsta cronología conserva el orden en que se incorporaron los contenidos. Los conceptos se desarrollan en los capítulos temáticos; aquí se documenta cuándo aparecieron y qué se practicó.",
+    "crumbs": [
+      "Registro de clases",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Registro de clases</span>"
+    ]
+  },
+  {
+    "objectID": "08-registro-clases/indice.html#clases-registradas",
+    "href": "08-registro-clases/indice.html#clases-registradas",
+    "title": "12  Registro de clases",
+    "section": "12.2 Clases registradas",
+    "text": "12.2 Clases registradas\n\n12.2.1 29 de mayo de 2026\nTemas principales\n\nsaludos y despedidas;\npronombres personales;\npartícula temática は;\npartícula interrogativa か;\nnacionalidades;\nsufijos honoríficos.\n\nExpresiones representativas\n\nJaponés: おげんきですか。\nRomaji: Ogenki desu ka.\nEspañol: ¿Cómo está? / ¿Cómo estás?\n\n\nJaponés: わたしは アルゼンチンじんです。\nRomaji: Watashi wa Aruzenchin-jin desu.\nEspañol: Soy argentino.\n\n\n\n12.2.2 1 de junio de 2026\nTemas principales\n\npresentación personal;\nはじめまして (hajimemashite);\nこちらこそ (kochira koso);\nprocedencia con から きました (kara kimashita);\ndemostrativos これ・それ・あれ;\nvocabulario de objetos.\n\nModelo representativo\n\nJaponés: これは ほんです。\nRomaji: Kore wa hon desu.\nEspañol: Esto es un libro.\n\n\n\n12.2.3 3 de junio de 2026\nTemas principales\n\nnúmeros del 0 al 10;\ndecenas y centenas;\nexpresiones de lugar ここ・そこ・あそこ;\nvocabulario de universidad y edificios;\nlectura de hiragana.\n\nModelo representativo\n\nJaponés: ここは きょうしつです。\nRomaji: Koko wa kyōshitsu desu.\nEspañol: Aquí está el aula / Esto es un aula.\n\n\n\n12.2.4 8 de junio de 2026\nTemas principales\n\ncentenas irregulares;\nmiles y diez mil;\nprecios;\npreguntas con いくら;\npráctica acumulativa con objetos.\n\nModelo representativo\n\nJaponés: これは いくらですか。\nRomaji: Kore wa ikura desu ka.\nEspañol: ¿Cuánto cuesta esto?\n\n\n\n12.2.5 10 de junio de 2026\nTemas principales\n\ncombinaciones con ゃ・ゅ・ょ;\nseries きゃ・しゃ・ちゃ・にゃ・ひゃ・みゃ・りゃ;\nvariantes sonoras y semisonoras;\nhoras y minutos;\npalabras con vocales largas.\n\nEjemplos representativos\n\n\n\nJaponés\nRomaji\nEspañol\n\n\n\n\nきょうしつ\nkyōshitsu\naula\n\n\nかいしゃ\nkaisha\nempresa\n\n\nべんきょうします\nbenkyō shimasu\nestudiar\n\n\nとうきょう\nTōkyō\nTokio\n\n\n\n\n\n12.2.6 17 de julio de 2026\nTemas principales\n\nintroducción y repaso de katakana;\npaíses y nombres propios;\npalabras de origen extranjero;\nconsonante doble っ / ッ;\ndiferencias entre hiragana y katakana.\n\nEjemplos representativos\n\n\n\nJaponés\nRomaji\nEspañol\nObservación\n\n\n\n\nパン\npan\npan\npréstamo extranjero\n\n\nスーパー\nsūpā\nsupermercado\nvocal larga ー\n\n\nアルゼンチン\nAruzenchin\nArgentina\nnombre de país\n\n\nざっし\nzasshi\nrevista\nconsonante doble en hiragana\n\n\nワット\nwatto\nwatt\nconsonante doble en katakana\n\n\nヘレミアス\nHeremiasu\nJeremías\nnombre propio practicado",
+    "crumbs": [
+      "Registro de clases",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Registro de clases</span>"
+    ]
+  },
+  {
+    "objectID": "08-registro-clases/indice.html#procedimiento-de-actualización",
+    "href": "08-registro-clases/indice.html#procedimiento-de-actualización",
+    "title": "12  Registro de clases",
+    "section": "12.3 Procedimiento de actualización",
+    "text": "12.3 Procedimiento de actualización\nDespués de cada clase se debe:\n\ncrear una ficha a partir de plantillas/nueva-clase.qmd;\nagregar una síntesis a esta cronología;\ntrasladar los conceptos nuevos al capítulo temático correspondiente;\nincorporar el vocabulario a datos/vocabulario.csv;\nañadir ejercicios de repaso y respuestas;\nverificar que los ejemplos incluyan japonés, romaji y español.",
+    "crumbs": [
+      "Registro de clases",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Registro de clases</span>"
+    ]
+  },
+  {
+    "objectID": "09-apendices/tablas-rapidas.html",
+    "href": "09-apendices/tablas-rapidas.html",
+    "title": "13  Tablas rápidas",
+    "section": "",
+    "text": "13.1 Demostrativos",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Tablas rápidas</span>"
+    ]
+  },
+  {
+    "objectID": "09-apendices/tablas-rapidas.html#demostrativos",
+    "href": "09-apendices/tablas-rapidas.html#demostrativos",
+    "title": "13  Tablas rápidas",
+    "section": "",
+    "text": "Cerca del hablante\nCerca del oyente\nLejos de ambos\n\n\n\n\nこれ (kore)\nそれ (sore)\nあれ (are)\n\n\nここ (koko)\nそこ (soko)\nあそこ (asoko)\n\n\nこちら (kochira)\nそちら (sochira)\nあちら (achira)",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Tablas rápidas</span>"
+    ]
+  },
+  {
+    "objectID": "09-apendices/tablas-rapidas.html#centenas-irregulares",
+    "href": "09-apendices/tablas-rapidas.html#centenas-irregulares",
+    "title": "13  Tablas rápidas",
+    "section": "13.2 Centenas irregulares",
+    "text": "13.2 Centenas irregulares\n\n300: さんびゃく — sanbyaku.\n600: ろっぴゃく — roppyaku.\n800: はっぴゃく — happyaku.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Tablas rápidas</span>"
+    ]
+  },
+  {
+    "objectID": "09-apendices/tablas-rapidas.html#miles-irregulares",
+    "href": "09-apendices/tablas-rapidas.html#miles-irregulares",
+    "title": "13  Tablas rápidas",
+    "section": "13.3 Miles irregulares",
+    "text": "13.3 Miles irregulares\n\n3.000: さんぜん — sanzen.\n8.000: はっせん — hassen.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Tablas rápidas</span>"
+    ]
+  },
+  {
+    "objectID": "09-apendices/tablas-rapidas.html#combinaciones-esenciales",
+    "href": "09-apendices/tablas-rapidas.html#combinaciones-esenciales",
+    "title": "13  Tablas rápidas",
+    "section": "13.4 Combinaciones esenciales",
+    "text": "13.4 Combinaciones esenciales\n\nきゃ・きゅ・きょ — kya, kyu, kyo.\nしゃ・しゅ・しょ — sha, shu, sho.\nちゃ・ちゅ・ちょ — cha, chu, cho.\nじゃ・じゅ・じょ — ja, ju, jo.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Tablas rápidas</span>"
+    ]
+  },
+  {
+    "objectID": "09-apendices/tablas-rapidas.html#modelos-de-oración",
+    "href": "09-apendices/tablas-rapidas.html#modelos-de-oración",
+    "title": "13  Tablas rápidas",
+    "section": "13.5 Modelos de oración",
+    "text": "13.5 Modelos de oración\n\n13.5.1 Afirmación\n\nJaponés: これは ほんです。\nRomaji: Kore wa hon desu.\nEspañol: Esto es un libro.\n\n\n\n13.5.2 Pregunta\n\nJaponés: これは なんですか。\nRomaji: Kore wa nan desu ka.\nEspañol: ¿Qué es esto?\n\n\n\n13.5.3 Negación\n\nJaponés: これは じしょじゃありません。\nRomaji: Kore wa jisho ja arimasen.\nEspañol: Esto no es un diccionario.\n\n\n\n13.5.4 Precio\n\nJaponés: これは いくらですか。\nRomaji: Kore wa ikura desu ka.\nEspañol: ¿Cuánto cuesta esto?\n\n\n\n13.5.5 Lugar\n\nJaponés: ここは きょうしつです。\nRomaji: Koko wa kyōshitsu desu.\nEspañol: Aquí está el aula / Esto es un aula.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Tablas rápidas</span>"
+    ]
+  }
+]

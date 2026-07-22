@@ -1,0 +1,46 @@
+body {
+  line-height: 1.65;
+}
+
+.japanese,
+[lang="ja"],
+td:first-child {
+  font-family: "Noto Sans JP", "Noto Sans CJK JP", sans-serif;
+}
+
+.japanese,
+[lang="ja"] {
+  font-size: 1.08em;
+}
+
+blockquote {
+  border-left-width: 0.3rem;
+  padding: 0.8rem 1rem;
+  background: rgba(127, 127, 127, 0.06);
+}
+
+table {
+  width: 100%;
+  font-size: 0.96rem;
+}
+
+.table-responsive {
+  overflow-x: auto;
+}
+
+th {
+  white-space: nowrap;
+}
+
+td {
+  vertical-align: top;
+}
+
+.sidebar-title {
+  font-weight: 700;
+}
+
+.callout {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
