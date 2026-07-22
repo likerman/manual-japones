@@ -37,10 +37,8 @@ jobs:
           git show refs/remotes/origin/gh-pages:downloads/Manual_de_japones.pdf > _book/downloads/Manual_de_japones.pdf || true
           touch _book/.nojekyll
 
-      - name: Habilitar GitHub Pages
+      - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - name: Cargar sitio para Pages
         uses: actions/upload-pages-artifact@v4
