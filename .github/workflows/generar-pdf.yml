@@ -1,6 +1,12 @@
 name: Generar PDF
 
 on:
+  pull_request:
+    paths:
+      - "**/*.qmd"
+      - "_quarto.yml"
+      - "estilos/**"
+      - ".github/workflows/generar-pdf.yml"
   push:
     branches: [main]
     paths:
@@ -30,6 +36,9 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           tinytex: true
+
+      - name: Instalar paquetes LaTeX japoneses
+        run: tlmgr install koma-script luatexja
 
       - name: Generar edición PDF
         run: quarto render --to pdf
