@@ -1,0 +1,41 @@
+---
+title: "Convenciones del manual"
+---
+
+# Escritura y lectura
+
+Cada entrada nueva debe incluir:
+
+1. japonés;
+2. romaji;
+3. traducción al español.
+
+## Romaji
+
+Se utilizará una romanización sencilla y consistente. Cuando sea útil, las vocales largas podrán indicarse con macrón:
+
+- きょうしつ — *kyōshitsu* — aula;
+- とうきょう — *Tōkyō* — Tokio.
+
+En ejercicios iniciales también puede aparecer la forma sin macrón:
+
+- *kyoushitsu*;
+- *Toukyou*.
+
+## Partículas
+
+Algunas partículas se escriben de una forma y se pronuncian de otra:
+
+- は se escribe *ha*, pero como partícula se pronuncia *wa*;
+- へ se escribe *he*, pero como partícula se pronuncia *e*;
+- を se romaniza habitualmente *o*.
+
+## Ejemplos
+
+> **Japonés:** わたしは ヘレミアスです。  
+> **Romaji:** *Watashi wa Jeremíasu desu.*  
+> **Español:** Yo soy Jeremías.
+
+## Criterio pedagógico
+
+Los ejemplos y ejercicios deben usar prioritariamente vocabulario y estructuras ya estudiadas. Toda incorporación nueva debe marcarse de manera explícita.
