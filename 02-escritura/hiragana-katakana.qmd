@@ -1,0 +1,39 @@
+---
+title: "Hiragana y katakana"
+---
+
+# Los dos silabarios
+
+El **hiragana** se utiliza principalmente para palabras japonesas, terminaciones gramaticales y partículas. El **katakana** se utiliza con frecuencia para préstamos lingüísticos, nombres extranjeros y énfasis.
+
+## Ejemplos en hiragana
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| はな | *hana* | flor / nariz, según contexto |
+| ほん | *hon* | libro |
+| はこ | *hako* | caja |
+| みみ | *mimi* | oreja |
+| むし | *mushi* | insecto |
+| もも | *momo* | durazno / muslo, según contexto |
+
+## Ejemplos en katakana
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| パン | *pan* | pan |
+| スーパー | *sūpā* | supermercado |
+| アルゼンチン | *Aruzenchin* | Argentina |
+| ドイツ | *Doitsu* | Alemania |
+| メキシコ | *Mekishiko* | México |
+| カナダ | *Kanada* | Canadá |
+| ワット | *watto* | watt |
+
+## Nombres propios
+
+Los nombres extranjeros suelen adaptarse al sistema fonético japonés y escribirse en katakana. La forma definitiva puede variar según la pronunciación que se quiera representar.
+
+- ヘレミアス — *Heremiasu* — Jeremías.
+
+> [!NOTE]
+> La transliteración de nombres propios debe revisarse con el docente, porque puede haber más de una aproximación posible.
