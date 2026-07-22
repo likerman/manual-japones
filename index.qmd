@@ -4,6 +4,10 @@ title: "Cómo usar este manual"
 
 Este manual organiza de manera temática y cronológica los contenidos estudiados en las clases de japonés.
 
+::: {.content-visible when-format="html"}
+[**Descargar la edición PDF del manual**](downloads/Manual_de_japones.pdf)
+:::
+
 ## Recorridos de consulta
 
 El material tiene dos recorridos complementarios:
