@@ -1,0 +1,45 @@
+---
+title: "Ejercicios"
+---
+
+# 1. Lectura
+
+Escribí en romaji:
+
+1. ざっし
+2. きょうしつ
+3. かいしゃ
+4. アルゼンチン
+5. スーパー
+
+# 2. Traducción al español
+
+1. これは ほんです。
+2. これは なんですか。
+3. わたしは アルゼンチンじんです。
+4. ここは きょうしつです。
+5. これは いくらですか。
+
+# 3. Completar
+
+Completá con `は`, `か` o `です`:
+
+1. これ ___ ほんです。
+2. あなたは にほんじんです ___。
+3. わたしは ヘレミアス ___。
+4. ここ ___ だいがくです。
+
+# 4. Números
+
+Escribí en japonés y romaji:
+
+1. 345
+2. 608
+3. 2.230
+4. 8.335
+5. 10.000
+6. 1.000.000
+
+# 5. Producción
+
+Construí una oración afirmativa, una negativa y una pregunta usando solamente vocabulario estudiado.
