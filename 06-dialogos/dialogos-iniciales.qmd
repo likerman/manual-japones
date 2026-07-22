@@ -50,5 +50,6 @@ Cuesta 950 yenes.
 *Koko wa kyōshitsu desu.*  
 Esto es un aula.
 
-> [!IMPORTANT]
-> Estos diálogos reutilizan solamente estructuras ya registradas: `です`, `は`, `か`, `から きました`, demostrativos, lugares y precios.
+::: {.callout-important}
+Estos diálogos reutilizan solamente estructuras ya registradas: `です`, `は`, `か`, `から きました`, demostrativos, lugares y precios.
+:::
