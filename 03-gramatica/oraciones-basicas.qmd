@@ -34,8 +34,9 @@ La partícula `か` (*ka*) colocada al final transforma una oración cortés en 
 > **Romaji:** *Anata wa Kankoku-jin desu ka.*  
 > **Español:** ¿Usted es coreano/a?
 
-> [!NOTE]
-> En japonés no es necesario agregar un signo de interrogación cuando la oración termina en `か`, aunque puede aparecer en escritura informal.
+::: {.callout-note}
+En japonés no es necesario agregar un signo de interrogación cuando la oración termina en `か`, aunque puede aparecer en escritura informal.
+:::
 
 ## Negación
 
