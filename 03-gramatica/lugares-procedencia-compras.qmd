@@ -1,0 +1,147 @@
+---
+title: "Lugares, procedencia y compras"
+---
+
+## ここ・そこ・あそこ y どこ
+
+Estas formas señalan lugares según su distancia respecto de quienes conversan.
+
+| Japonés | Romaji | Español | Referencia |
+|---|---|---|---|
+| ここ | *koko* | aquí | cerca de quien habla |
+| そこ | *soko* | ahí | cerca de quien escucha |
+| あそこ | *asoko* | allí / allá | lejos de ambas personas |
+| どこ | *doko* | dónde | interrogativo |
+
+**Estructura para identificar un lugar:** `ここ・そこ・あそこ は lugar です`
+
+> **Japonés:** ここは 食堂です。  
+> **Romaji:** *Koko wa shokudō desu.*  
+> **Español:** Aquí está el comedor / Este lugar es el comedor.
+
+**Estructura para localizar algo o a alguien:** `N は どこですか`
+
+> **Japonés:** トイレは どこですか。  
+> **Romaji:** *Toire wa doko desu ka.*  
+> **Español:** ¿Dónde está el baño?
+
+> **Japonés:** あそこです。  
+> **Romaji:** *Asoko desu.*  
+> **Español:** Está allí.
+
+La respuesta también puede indicar directamente un piso o una sala.
+
+> **Japonés:** 山田さんは どこですか。  
+> **Romaji:** *Yamada-san wa doko desu ka.*  
+> **Español:** ¿Dónde está el señor Yamada?
+
+> **Japonés:** 会議室です。  
+> **Romaji:** *Kaigishitsu desu.*  
+> **Español:** Está en la sala de reuniones.
+
+## こちら・そちら・あちら y どちら
+
+Son formas más corteses que también pueden señalar una dirección.
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| こちら | *kochira* | por aquí |
+| そちら | *sochira* | por ahí |
+| あちら | *achira* | por allí |
+| どちら | *dochira* | dónde / cuál, cortés |
+
+> **Japonés:** 事務所は どちらですか。  
+> **Romaji:** *Jimusho wa dochira desu ka.*  
+> **Español:** ¿Dónde está la oficina?
+
+> **Japonés:** あちらです。  
+> **Romaji:** *Achira desu.*  
+> **Español:** Está por allí.
+
+`どちら` también pregunta cortésmente por el país, la empresa o la universidad de una persona.
+
+> **Japonés:** お国は どちらですか。  
+> **Romaji:** *Okuni wa dochira desu ka.*  
+> **Español:** ¿De qué país es usted?
+
+> **Japonés:** アメリカです。  
+> **Romaji:** *Amerika desu.*  
+> **Español:** Estados Unidos.
+
+## どこの — procedencia de un objeto
+
+**Estructura:** `N は どこの N ですか`
+
+`どこの` pregunta de qué país, empresa o marca procede algo.
+
+> **Japonés:** それは どこの 靴ですか。  
+> **Romaji:** *Sore wa doko no kutsu desu ka.*  
+> **Español:** ¿De dónde son esos zapatos?
+
+> **Japonés:** イタリアの 靴です。  
+> **Romaji:** *Itaria no kutsu desu.*  
+> **Español:** Son zapatos italianos.
+
+Si el objeto ya se conoce, puede omitirse después de `の`.
+
+> **Japonés:** これは どこの ワインですか。  
+> **Romaji:** *Kore wa doko no wain desu ka.*  
+> **Español:** ¿De dónde es este vino?
+
+> **Japonés:** 日本のです。  
+> **Romaji:** *Nihon no desu.*  
+> **Español:** Es de Japón.
+
+## Pisos y subsuelos
+
+| Japonés | Kana | Romaji | Español |
+|---|---|---|---|
+| 1階 | いっかい | *ikkai* | primer piso |
+| 2階 | にかい | *nikai* | segundo piso |
+| 3階 | さんがい | *sangai* | tercer piso |
+| 地下1階 | ちかいっかい | *chika ikkai* | primer subsuelo |
+
+> **Japonés:** ワイン売り場は 地下1階です。  
+> **Romaji:** *Wain uriba wa chika ikkai desu.*  
+> **Español:** La sección de vinos está en el primer subsuelo.
+
+## Preguntar el precio
+
+**Estructura:** `N は いくらですか`
+
+> **Japonés:** この 時計は いくらですか。  
+> **Romaji:** *Kono tokei wa ikura desu ka.*  
+> **Español:** ¿Cuánto cuesta este reloj?
+
+> **Japonés:** 18,600円です。  
+> **Kana:** いちまん はっせん ろっぴゃくえんです。  
+> **Romaji:** *Ichiman hassen roppyaku-en desu.*  
+> **Español:** Cuesta 18.600 yenes.
+
+## Pedir y comprar
+
+### これを ください
+
+La partícula `を`, pronunciada *o*, marca el objeto directo.
+
+**Estructura:** `objeto + を + ください`
+
+> **Japonés:** これを ください。  
+> **Romaji:** *Kore o kudasai.*  
+> **Español:** Deme esto, por favor.
+
+### ～を 見せてください
+
+**Estructura:** `objeto + を + 見せてください`
+
+> **Japonés:** その ワインを 見せてください。  
+> **Romaji:** *Sono wain o misete kudasai.*  
+> **Español:** Muéstreme ese vino, por favor.
+
+### じゃ
+
+`じゃ` introduce una decisión o conclusión con el sentido de «entonces».
+
+> **Japonés:** じゃ、これを ください。  
+> **Romaji:** *Ja, kore o kudasai.*  
+> **Español:** Entonces, deme este, por favor.

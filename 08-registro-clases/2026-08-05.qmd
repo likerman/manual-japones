@@ -1,0 +1,141 @@
+---
+title: "Clase del 5 de agosto de 2026 — Lección 3"
+date: 2026-08-05
+---
+
+## Temas trabajados
+
+- Lección 3 de *Minna no Nihongo*: `これを ください`.
+- Identificación y ubicación de lugares con `ここ・そこ・あそこ・どこ`.
+- Formas corteses y direcciones con `こちら・そちら・あちら・どちら`.
+- Preguntas por país, empresa o universidad mediante `どちら`.
+- Procedencia o marca de objetos con `どこの + sustantivo`.
+- Pisos y subsuelos: `1階・2階・3階・地下1階`.
+- Preguntas de precio con `いくら` y lectura de cantidades grandes.
+- Pedidos en una tienda con `これを ください` y `～を 見せてください`.
+- Diálogo en una tienda: localizar una sección, examinar un producto y comprarlo.
+- Prácticas A y B de lugares, procedencia y precios.
+
+## Modelos centrales
+
+> **Japonés:** ここは 食堂です。  
+> **Romaji:** *Koko wa shokudō desu.*  
+> **Español:** Aquí está el comedor.
+
+> **Japonés:** エレベーターは あそこです。  
+> **Romaji:** *Erebētā wa asoko desu.*  
+> **Español:** El ascensor está allí.
+
+> **Japonés:** 事務所は どちらですか。  
+> **Romaji:** *Jimusho wa dochira desu ka.*  
+> **Español:** ¿Dónde está la oficina?
+
+> **Japonés:** これは どこの ワインですか。  
+> **Romaji:** *Kore wa doko no wain desu ka.*  
+> **Español:** ¿De dónde es este vino?
+
+> **Japonés:** じゃ、これを ください。  
+> **Romaji:** *Ja, kore o kudasai.*  
+> **Español:** Entonces, deme este, por favor.
+
+## Lugares y formas corteses
+
+| Forma común | Forma cortés | Interrogativo | Español |
+|---|---|---|---|
+| ここ | こちら | どこ / どちら | aquí / por aquí |
+| そこ | そちら | どこ / どちら | ahí / por ahí |
+| あそこ | あちら | どこ / どちら | allí / por allí |
+
+> **Japonés:** トイレは どこですか。― あそこです。  
+> **Romaji:** *Toire wa doko desu ka. — Asoko desu.*  
+> **Español:** ¿Dónde está el baño? — Está allí.
+
+> **Japonés:** 階段は どちらですか。― あちらです。  
+> **Romaji:** *Kaidan wa dochira desu ka. — Achira desu.*  
+> **Español:** ¿Dónde está la escalera? — Está por allí.
+
+## País, institución y procedencia
+
+> **Japonés:** ミラーさんの お国は どちらですか。  
+> **Romaji:** *Mirā-san no okuni wa dochira desu ka.*  
+> **Español:** ¿De qué país es el señor Miller?
+
+> **Japonés:** アメリカです。  
+> **Romaji:** *Amerika desu.*  
+> **Español:** Es de Estados Unidos.
+
+> **Japonés:** これは どこの 車ですか。  
+> **Romaji:** *Kore wa doko no kuruma desu ka.*  
+> **Español:** ¿De qué país es este auto?
+
+> **Japonés:** ドイツの 車です。  
+> **Romaji:** *Doitsu no kuruma desu.*  
+> **Español:** Es un auto alemán.
+
+## Precios practicados
+
+| Precio | Kana | Romaji |
+|---:|---|---|
+| 1,500円 | せん ごひゃくえん | *sen gohyaku-en* |
+| 5,800円 | ごせん はっぴゃくえん | *gosen happyaku-en* |
+| 18,600円 | いちまん はっせん ろっぴゃくえん | *ichiman hassen roppyaku-en* |
+| 25,800円 | にまん ごせん はっぴゃくえん | *niman gosen happyaku-en* |
+| 143,000円 | じゅうよんまん さんぜんえん | *jūyonman sanzen-en* |
+| 4,500,000円 | よんひゃく ごじゅうまんえん | *yonhyaku gojūman-en* |
+
+## Conversación: これを ください
+
+**店員A:** いらっしゃいませ。  
+*Ten'in A: Irasshaimase.*  
+Bienvenida.
+
+**マリア:** すみません。ワイン売り場は どこですか。  
+*Maria: Sumimasen. Wain uriba wa doko desu ka.*  
+Disculpe, ¿dónde está la sección de vinos?
+
+**店員A:** 地下1階です。  
+*Ten'in A: Chika ikkai desu.*  
+Está en el primer subsuelo.
+
+**マリア:** どうも。  
+*Maria: Dōmo.*  
+Gracias.
+
+**マリア:** すみません。その ワインを 見せてください。  
+*Maria: Sumimasen. Sono wain o misete kudasai.*  
+Disculpe. Muéstreme ese vino, por favor.
+
+**店員B:** はい、どうぞ。  
+*Ten'in B: Hai, dōzo.*  
+Sí, aquí tiene.
+
+**マリア:** これは どこの ワインですか。  
+*Maria: Kore wa doko no wain desu ka.*  
+¿De dónde es este vino?
+
+**店員B:** 日本のです。  
+*Ten'in B: Nihon no desu.*  
+Es de Japón.
+
+**マリア:** いくらですか。  
+*Maria: Ikura desu ka.*  
+¿Cuánto cuesta?
+
+**店員B:** 2,500円です。  
+*Ten'in B: Nisen gohyaku-en desu.*  
+Cuesta 2.500 yenes.
+
+**マリア:** じゃ、これを ください。  
+*Maria: Ja, kore o kudasai.*  
+Entonces, deme este, por favor.
+
+## Práctica realizada
+
+Se resolvieron las estructuras de 練習A y los ejercicios 1 a 8 de 練習B:
+
+- identificar recepción, oficina, sala de reuniones y baño;
+- localizar personas, objetos, pisos y habitaciones;
+- usar `どちら` en indicaciones corteses;
+- preguntar por país, empresa y universidad;
+- identificar el origen de vino, cámara, computadora y auto;
+- leer y expresar precios desde 3.200 hasta 4.500.000 yenes.
