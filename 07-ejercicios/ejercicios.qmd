@@ -154,3 +154,67 @@ Indicá si cada afirmación es verdadera (`○`) o falsa (`×`).
 1. El objeto es una agenda, pero el diálogo aclara que es un diccionario: `これは 手帳です。`
 2. Kimura confirma que aquel auto es suyo: `あの 車は 木村さんのです。`
 3. La revista es de cámaras: `これは コンピューターの 雑誌じゃ ありません。`
+
+## 15. Lugares de la Lección 3
+
+Completá con `ここ`, `そこ`, `あそこ` o `どこ`.
+
+1. 受付は ___ ですか。— ___ です。（cerca de quien habla）
+2. トイレは ___ ですか。— ___ です。（lejos de ambos）
+3. ___ は 食堂です。— Este lugar es el comedor.
+4. 会議室は ___ です。（cerca de quien escucha）
+
+## 16. Formas corteses
+
+Reescribí con `こちら`, `そちら`, `あちら` o `どちら`.
+
+1. エレベーターは どこですか。— Está por allí.
+2. 電話は どこですか。— Está por aquí.
+3. ¿De qué país es usted? — Soy de Argentina.
+4. ¿De qué universidad es Karina? — Es de la Universidad Fuji.
+
+## 17. Procedencia con どこの
+
+Formá la pregunta y la respuesta completas.
+
+1. vino / Francia;
+2. cámara / Japón;
+3. computadora / Estados Unidos;
+4. auto / Alemania.
+
+## 18. Pisos y lugares
+
+Traducí al japonés y agregá romaji.
+
+1. La máquina expendedora está en el segundo piso.
+2. El comedor está en el subsuelo.
+3. La habitación de Karina está en el tercer piso.
+4. La sección de vinos está en el primer subsuelo.
+
+## 19. Precios
+
+Escribí la pregunta `いくらですか` y la respuesta en japonés, kana y romaji.
+
+1. corbata: 1.500 yenes;
+2. vino: 3.200 yenes;
+3. cámara: 25.800 yenes;
+4. computadora: 143.000 yenes;
+5. auto: 4.500.000 yenes.
+
+## 20. Comprar en una tienda
+
+Completá con `どこ`, `見せてください`, `どこの`, `いくら` o `ください`.
+
+**マリア:** すみません。ワイン売り場は ___ ですか。  
+**店員:** 地下1階です。
+
+**マリア:** その ワインを ___。  
+**店員:** はい、どうぞ。
+
+**マリア:** これは ___ ワインですか。  
+**店員:** 日本のです。
+
+**マリア:** ___ ですか。  
+**店員:** 2,500円です。
+
+**マリア:** じゃ、これを ___。

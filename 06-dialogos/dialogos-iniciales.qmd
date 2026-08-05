@@ -145,3 +145,49 @@ Ah, es mío. Muchas gracias.
 ::: {.callout-important}
 Los diálogos reutilizan estructuras ya registradas: `です`, `は`, `か`, `から きました`, demostrativos, `の`, preguntas por objetos y propietarios, lugares y precios.
 :::
+
+## Comprar en una tienda — これを ください
+
+**店員A:** いらっしゃいませ。  
+*Ten'in A: Irasshaimase.*  
+Bienvenida.
+
+**マリア:** すみません。ワイン売り場は どこですか。  
+*Maria: Sumimasen. Wain uriba wa doko desu ka.*  
+Disculpe, ¿dónde está la sección de vinos?
+
+**店員A:** 地下1階です。  
+*Ten'in A: Chika ikkai desu.*  
+Está en el primer subsuelo.
+
+**マリア:** どうも。  
+*Maria: Dōmo.*  
+Gracias.
+
+**マリア:** すみません。その ワインを 見せてください。  
+*Maria: Sumimasen. Sono wain o misete kudasai.*  
+Disculpe. Muéstreme ese vino, por favor.
+
+**店員B:** はい、どうぞ。  
+*Ten'in B: Hai, dōzo.*  
+Sí, aquí tiene.
+
+**マリア:** これは どこの ワインですか。  
+*Maria: Kore wa doko no wain desu ka.*  
+¿De dónde es este vino?
+
+**店員B:** 日本のです。  
+*Ten'in B: Nihon no desu.*  
+Es de Japón.
+
+**マリア:** いくらですか。  
+*Maria: Ikura desu ka.*  
+¿Cuánto cuesta?
+
+**店員B:** 2,500円です。  
+*Ten'in B: Nisen gohyaku-en desu.*  
+Cuesta 2.500 yenes.
+
+**マリア:** じゃ、これを ください。  
+*Maria: Ja, kore o kudasai.*  
+Entonces, deme este, por favor.

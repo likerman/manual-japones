@@ -148,6 +148,35 @@ Esta cronología conserva el orden en que se incorporaron los contenidos. Los co
 
 La ficha completa de la clase se encuentra en [Clase del 22 de julio de 2026 — Lección 2](2026-07-22.qmd).
 
+### 5 de agosto de 2026 — Lección 3
+
+**Temas principales**
+
+- lugares con `ここ・そこ・あそこ・どこ`;
+- indicaciones corteses con `こちら・そちら・あちら・どちら`;
+- país, empresa y universidad con `どちら`;
+- procedencia y marca con `どこの`;
+- pisos, subsuelos y secciones de una tienda;
+- precios con `いくら`;
+- pedidos con `これを ください` y `～を 見せてください`;
+- diálogo de compra de vino.
+
+**Modelos representativos**
+
+> **Japonés:** トイレは どこですか。― あそこです。  
+> **Romaji:** *Toire wa doko desu ka. — Asoko desu.*  
+> **Español:** ¿Dónde está el baño? — Está allí.
+
+> **Japonés:** これは どこの ワインですか。― 日本のです。  
+> **Romaji:** *Kore wa doko no wain desu ka. — Nihon no desu.*  
+> **Español:** ¿De dónde es este vino? — Es de Japón.
+
+> **Japonés:** じゃ、これを ください。  
+> **Romaji:** *Ja, kore o kudasai.*  
+> **Español:** Entonces, deme este, por favor.
+
+La ficha completa se encuentra en [Clase del 5 de agosto de 2026 — Lección 3](2026-08-05.qmd).
+
 ## Procedimiento de actualización
 
 Después de cada clase se debe:

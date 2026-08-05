@@ -130,3 +130,64 @@ Las respuestas pueden variar. Modelos posibles:
 1. **×**. El objeto es un diccionario: `辞書です。`
 2. **○**. Kimura confirma: `はい、そうです。わたしのです。`
 3. **○**. La revista es de cámaras y no de computación.
+
+## 15. Lugares de la Lección 3
+
+1. 受付は **どこ** ですか。— **ここ** です。  
+   *Uketsuke wa doko desu ka. — Koko desu.* — ¿Dónde está la recepción? — Está aquí.
+2. トイレは **どこ** ですか。— **あそこ** です。  
+   *Toire wa doko desu ka. — Asoko desu.* — ¿Dónde está el baño? — Está allí.
+3. **ここ** は 食堂です。  
+   *Koko wa shokudō desu.* — Este lugar es el comedor.
+4. 会議室は **そこ** です。  
+   *Kaigishitsu wa soko desu.* — La sala de reuniones está ahí.
+
+## 16. Formas corteses
+
+1. エレベーターは **どちら** ですか。— **あちら** です。  
+   *Erebētā wa dochira desu ka. — Achira desu.*
+2. 電話は **どちら** ですか。— **こちら** です。  
+   *Denwa wa dochira desu ka. — Kochira desu.*
+3. お国は **どちら** ですか。— アルゼンチンです。  
+   *Okuni wa dochira desu ka. — Aruzenchin desu.*
+4. カリナさんの 大学は **どちら** ですか。— 富士大学です。  
+   *Karina-san no daigaku wa dochira desu ka. — Fuji Daigaku desu.*
+
+## 17. Procedencia con どこの
+
+1. これは どこの ワインですか。— フランスの ワインです。  
+   *Kore wa doko no wain desu ka. — Furansu no wain desu.*
+2. これは どこの カメラですか。— 日本の カメラです。  
+   *Kore wa doko no kamera desu ka. — Nihon no kamera desu.*
+3. これは どこの コンピューターですか。— アメリカの コンピューターです。  
+   *Kore wa doko no konpyūtā desu ka. — Amerika no konpyūtā desu.*
+4. これは どこの 車ですか。— ドイツの 車です。  
+   *Kore wa doko no kuruma desu ka. — Doitsu no kuruma desu.*
+
+## 18. Pisos y lugares
+
+1. 自動販売機は 2階です。— *Jidōhanbaiki wa nikai desu.*
+2. 食堂は 地下です。— *Shokudō wa chika desu.*
+3. カリナさんの 部屋は 3階です。— *Karina-san no heya wa sangai desu.*
+4. ワイン売り場は 地下1階です。— *Wain uriba wa chika ikkai desu.*
+
+## 19. Precios
+
+1. この ネクタイは いくらですか。— 1,500円です。  
+   せん ごひゃくえんです。— *Sen gohyaku-en desu.*
+2. この ワインは いくらですか。— 3,200円です。  
+   さんぜん にひゃくえんです。— *Sanzen nihyaku-en desu.*
+3. この カメラは いくらですか。— 25,800円です。  
+   にまん ごせん はっぴゃくえんです。— *Niman gosen happyaku-en desu.*
+4. この コンピューターは いくらですか。— 143,000円です。  
+   じゅうよんまん さんぜんえんです。— *Jūyonman sanzen-en desu.*
+5. この 車は いくらですか。— 4,500,000円です。  
+   よんひゃく ごじゅうまんえんです。— *Yonhyaku gojūman-en desu.*
+
+## 20. Comprar en una tienda
+
+1. ワイン売り場は **どこ** ですか。
+2. その ワインを **見せてください**。
+3. これは **どこの** ワインですか。
+4. **いくら** ですか。
+5. じゃ、これを **ください**。

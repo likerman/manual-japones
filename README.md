@@ -63,4 +63,4 @@ quarto render --to pdf
 
 ## Estado
 
-Versión de contenido en preparación: `v0.2`.
+Versión de contenido en preparación: `v0.3`.

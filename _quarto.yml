@@ -21,6 +21,7 @@ book:
       chapters:
         - 03-gramatica/oraciones-basicas.qmd
         - 03-gramatica/demostrativos-lugares.qmd
+        - 03-gramatica/lugares-procedencia-compras.qmd
     - part: "Números y vocabulario"
       chapters:
         - 04-numeros-tiempo/numeros-precios-horas.qmd
@@ -34,6 +35,7 @@ book:
       chapters:
         - 08-registro-clases/indice.qmd
         - 08-registro-clases/2026-07-22.qmd
+        - 08-registro-clases/2026-08-05.qmd
     - part: "Apéndices"
       chapters:
         - 09-apendices/tablas-rapidas.qmd

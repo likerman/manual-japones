@@ -15,6 +15,8 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | どなた | *donata* | quién, forma cortés |
 | 何歳（なんさい） | *nan-sai* | cuántos años |
 | いくら | *ikura* | cuánto; cuánto cuesta |
+| どこ | *doko* | dónde |
+| どちら | *dochira* | dónde; cuál, forma cortés |
 | これ | *kore* | esto |
 | それ | *sore* | eso |
 | あれ | *are* | aquello |
@@ -42,6 +44,11 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | よろしく お願いします | *yoroshiku onegaishimasu* | mucho gusto; cuento con usted |
 | どうも ありがとう ございます | *dōmo arigatō gozaimasu* | muchas gracias |
 | ほんの 気持ちです | *hon no kimochi desu* | es solo un pequeño detalle |
+| いらっしゃいませ | *irasshaimase* | bienvenido/a, en comercios |
+| すみません | *sumimasen* | disculpe |
+| 見せてください（みせてください） | *misete kudasai* | muéstreme, por favor |
+| ください | *kudasai* | deme, por favor |
+| じゃ | *ja* | entonces |
 
 ## Lugares
 
@@ -60,6 +67,14 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | トイレ | *toire* | baño |
 | スーパー | *sūpā* | supermercado |
 | 病院（びょういん） | *byōin* | hospital |
+| 売り場（うりば） | *uriba* | sección de ventas |
+| 会議室（かいぎしつ） | *kaigishitsu* | sala de reuniones |
+| 自動販売機（じどうはんばいき） | *jidōhanbaiki* | máquina expendedora |
+| 階段（かいだん） | *kaidan* | escalera |
+| エレベーター | *erebētā* | ascensor |
+| エスカレーター | *esukarētā* | escalera mecánica |
+| 部屋（へや） | *heya* | habitación |
+| 家（うち） | *uchi* | casa; hogar |
 
 ## Objetos
 
@@ -91,6 +106,8 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | CD（シーディー） | *shīdī* | CD |
 | カード | *kādo* | tarjeta |
 | お土産（おみやげ） | *omiyage* | recuerdo; pequeño regalo |
+| 靴（くつ） | *kutsu* | zapatos |
+| ネクタイ | *nekutai* | corbata |
 
 ## Personas y vínculos
 
@@ -136,6 +153,7 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | お茶（おちゃ） | *ocha* | té verde |
 | コーヒー | *kōhī* | café |
 | チョコレート | *chokorēto* | chocolate |
+| ワイン | *wain* | vino |
 | みかん | *mikan* | mandarina |
 | 桃（もも） | *momo* | durazno |
 | 餅（もち） | *mochi* | pastel de arroz |
@@ -158,6 +176,17 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | ドイツ | *Doitsu* | Alemania |
 | メキシコ | *Mekishiko* | México |
 | カナダ | *Kanada* | Canadá |
+| 日本（にほん） | *Nihon* | Japón |
+| アメリカ | *Amerika* | Estados Unidos |
+| ブラジル | *Burajiru* | Brasil |
+| イギリス | *Igirisu* | Reino Unido |
+| インドネシア | *Indoneshia* | Indonesia |
+| イタリア | *Itaria* | Italia |
+| フランス | *Furansu* | Francia |
+| 韓国（かんこく） | *Kankoku* | Corea |
+| 広島（ひろしま） | *Hiroshima* | Hiroshima |
+| 大阪（おおさか） | *Ōsaka* | Osaka |
+| 新大阪（しんおおさか） | *Shin-Ōsaka* | Shin-Osaka |
 | ヘレミアス | *Heremiasu* | Jeremías |
 | アイメ | *Aime* | Aime |
 
