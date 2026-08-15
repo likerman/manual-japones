@@ -95,6 +95,20 @@ La moneda japonesa se expresa con `円`, leído `えん` (*en*).
 > **Romaji:** *Gosen yonhyaku nanajū ni-en desu.*  
 > **Español:** Cuesta 5.472 yenes.
 
+### Lecturas de precios de la Lección 3
+
+| Precio | Kana | Romaji |
+|---:|---|---|
+| 2,500円 | にせん ごひゃくえん | *nisen gohyaku-en* |
+| 7,300円 | ななせん さんびゃくえん | *nanasen sanbyaku-en* |
+| 15,800円 | いちまん ごせん はっぴゃくえん | *ichiman gosen happyaku-en* |
+| 18,600円 | いちまん はっせん ろっぴゃくえん | *ichiman hassen roppyaku-en* |
+| 23,600円 | にまん さんぜん ろっぴゃくえん | *niman sanzen roppyaku-en* |
+| 25,800円 | にまん ごせん はっぴゃくえん | *niman gosen happyaku-en* |
+| 188,000円 | じゅうはちまん はっせんえん | *jūhachiman hassen-en* |
+
+Prestá atención a los cambios `800 → はっぴゃく` (*happyaku*), `8,000 → はっせん` (*hassen*) y `600 → ろっぴゃく` (*roppyaku*).
+
 ## Horas y minutos
 
 La hora se construye con el número seguido de `じ` (*ji*). Los minutos se expresan con `ふん / ぷん` (*fun / pun*) y presentan cambios fonéticos.

@@ -33,3 +33,18 @@ La consonante doble no debe confundirse con una sílaba `tsu` completa:
 
 - つ — *tsu*;
 - っ — pausa y duplicación consonántica.
+
+## Cambios de sonido en precios y pisos
+
+La Lección 3 reunió varias lecturas irregulares que conviene reconocer como unidades.
+
+| Japonés | Kana | Romaji | Español |
+|---|---|---|---|
+| 600円 | ろっぴゃくえん | *roppyaku-en* | 600 yenes |
+| 800円 | はっぴゃくえん | *happyaku-en* | 800 yenes |
+| 8,000円 | はっせんえん | *hassen-en* | 8.000 yenes |
+| 1階 | いっかい | *ikkai* | primer piso |
+| 3階 | さんがい | *sangai* | tercer piso |
+| 8階 | はっかい | *hakkai* | octavo piso |
+
+En `ろっぴゃく`, `はっぴゃく`, `いっかい` y `はっかい`, la `っ` pequeña marca una consonante doble. Los préstamos `コンピューター`, `エレベーター` y `エスカレーター` usan `ー` para alargar la vocal precedente.

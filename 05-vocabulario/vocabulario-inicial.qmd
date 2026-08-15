@@ -187,8 +187,21 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | 広島（ひろしま） | *Hiroshima* | Hiroshima |
 | 大阪（おおさか） | *Ōsaka* | Osaka |
 | 新大阪（しんおおさか） | *Shin-Ōsaka* | Shin-Osaka |
+| タイ | *Tai* | Tailandia |
+| スイス | *Suisu* | Suiza |
+| バンコク | *Bankoku* | Bangkok |
+| ベルリン | *Berurin* | Berlín |
+| ジャカルタ | *Jakaruta* | Yakarta |
 | ヘレミアス | *Heremiasu* | Jeremías |
 | アイメ | *Aime* | Aime |
+
+## Instituciones y espacios compuestos
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| アジア研究センター（アジアけんきゅうセンター） | *Ajia kenkyū sentā* | Centro de Investigación de Asia |
+| コンピューターの部屋（コンピューターのへや） | *konpyūtā no heya* | sala de computadoras |
+| パワー電気（パワーでんき） | *Pawā Denki* | Power Electric |
 
 ## Préstamos y consonante doble
 
