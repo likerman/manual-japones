@@ -21,12 +21,12 @@ Esta cronología conserva el orden en que se incorporaron los contenidos. Los co
 
 **Expresiones representativas**
 
-> **Japonés:** おげんきですか。  
-> **Romaji:** *Ogenki desu ka.*  
+> **Japonés:** おげんきですか。
+> **Romaji:** *Ogenki desu ka.*
 > **Español:** ¿Cómo está? / ¿Cómo estás?
 
-> **Japonés:** わたしは アルゼンチンじんです。  
-> **Romaji:** *Watashi wa Aruzenchin-jin desu.*  
+> **Japonés:** わたしは アルゼンチンじんです。
+> **Romaji:** *Watashi wa Aruzenchin-jin desu.*
 > **Español:** Soy argentino.
 
 ### 1 de junio de 2026
@@ -42,8 +42,8 @@ Esta cronología conserva el orden en que se incorporaron los contenidos. Los co
 
 **Modelo representativo**
 
-> **Japonés:** これは ほんです。  
-> **Romaji:** *Kore wa hon desu.*  
+> **Japonés:** これは ほんです。
+> **Romaji:** *Kore wa hon desu.*
 > **Español:** Esto es un libro.
 
 ### 3 de junio de 2026
@@ -58,8 +58,8 @@ Esta cronología conserva el orden en que se incorporaron los contenidos. Los co
 
 **Modelo representativo**
 
-> **Japonés:** ここは きょうしつです。  
-> **Romaji:** *Koko wa kyōshitsu desu.*  
+> **Japonés:** ここは きょうしつです。
+> **Romaji:** *Koko wa kyōshitsu desu.*
 > **Español:** Aquí está el aula / Esto es un aula.
 
 ### 8 de junio de 2026
@@ -74,8 +74,8 @@ Esta cronología conserva el orden en que se incorporaron los contenidos. Los co
 
 **Modelo representativo**
 
-> **Japonés:** これは いくらですか。  
-> **Romaji:** *Kore wa ikura desu ka.*  
+> **Japonés:** これは いくらですか。
+> **Romaji:** *Kore wa ikura desu ka.*
 > **Español:** ¿Cuánto cuesta esto?
 
 ### 10 de junio de 2026
@@ -134,16 +134,16 @@ Esta cronología conserva el orden en que se incorporaron los contenidos. Los co
 
 **Modelos representativos**
 
-> **Japonés:** この 本は わたしのです。  
-> **Romaji:** *Kono hon wa watashi no desu.*  
+> **Japonés:** この 本は わたしのです。
+> **Romaji:** *Kono hon wa watashi no desu.*
 > **Español:** Este libro es mío.
 
-> **Japonés:** この かぎは だれのですか。  
-> **Romaji:** *Kono kagi wa dare no desu ka.*  
+> **Japonés:** この かぎは だれのですか。
+> **Romaji:** *Kono kagi wa dare no desu ka.*
 > **Español:** ¿De quién es esta llave?
 
-> **Japonés:** これから お世話に なります。  
-> **Romaji:** *Kore kara osewa ni narimasu.*  
+> **Japonés:** これから お世話に なります。
+> **Romaji:** *Kore kara osewa ni narimasu.*
 > **Español:** A partir de ahora, espero contar con su ayuda.
 
 La ficha completa de la clase se encuentra en [Clase del 22 de julio de 2026 — Lección 2](2026-07-22.qmd).
@@ -163,19 +163,36 @@ La ficha completa de la clase se encuentra en [Clase del 22 de julio de 2026 —
 
 **Modelos representativos**
 
-> **Japonés:** トイレは どこですか。― あそこです。  
-> **Romaji:** *Toire wa doko desu ka. — Asoko desu.*  
+> **Japonés:** トイレは どこですか。― あそこです。
+> **Romaji:** *Toire wa doko desu ka. — Asoko desu.*
 > **Español:** ¿Dónde está el baño? — Está allí.
 
-> **Japonés:** これは どこの ワインですか。― 日本のです。  
-> **Romaji:** *Kore wa doko no wain desu ka. — Nihon no desu.*  
+> **Japonés:** これは どこの ワインですか。― 日本のです。
+> **Romaji:** *Kore wa doko no wain desu ka. — Nihon no desu.*
 > **Español:** ¿De dónde es este vino? — Es de Japón.
 
-> **Japonés:** じゃ、これを ください。  
-> **Romaji:** *Ja, kore o kudasai.*  
+> **Japonés:** じゃ、これを ください。
+> **Romaji:** *Ja, kore o kudasai.*
 > **Español:** Entonces, deme este, por favor.
 
 La ficha completa se encuentra en [Clase del 5 de agosto de 2026 — Lección 3](2026-08-05.qmd).
+
+### 12 de agosto de 2026 — Cierre de la Lección 3
+
+**Temas principales**
+
+- consolidación completa de lugares, formas corteses, instituciones, procedencia y compras;
+- 練習A・B・C y diálogo de compra de vino;
+- 問題 CD10 y CD11 con transcripción, romaji, traducción y respuestas;
+- ejercicio visual 3;
+- lectura de precios, incluida la respuesta de clase `15,800円`.
+
+> **Japonés:** あなたの カメラは いくらですか。― 15,800円です。
+> **Kana:** あなたの カメラは いくらですか。― いちまん ごせん はっぴゃくえんです。
+> **Romaji:** *Anata no kamera wa ikura desu ka. — Ichiman gosen happyaku-en desu.*
+> **Español:** ¿Cuánto cuesta tu cámara? — Cuesta 15.800 yenes.
+
+La ficha completa se encuentra en [Clase del 12 de agosto de 2026 — Lección 3](2026-08-12.qmd).
 
 ## Procedimiento de actualización
 

@@ -116,13 +116,13 @@ Las respuestas pueden variar. Modelos posibles:
 
 ## 13. Completar el diálogo
 
-**サントス:** これから **お世話に なります**。どうぞ よろしく。  
+**サントス:** これから **お世話に なります**。どうぞ よろしく。
 *Santosu: Kore kara osewa ni narimasu. Dōzo yoroshiku.*
 
-**サントス:** あのう、これ、お土産です。**どうぞ**。  
+**サントス:** あのう、これ、お土産です。**どうぞ**。
 *Santosu: Anō, kore, omiyage desu. Dōzo.*
 
-**山田:** **どうも ありがとう ございます**。  
+**山田:** **どうも ありがとう ございます**。
 *Yamada: Dōmo arigatō gozaimasu.*
 
 ## 14. Comprensión auditiva de repaso
@@ -133,35 +133,35 @@ Las respuestas pueden variar. Modelos posibles:
 
 ## 15. Lugares de la Lección 3
 
-1. 受付は **どこ** ですか。— **ここ** です。  
+1. 受付は **どこ** ですか。— **ここ** です。
    *Uketsuke wa doko desu ka. — Koko desu.* — ¿Dónde está la recepción? — Está aquí.
-2. トイレは **どこ** ですか。— **あそこ** です。  
+2. トイレは **どこ** ですか。— **あそこ** です。
    *Toire wa doko desu ka. — Asoko desu.* — ¿Dónde está el baño? — Está allí.
-3. **ここ** は 食堂です。  
+3. **ここ** は 食堂です。
    *Koko wa shokudō desu.* — Este lugar es el comedor.
-4. 会議室は **そこ** です。  
+4. 会議室は **そこ** です。
    *Kaigishitsu wa soko desu.* — La sala de reuniones está ahí.
 
 ## 16. Formas corteses
 
-1. エレベーターは **どちら** ですか。— **あちら** です。  
+1. エレベーターは **どちら** ですか。— **あちら** です。
    *Erebētā wa dochira desu ka. — Achira desu.*
-2. 電話は **どちら** ですか。— **こちら** です。  
+2. 電話は **どちら** ですか。— **こちら** です。
    *Denwa wa dochira desu ka. — Kochira desu.*
-3. お国は **どちら** ですか。— アルゼンチンです。  
+3. お国は **どちら** ですか。— アルゼンチンです。
    *Okuni wa dochira desu ka. — Aruzenchin desu.*
-4. カリナさんの 大学は **どちら** ですか。— 富士大学です。  
+4. カリナさんの 大学は **どちら** ですか。— 富士大学です。
    *Karina-san no daigaku wa dochira desu ka. — Fuji Daigaku desu.*
 
 ## 17. Procedencia con どこの
 
-1. これは どこの ワインですか。— フランスの ワインです。  
+1. これは どこの ワインですか。— フランスの ワインです。
    *Kore wa doko no wain desu ka. — Furansu no wain desu.*
-2. これは どこの カメラですか。— 日本の カメラです。  
+2. これは どこの カメラですか。— 日本の カメラです。
    *Kore wa doko no kamera desu ka. — Nihon no kamera desu.*
-3. これは どこの コンピューターですか。— アメリカの コンピューターです。  
+3. これは どこの コンピューターですか。— アメリカの コンピューターです。
    *Kore wa doko no konpyūtā desu ka. — Amerika no konpyūtā desu.*
-4. これは どこの 車ですか。— ドイツの 車です。  
+4. これは どこの 車ですか。— ドイツの 車です。
    *Kore wa doko no kuruma desu ka. — Doitsu no kuruma desu.*
 
 ## 18. Pisos y lugares
@@ -173,15 +173,15 @@ Las respuestas pueden variar. Modelos posibles:
 
 ## 19. Precios
 
-1. この ネクタイは いくらですか。— 1,500円です。  
+1. この ネクタイは いくらですか。— 1,500円です。
    せん ごひゃくえんです。— *Sen gohyaku-en desu.*
-2. この ワインは いくらですか。— 3,200円です。  
+2. この ワインは いくらですか。— 3,200円です。
    さんぜん にひゃくえんです。— *Sanzen nihyaku-en desu.*
-3. この カメラは いくらですか。— 25,800円です。  
+3. この カメラは いくらですか。— 25,800円です。
    にまん ごせん はっぴゃくえんです。— *Niman gosen happyaku-en desu.*
-4. この コンピューターは いくらですか。— 143,000円です。  
+4. この コンピューターは いくらですか。— 143,000円です。
    じゅうよんまん さんぜんえんです。— *Jūyonman sanzen-en desu.*
-5. この 車は いくらですか。— 4,500,000円です。  
+5. この 車は いくらですか。— 4,500,000円です。
    よんひゃく ごじゅうまんえんです。— *Yonhyaku gojūman-en desu.*
 
 ## 20. Comprar en una tienda
@@ -191,3 +191,44 @@ Las respuestas pueden variar. Modelos posibles:
 3. これは **どこの** ワインですか。
 4. **いくら** ですか。
 5. じゃ、これを **ください**。
+
+## 21. 問題 CD10 — respuestas modelo
+
+1. イギリスです。— *Igirisu desu.* — Soy del Reino Unido.
+2. 東京です。— *Tōkyō desu.* — Vivo en Tokio.
+3. 日本のです。— *Nihon no desu.* — Es de Japón.
+4. いいえ、日本のじゃ ありません。— *Iie, Nihon no ja arimasen.* — No, no es japonesa.
+5. 15,800円です。— いちまん ごせん はっぴゃくえんです。— *Ichiman gosen happyaku-en desu.* — Cuesta 15.800 yenes.
+
+Las respuestas 1 a 4 pueden cambiar para reflejar la situación real del estudiante.
+
+## 22. 問題 CD11 — comprensión
+
+1. **×**. 食堂は そこです。— *Shokudō wa soko desu.* — El comedor está ahí.
+2. **○**. ミラーさんは 会議室です。— *Mirā-san wa kaigishitsu desu.* — Miller está en la sala de reuniones.
+3. **○**. パワー電気は コンピューターの 会社です。— *Pawā Denki wa konpyūtā no kaisha desu.* — Power Electric es una empresa de computadoras.
+4. **×**. 時計売り場は 8階です。— *Tokei uriba wa hakkai desu.* — La sección de relojes está en el octavo piso.
+5. **×**. この 時計は 23,600円です。— にまん さんぜん ろっぴゃくえんです。— *Kono tokei wa niman sanzen roppyaku-en desu.* — Este reloj cuesta 23.600 yenes.
+
+## 23. Ejercicio visual 3
+
+1. **そこは 会議室です。** — *Soko wa kaigishitsu desu.* — Ahí está la sala de reuniones.
+2. **あそこは トイレです。** — *Asoko wa toire desu.* — Allí está el baño.
+3. **ここは 食堂です。** — *Koko wa shokudō desu.* — Aquí está el comedor.
+4. **あそこは 事務所です。** — *Asoko wa jimusho desu.* — Allí está la oficina.
+5. **そこは 教室です。** — *Soko wa kyōshitsu desu.* — Ahí está el aula.
+
+## 24. 練習C — modelos
+
+1. すみません。エレベーターは どこですか。― あそこです。― どうも。
+   *Sumimasen. Erebētā wa doko desu ka. — Asoko desu. — Dōmo.*
+   Disculpe, ¿dónde está el ascensor? — Está allí. — Gracias.
+2. お国は どちらですか。― ドイツです。うちは どちらですか。― ベルリンです。
+   *Okuni wa dochira desu ka. — Doitsu desu. Uchi wa dochira desu ka. — Berurin desu.*
+   ¿De qué país es? — De Alemania. ¿Dónde vive? — En Berlín.
+3. これは どこの ネクタイですか。― イタリアのです。いくらですか。― 7,300円です。
+   *Kore wa doko no nekutai desu ka. — Itaria no desu. Ikura desu ka. — Nanasen sanbyaku-en desu.*
+   ¿De dónde es esta corbata? — Es de Italia. ¿Cuánto cuesta? — Cuesta 7.300 yenes.
+4. その ワインを 見せてください。― はい、どうぞ。― じゃ、これを ください。
+   *Sono wain o misete kudasai. — Hai, dōzo. — Ja, kore o kudasai.*
+   Muéstreme ese vino, por favor. — Sí, aquí tiene. — Entonces, deme este, por favor.

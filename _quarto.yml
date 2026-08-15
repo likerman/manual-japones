@@ -36,6 +36,7 @@ book:
         - 08-registro-clases/indice.qmd
         - 08-registro-clases/2026-07-22.qmd
         - 08-registro-clases/2026-08-05.qmd
+        - 08-registro-clases/2026-08-12.qmd
     - part: "Apéndices"
       chapters:
         - 09-apendices/tablas-rapidas.qmd

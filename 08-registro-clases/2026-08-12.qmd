@@ -1,0 +1,189 @@
+---
+title: "Clase del 12 de agosto de 2026 — Lección 3"
+date: 2026-08-12
+---
+
+## Temas trabajados
+
+- Cierre de la Lección 3 de *Minna no Nihongo*.
+- Contraste `ここ・そこ・あそこ・どこ` y formas corteses `こちら・そちら・あちら・どちら`.
+- Ubicación de lugares, objetos y personas; respuestas mediante un lugar, una sala o un piso.
+- País, empresa y universidad con `どちら`; procedencia con `どこの + sustantivo`.
+- Precios con `いくら`, lectura de yenes y práctica específica de `15,800円`.
+- Pedidos `これを ください` y `～を 見せてください`; diálogo de compra de vino.
+- 練習A・B・C, 問題 CD10・CD11 y ejercicio visual 3.
+
+## Modelos centrales
+
+> **Japonés:** ここは 教室です。受付は そこです。食堂は あそこです。
+> **Kana:** ここは きょうしつです。うけつけは そこです。しょくどうは あそこです。
+> **Romaji:** *Koko wa kyōshitsu desu. Uketsuke wa soko desu. Shokudō wa asoko desu.*
+> **Español:** Aquí está el aula. La recepción está ahí. El comedor está allí.
+
+> **Japonés:** ミラーさんは どこですか。― 会議室です。
+> **Kana:** ミラーさんは どこですか。― かいぎしつです。
+> **Romaji:** *Mirā-san wa doko desu ka. — Kaigishitsu desu.*
+> **Español:** ¿Dónde está el señor Miller? — Está en la sala de reuniones.
+
+> **Japonés:** 会社は どちらですか。― パワー電気です。
+> **Kana:** かいしゃは どちらですか。― パワーでんきです。
+> **Romaji:** *Kaisha wa dochira desu ka. — Pawā Denki desu.*
+> **Español:** ¿Cuál es su empresa? — Power Electric.
+
+> **Japonés:** これは どこの 時計ですか。― 日本のです。
+> **Kana:** これは どこの とけいですか。― にほんのです。
+> **Romaji:** *Kore wa doko no tokei desu ka. — Nihon no desu.*
+> **Español:** ¿De dónde es este reloj? — Es de Japón.
+
+## Precios relevantes
+
+| Precio | Kana | Romaji | Español |
+|---:|---|---|---|
+| 600円 | ろっぴゃくえん | *roppyaku-en* | 600 yenes |
+| 2,500円 | にせん ごひゃくえん | *nisen gohyaku-en* | 2.500 yenes |
+| 2,800円 | にせん はっぴゃくえん | *nisen happyaku-en* | 2.800 yenes |
+| 7,300円 | ななせん さんびゃくえん | *nanasen sanbyaku-en* | 7.300 yenes |
+| 15,800円 | いちまん ごせん はっぴゃくえん | *ichiman gosen happyaku-en* | 15.800 yenes |
+| 18,600円 | いちまん はっせん ろっぴゃくえん | *ichiman hassen roppyaku-en* | 18.600 yenes |
+| 23,600円 | にまん さんぜん ろっぴゃくえん | *niman sanzen roppyaku-en* | 23.600 yenes |
+| 188,000円 | じゅうはちまん はっせんえん | *jūhachiman hassen-en* | 188.000 yenes |
+
+> **Japonés:** あなたの カメラは いくらですか。― 15,800円です。
+> **Kana:** あなたの カメラは いくらですか。― いちまん ごせん はっぴゃくえんです。
+> **Romaji:** *Anata no kamera wa ikura desu ka. — Ichiman gosen happyaku-en desu.*
+> **Español:** ¿Cuánto cuesta tu cámara? — Cuesta 15.800 yenes.
+
+## 会話 — comprar vino
+
+**店員A:** いらっしゃいませ。
+*Ten'in A: Irasshaimase.*
+Bienvenida.
+
+**マリア:** すみません。ワイン売り場は どこですか。
+*Maria: Sumimasen. Wain uriba wa doko desu ka.*
+Disculpe, ¿dónde está la sección de vinos?
+
+**店員A:** 地下1階です。
+*Ten'in A: Chika ikkai desu.*
+Está en el primer subsuelo.
+
+**マリア:** すみません。その ワインを 見せてください。
+*Maria: Sumimasen. Sono wain o misete kudasai.*
+Disculpe. Muéstreme ese vino, por favor.
+
+**店員B:** はい、どうぞ。
+*Ten'in B: Hai, dōzo.*
+Sí, aquí tiene.
+
+**マリア:** これは どこの ワインですか。
+*Maria: Kore wa doko no wain desu ka.*
+¿De dónde es este vino?
+
+**店員B:** 日本のです。
+*Ten'in B: Nihon no desu.*
+Es de Japón.
+
+**マリア:** いくらですか。
+*Maria: Ikura desu ka.*
+¿Cuánto cuesta?
+
+**店員B:** 2,500円です。
+*Ten'in B: Nisen gohyaku-en desu.*
+Cuesta 2.500 yenes.
+
+**マリア:** じゃ、これを ください。
+*Maria: Ja, kore o kudasai.*
+Entonces, deme este, por favor.
+
+## 練習A・B・C
+
+### 練習A — patrones
+
+Se consolidaron los patrones `ここは N です`, `N は どこですか`, `N は どちらですか`, `これは どこの N ですか` y `この N は いくらですか`. Se practicaron lugares como recepción, oficina, aula, comedor, hospital y máquina expendedora; además de pisos, instituciones, procedencia y precios.
+
+### 練習B — producción guiada
+
+Se ubicaron personas y objetos mediante `ここ・そこ・あそこ`, salas y pisos. También se preguntó por el país de Santos, Watt, Schmidt y Karina; por sus empresas o universidades; por el origen de vino, cámara, computadora y auto; y por precios entre 3.200 y 4.500.000 yenes.
+
+### 練習C — diálogos breves
+
+> **Japonés:** すみません。エレベーターは どこですか。― あそこです。― どうも。
+> **Romaji:** *Sumimasen. Erebētā wa doko desu ka. — Asoko desu. — Dōmo.*
+> **Español:** Disculpe, ¿dónde está el ascensor? — Está allí. — Gracias.
+
+> **Japonés:** お国は どちらですか。― ドイツです。うちは どちらですか。― ベルリンです。
+> **Romaji:** *Okuni wa dochira desu ka. — Doitsu desu. Uchi wa dochira desu ka. — Berurin desu.*
+> **Español:** ¿De qué país es? — De Alemania. ¿Dónde vive? — En Berlín.
+
+> **Japonés:** これは どこの ネクタイですか。― イタリアのです。いくらですか。― 7,300円です。
+> **Kana:** これは どこの ネクタイですか。― イタリアのです。いくらですか。― ななせん さんびゃくえんです。
+> **Romaji:** *Kore wa doko no nekutai desu ka. — Itaria no desu. Ikura desu ka. — Nanasen sanbyaku-en desu.*
+> **Español:** ¿De dónde es esta corbata? — Es de Italia. ¿Cuánto cuesta? — Cuesta 7.300 yenes.
+
+## 問題 CD10 — preguntas y respuestas
+
+1. **お国は どちらですか。** — *Okuni wa dochira desu ka.* — ¿De qué país es?
+   **イギリスです。** — *Igirisu desu.* — Soy del Reino Unido.
+2. **うちは どちらですか。** — *Uchi wa dochira desu ka.* — ¿Dónde vive?
+   **東京です。** — *Tōkyō desu.* — En Tokio.
+3. **あなたの 時計は どこの 時計ですか。** — *Anata no tokei wa doko no tokei desu ka.* — ¿De dónde es su reloj?
+   **日本のです。** — *Nihon no desu.* — Es de Japón.
+4. **あなたの カメラは 日本のですか。** — *Anata no kamera wa Nihon no desu ka.* — ¿Su cámara es japonesa?
+   **いいえ、日本のじゃ ありません。** — *Iie, Nihon no ja arimasen.* — No, no es japonesa.
+5. **あなたの カメラは いくらですか。** — *Anata no kamera wa ikura desu ka.* — ¿Cuánto cuesta su cámara?
+   **15,800円です。** — *Ichiman gosen happyaku-en desu.* — Cuesta 15.800 yenes.
+
+Las respuestas son modelos; en preguntas personales pueden adaptarse a la situación del estudiante.
+
+## 問題 CD11 — verdadero o falso
+
+1. **事務所は どこですか。― あそこです。食堂は？― そこです。**  
+   *Jimusho wa doko desu ka. — Asoko desu. Shokudō wa. — Soko desu.*  
+   ¿Dónde está la oficina? — Allí. ¿Y el comedor? — Ahí. La afirmación `食堂は あそこです` es **×**.
+2. **佐藤さんは どちらですか。― 会議室です。ミラーさんも 会議室ですか。― はい、そうです。**  
+   *Satō-san wa dochira desu ka. — Kaigishitsu desu. Mirā-san mo kaigishitsu desu ka. — Hai, sō desu.*  
+   ¿Dónde está Satō? — En la sala de reuniones. ¿Miller también? — Sí. La afirmación es **○**.
+3. **会社は どちらですか。― パワー電気です。何の 会社ですか。― コンピューターの 会社です。**  
+   *Kaisha wa dochira desu ka. — Pawā Denki desu. Nan no kaisha desu ka. — Konpyūtā no kaisha desu.*  
+   ¿Cuál es su empresa? — Power Electric. ¿Qué tipo de empresa es? — De computadoras. La afirmación es **○**.
+4. **時計売り場は どこですか。― 8階です。**  
+   *Tokei uriba wa doko desu ka. — Hakkai desu.*  
+   ¿Dónde está la sección de relojes? — En el octavo piso. La afirmación `1階です` es **×**.
+5. **この 時計は いくらですか。― 23,600円です。じゃ、これを ください。**  
+   *Kono tokei wa ikura desu ka. — Niman sanzen roppyaku-en desu. Ja, kore o kudasai.*  
+   ¿Cuánto cuesta este reloj? — 23.600 yenes. Entonces, deme este. La afirmación `23,800円です` es **×**.
+
+**Respuestas:** `1) ×　2) ○　3) ○　4) ×　5) ×`.
+
+## Ejercicio visual 3
+
+1. **そこは 会議室です。** — *Soko wa kaigishitsu desu.* — Ahí está la sala de reuniones.
+2. **あそこは トイレです。** — *Asoko wa toire desu.* — Allí está el baño.
+3. **ここは 食堂です。** — *Koko wa shokudō desu.* — Aquí está el comedor.
+4. **あそこは 事務所です。** — *Asoko wa jimusho desu.* — Allí está la oficina.
+5. **そこは 教室です。** — *Soko wa kyōshitsu desu.* — Ahí está el aula.
+
+También se leyó una serie visual acumulativa:
+
+1. **これは 日本の カメラです。** — *Kore wa Nihon no kamera desu.* — Esta es una cámara japonesa.
+2. **あの 人は ミラーさんです。** — *Ano hito wa Mirā-san desu.* — Aquella persona es el señor Miller.
+3. **ここは 会社の 食堂です。** — *Koko wa kaisha no shokudō desu.* — Aquí está el comedor de la empresa.
+4. **事務所は 2階です。** — *Jimusho wa nikai desu.* — La oficina está en el segundo piso.
+5. **この 時計は 18,600円です。** — *Kono tokei wa ichiman hassen roppyaku-en desu.* — Este reloj cuesta 18.600 yenes.
+
+## Vocabulario nuevo o consolidado
+
+| Japonés | Kana | Romaji | Español |
+|---|---|---|---|
+| アジア研究センター | アジアけんきゅうセンター | *Ajia kenkyū sentā* | Centro de Investigación de Asia |
+| コンピューターの部屋 | コンピューターのへや | *konpyūtā no heya* | sala de computadoras |
+| パワー電気 | パワーでんき | *Pawā Denki* | Power Electric |
+| タイ | タイ | *Tai* | Tailandia |
+| バンコク | バンコク | *Bankoku* | Bangkok |
+| ベルリン | ベルリン | *Berurin* | Berlín |
+| ジャカルタ | ジャカルタ | *Jakaruta* | Yakarta |
+| スイス | スイス | *Suisu* | Suiza |
+
+## Fuente secundaria
+
+Para cotejar los guiones breves de CD10 y CD11 se consultó [VNJPCLUB — Lesson 3 Exercises](https://www.vnjpclub.com/en/minna-no-nihongo/lesson-3-exercises.html). Las transcripciones aquí reunidas se limitan a los fragmentos trabajados en clase, con romaji, traducción propia y respuestas pedagógicas.

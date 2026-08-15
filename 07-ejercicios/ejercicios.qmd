@@ -218,3 +218,42 @@ Completá con `どこ`, `見せてください`, `どこの`, `いくら` o `く
 **店員:** 2,500円です。
 
 **マリア:** じゃ、これを ___。
+
+## 21. 問題 CD10 — responder preguntas personales
+
+Respondé en japonés, kana cuando haya kanji, romaji y español.
+
+1. お国は どちらですか。
+2. うちは どちらですか。
+3. あなたの 時計は どこの 時計ですか。
+4. あなたの カメラは 日本のですか。
+5. あなたの カメラは いくらですか。（15,800円）
+
+## 22. 問題 CD11 — comprensión
+
+Marcá `○` o `×` y corregí las falsas.
+
+1. El diálogo dice `食堂は そこです`; afirmación: `食堂は あそこです`.
+2. Satō y Miller están en la sala de reuniones; afirmación: `ミラーさんは 会議室です`.
+3. Power Electric es una empresa de computadoras.
+4. La sección de relojes está en `8階`; afirmación: está en `1階`.
+5. El reloj cuesta `23,600円`; afirmación: cuesta `23,800円`.
+
+## 23. Ejercicio visual 3
+
+Completá con `ここ`, `そこ` o `あそこ` según la referencia indicada.
+
+1. ___ は 会議室です。（ahí）
+2. ___ は トイレです。（allí）
+3. ___ は 食堂です。（aquí）
+4. ___ は 事務所です。（allí）
+5. ___ は 教室です。（ahí）
+
+## 24. 練習C — mini-diálogos
+
+Construí diálogos completos.
+
+1. preguntar por el ascensor / respuesta: allí / agradecer;
+2. preguntar país y ciudad / Alemania y Berlín;
+3. preguntar origen y precio de una corbata / Italia y 7.300 yenes;
+4. pedir que muestren un vino y luego comprarlo.
