@@ -232,3 +232,54 @@ Las respuestas 1 a 4 pueden cambiar para reflejar la situación real del estudia
 4. その ワインを 見せてください。― はい、どうぞ。― じゃ、これを ください。
    *Sono wain o misete kudasai. — Hai, dōzo. — Ja, kore o kudasai.*
    Muéstreme ese vino, por favor. — Sí, aquí tiene. — Entonces, deme este, por favor.
+
+## 25. Hora y días de la semana
+
+1. 4時5分 — よじ ごふん — *yoji gofun* — las 4:05.
+2. 9時半 — くじはん — *kuji han* — las 9:30.
+3. 今 何時ですか。— いま なんじですか。— *Ima nanji desu ka.* — ¿Qué hora es ahora?
+4. 休みは 何曜日ですか。— やすみは なんようびですか。— *Yasumi wa nan-yōbi desu ka.* — ¿Qué día de la semana es el descanso?
+5. 土曜日と 日曜日です。— どようびと にちようびです。— *Doyōbi to nichiyōbi desu.* — El sábado y el domingo.
+
+## 26. から〜まで y に
+
+1. 昼休みは 12時半から 1時15分までです。
+   ひるやすみは じゅうにじはんから いちじ じゅうごふんまでです。
+   *Hiruyasumi wa jūniji han kara ichiji jūgofun made desu.* — El descanso del mediodía es de 12:30 a 1:15.
+2. わたしは 9時から 5時まで 働きます。
+   わたしは くじから ごじまで はたらきます。
+   *Watashi wa kuji kara goji made hatarakimasu.* — Trabajo de nueve a cinco.
+3. わたしは 毎朝 6時に 起きます。
+   わたしは まいあさ ろくじに おきます。
+   *Watashi wa maiasa rokuji ni okimasu.* — Me levanto todas las mañanas a las seis.
+4. 毎晩 11時に 寝ます。
+   まいばん じゅういちじに ねます。
+   *Maiban jūichiji ni nemasu.* — Me acuesto todas las noches a las once.
+
+## 27. Cuatro formas formales
+
+| Verbo | Afirmativo | Negativo | Pasado afirmativo | Pasado negativo | Español |
+|---|---|---|---|---|---|
+| 起きます | 起きます — *okimasu* | 起きません — *okimasen* | 起きました — *okimashita* | 起きませんでした — *okimasen deshita* | levantarse |
+| 寝ます | 寝ます — *nemasu* | 寝ません — *nemasen* | 寝ました — *nemashita* | 寝ませんでした — *nemasen deshita* | acostarse |
+| 働きます | 働きます — *hatarakimasu* | 働きません — *hatarakimasen* | 働きました — *hatarakimashita* | 働きませんでした — *hatarakimasen deshita* | trabajar |
+| 休みます | 休みます — *yasumimasu* | 休みません — *yasumimasen* | 休みました — *yasumimashita* | 休みませんでした — *yasumimasen deshita* | descansar |
+| 勉強します | 勉強します — *benkyō shimasu* | 勉強しません — *benkyō shimasen* | 勉強しました — *benkyō shimashita* | 勉強しませんでした — *benkyō shimasen deshita* | estudiar |
+
+## 28. Presente, futuro y pasado
+
+1. 毎日 勉強します。— まいにち べんきょうします。— *Mainichi benkyō shimasu.* — Estudio todos los días.
+2. あした 勉強します。— あした べんきょうします。— *Ashita benkyō shimasu.* — Mañana estudiaré.
+3. きのう 勉強しました。— きのう べんきょうしました。— *Kinō benkyō shimashita.* — Ayer estudié.
+4. きのう 勉強しませんでした。— きのう べんきょうしませんでした。— *Kinō benkyō shimasen deshita.* — Ayer no estudié.
+5. あした 働きません。— あした はたらきません。— *Ashita hatarakimasen.* — Mañana no trabajaré.
+
+## 29. Repaso A — Lecciones 2 y 3
+
+1. **この** 時計は わたしのです。— *Kono tokei wa watashi no desu.* — Este reloj es mío.
+2. あの 方は **どなた** ですか。— *Ano kata wa donata desu ka.* — ¿Quién es aquella persona?
+3. 食堂は **どこ** ですか。— 2階です。— *Shokudō wa doko desu ka. — Nikai desu.* — ¿Dónde está el comedor? — En el segundo piso.
+4. 食堂は **何階** ですか。— 2階です。— *Shokudō wa nankai desu ka. — Nikai desu.* — ¿En qué piso está el comedor? — En el segundo.
+5. これは **何の** 雑誌ですか。— コンピューターの 雑誌です。— *Kore wa nan no zasshi desu ka. — Konpyūtā no zasshi desu.* — ¿De qué es esta revista? — Es de computación.
+6. これは **どこの** カメラですか。— 日本のです。— *Kore wa doko no kamera desu ka. — Nihon no desu.* — ¿De dónde es esta cámara? — Es de Japón.
+7. この カメラは **いくら** ですか。— 15,800円です。— *Kono kamera wa ikura desu ka. — Ichiman gosen happyaku-en desu.* — ¿Cuánto cuesta esta cámara? — Cuesta 15.800 yenes.

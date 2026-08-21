@@ -1,0 +1,76 @@
+---
+title: "Rutinas y formas verbales"
+---
+
+## Momento exacto con に
+
+La partícula `に` marca la hora concreta en la que ocurre una acción.
+
+**Estructura:** `hora + に + verbo`
+
+> **Japonés:** わたしは 毎朝 6時に 起きます。
+> **Kana:** わたしは まいあさ ろくじに おきます。
+> **Romaji:** *Watashi wa maiasa rokuji ni okimasu.*
+> **Español:** Me levanto todas las mañanas a las seis.
+
+> **Japonés:** 毎晩 11時に 寝ます。
+> **Kana:** まいばん じゅういちじに ねます。
+> **Romaji:** *Maiban jūichiji ni nemasu.*
+> **Español:** Me acuesto todas las noches a las once.
+
+## Desde y hasta con から〜まで
+
+`から` indica el punto de inicio y `まで`, el punto final. Pueden usarse juntos o por separado.
+
+**Estructura:** `A から B まで`
+
+> **Japonés:** 昼休みは 12時から 1時までです。
+> **Kana:** ひるやすみは じゅうにじから いちじまでです。
+> **Romaji:** *Hiruyasumi wa jūniji kara ichiji made desu.*
+> **Español:** El descanso del mediodía es de doce a una.
+
+> **Japonés:** わたしは 9時から 5時まで 働きます。
+> **Kana:** わたしは くじから ごじまで はたらきます。
+> **Romaji:** *Watashi wa kuji kara goji made hatarakimasu.*
+> **Español:** Trabajo de nueve a cinco.
+
+## Verbos de la Lección 4
+
+| Japonés | Kana | Romaji | Español |
+|---|---|---|---|
+| 起きます | おきます | *okimasu* | levantarse / despertarse |
+| 寝ます | ねます | *nemasu* | acostarse / dormir |
+| 働きます | はたらきます | *hatarakimasu* | trabajar |
+| 休みます | やすみます | *yasumimasu* | descansar / faltar / tomarse libre |
+| 勉強します | べんきょうします | *benkyō shimasu* | estudiar |
+
+## Las cuatro formas formales
+
+La forma `～ます` puede referirse al presente habitual o al futuro. El contexto temporal permite distinguirlos.
+
+| Valor | Terminación | Japonés | Romaji | Español |
+|---|---|---|---|---|
+| no pasado afirmativo | ～ます | 勉強します | *benkyō shimasu* | estudio / estudiaré |
+| no pasado negativo | ～ません | 勉強しません | *benkyō shimasen* | no estudio / no estudiaré |
+| pasado afirmativo | ～ました | 勉強しました | *benkyō shimashita* | estudié |
+| pasado negativo | ～ませんでした | 勉強しませんでした | *benkyō shimasen deshita* | no estudié |
+
+> **Japonés:** 毎日 勉強します。
+> **Kana:** まいにち べんきょうします。
+> **Romaji:** *Mainichi benkyō shimasu.*
+> **Español:** Estudio todos los días.
+
+> **Japonés:** あした 勉強します。
+> **Kana:** あした べんきょうします。
+> **Romaji:** *Ashita benkyō shimasu.*
+> **Español:** Mañana estudiaré.
+
+> **Japonés:** きのう 勉強しました。
+> **Kana:** きのう べんきょうしました。
+> **Romaji:** *Kinō benkyō shimashita.*
+> **Español:** Ayer estudié.
+
+> **Japonés:** きのう 勉強しませんでした。
+> **Kana:** きのう べんきょうしませんでした。
+> **Romaji:** *Kinō benkyō shimasen deshita.*
+> **Español:** Ayer no estudié.

@@ -1,0 +1,171 @@
+---
+title: "Clase del 21 de agosto de 2026 — Repaso y Lección 4"
+date: 2026-08-21
+---
+
+## Temas trabajados
+
+- Cierre y repaso acumulativo de la Lección 3: demostrativos de objetos, sustantivos y lugares.
+- Interrogativos `どこ`, `どちら`, `何階`, `何の`, `だれ・どなた` e `いくら`.
+- Posesión y relación con `の`, procedencia con `どこの`, pisos, precios y números grandes.
+- Repaso A de los modelos principales de las Lecciones 2 y 3.
+- Comienzo de la Lección 4: hora, minutos, media hora y días de la semana.
+- Intervalos con `から〜まで`, momento exacto con `に` y rutinas diarias.
+- Verbos `起きます・寝ます・働きます・休みます・勉強します`.
+- Cuatro formas formales: `～ます・～ません・～ました・～ませんでした`.
+
+## Cierre de la Lección 3
+
+### Tres series de demostrativos
+
+| Función | Cerca de quien habla | Cerca de quien escucha | Lejos de ambos | Pregunta |
+|---|---|---|---|---|
+| objeto | これ — *kore* — esto | それ — *sore* — eso | あれ — *are* — aquello | どれ — *dore* — cuál |
+| + sustantivo | この — *kono* — este | その — *sono* — ese | あの — *ano* — aquel | どの — *dono* — cuál |
+| lugar | ここ — *koko* — aquí | そこ — *soko* — ahí | あそこ — *asoko* — allí | どこ — *doko* — dónde |
+
+> **Japonés:** これは 何ですか。― カメラです。
+> **Kana:** これは なんですか。― カメラです。
+> **Romaji:** *Kore wa nan desu ka. — Kamera desu.*
+> **Español:** ¿Qué es esto? — Es una cámara.
+
+> **Japonés:** その 時計は だれのですか。― ミラーさんのです。
+> **Kana:** その とけいは だれのですか。― ミラーさんのです。
+> **Romaji:** *Sono tokei wa dare no desu ka. — Mirā-san no desu.*
+> **Español:** ¿De quién es ese reloj? — Es del señor Miller.
+
+> **Japonés:** トイレは どこですか。― あそこです。
+> **Romaji:** *Toire wa doko desu ka. — Asoko desu.*
+> **Español:** ¿Dónde está el baño? — Está allí.
+
+### Preguntas consolidadas
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| 事務所は どちらですか。 | *Jimusho wa dochira desu ka.* | ¿Dónde está la oficina? (cortés) |
+| 食堂は 何階ですか。 | *Shokudō wa nankai desu ka.* | ¿En qué piso está el comedor? |
+| これは 何の 雑誌ですか。 | *Kore wa nan no zasshi desu ka.* | ¿De qué es esta revista? |
+| あの 方は どなたですか。 | *Ano kata wa donata desu ka.* | ¿Quién es aquella persona? (cortés) |
+| この カメラは いくらですか。 | *Kono kamera wa ikura desu ka.* | ¿Cuánto cuesta esta cámara? |
+
+`の` expresa posesión o relación: `わたしの 時計` (*watashi no tokei*, mi reloj), `日本語の 本` (*Nihongo no hon*, libro de japonés). Si el sustantivo ya es conocido, puede omitirse: `わたしのです` (*watashi no desu*, es mío).
+
+La estructura `どこの + sustantivo` pregunta por procedencia o fabricante.
+
+> **Japonés:** これは どこの カメラですか。― 日本のです。
+> **Romaji:** *Kore wa doko no kamera desu ka. — Nihon no desu.*
+> **Español:** ¿De dónde es esta cámara? — Es de Japón.
+
+### Precios y números grandes
+
+| Precio | Kana | Romaji | Español |
+|---:|---|---|---|
+| 600円 | ろっぴゃくえん | *roppyaku-en* | 600 yenes |
+| 7,300円 | ななせん さんびゃくえん | *nanasen sanbyaku-en* | 7.300 yenes |
+| 15,800円 | いちまん ごせん はっぴゃくえん | *ichiman gosen happyaku-en* | 15.800 yenes |
+| 188,000円 | じゅうはちまん はっせんえん | *jūhachiman hassen-en* | 188.000 yenes |
+| 4,500,000円 | よんひゃく ごじゅうまんえん | *yonhyaku gojūman-en* | 4.500.000 yenes |
+
+> **Japonés:** この 時計は いくらですか。― 15,800円です。
+> **Kana:** この とけいは いくらですか。― いちまん ごせん はっぴゃくえんです。
+> **Romaji:** *Kono tokei wa ikura desu ka. — Ichiman gosen happyaku-en desu.*
+> **Español:** ¿Cuánto cuesta este reloj? — Cuesta 15.800 yenes.
+
+## Comienzo de la Lección 4
+
+### Hora: 時・分・半
+
+`時` (`じ`, *ji*) indica la hora; `分` (`ふん・ぷん`, *fun / pun*), los minutos; y `半` (`はん`, *han*), media hora.
+
+> **Japonés:** 今 何時ですか。― 4時5分です。
+> **Kana:** いま なんじですか。― よじ ごふんです。
+> **Romaji:** *Ima nanji desu ka. — Yoji gofun desu.*
+> **Español:** ¿Qué hora es ahora? — Son las 4:05.
+
+> **Japonés:** 今 9時半です。
+> **Kana:** いま くじはんです。
+> **Romaji:** *Ima kuji han desu.*
+> **Español:** Ahora son las 9:30.
+
+### Días de la semana
+
+| Japonés | Kana | Romaji | Español |
+|---|---|---|---|
+| 月曜日 | げつようび | *getsuyōbi* | lunes |
+| 火曜日 | かようび | *kayōbi* | martes |
+| 水曜日 | すいようび | *suiyōbi* | miércoles |
+| 木曜日 | もくようび | *mokuyōbi* | jueves |
+| 金曜日 | きんようび | *kin'yōbi* | viernes |
+| 土曜日 | どようび | *doyōbi* | sábado |
+| 日曜日 | にちようび | *nichiyōbi* | domingo |
+
+> **Japonés:** 休みは 何曜日ですか。― 土曜日と 日曜日です。
+> **Kana:** やすみは なんようびですか。― どようびと にちようびです。
+> **Romaji:** *Yasumi wa nan-yōbi desu ka. — Doyōbi to nichiyōbi desu.*
+> **Español:** ¿Qué días descansa? — El sábado y el domingo.
+
+### から〜まで y hora + に
+
+> **Japonés:** 昼休みは 12時半から 1時15分までです。
+> **Kana:** ひるやすみは じゅうにじはんから いちじ じゅうごふんまでです。
+> **Romaji:** *Hiruyasumi wa jūniji han kara ichiji jūgofun made desu.*
+> **Español:** El descanso del mediodía es de 12:30 a 1:15.
+
+> **Japonés:** わたしは 9時から 5時まで 働きます。
+> **Kana:** わたしは くじから ごじまで はたらきます。
+> **Romaji:** *Watashi wa kuji kara goji made hatarakimasu.*
+> **Español:** Trabajo de nueve a cinco.
+
+> **Japonés:** わたしは 毎朝 6時に 起きます。
+> **Kana:** わたしは まいあさ ろくじに おきます。
+> **Romaji:** *Watashi wa maiasa rokuji ni okimasu.*
+> **Español:** Me levanto todas las mañanas a las seis.
+
+## Verbos y cuatro formas formales
+
+| Verbo | ～ます | ～ません | ～ました | ～ませんでした |
+|---|---|---|---|---|
+| 起きる — *okiru* — levantarse | 起きます — *okimasu* — me levanto | 起きません — *okimasen* — no me levanto | 起きました — *okimashita* — me levanté | 起きませんでした — *okimasen deshita* — no me levanté |
+| 寝る — *neru* — acostarse | 寝ます — *nemasu* — me acuesto | 寝ません — *nemasen* — no me acuesto | 寝ました — *nemashita* — me acosté | 寝ませんでした — *nemasen deshita* — no me acosté |
+| 働く — *hataraku* — trabajar | 働きます — *hatarakimasu* — trabajo | 働きません — *hatarakimasen* — no trabajo | 働きました — *hatarakimashita* — trabajé | 働きませんでした — *hatarakimasen deshita* — no trabajé |
+| 休む — *yasumu* — descansar | 休みます — *yasumimasu* — descanso | 休みません — *yasumimasen* — no descanso | 休みました — *yasumimashita* — descansé | 休みませんでした — *yasumimasen deshita* — no descansé |
+| 勉強する — *benkyō suru* — estudiar | 勉強します — *benkyō shimasu* — estudio | 勉強しません — *benkyō shimasen* — no estudio | 勉強しました — *benkyō shimashita* — estudié | 勉強しませんでした — *benkyō shimasen deshita* — no estudié |
+
+La forma no pasada expresa hábito o futuro según el contexto.
+
+> **Japonés:** 毎日 勉強します。
+> **Kana:** まいにち べんきょうします。
+> **Romaji:** *Mainichi benkyō shimasu.*
+> **Español:** Estudio todos los días.
+
+> **Japonés:** あした 勉強します。
+> **Kana:** あした べんきょうします。
+> **Romaji:** *Ashita benkyō shimasu.*
+> **Español:** Mañana estudiaré.
+
+> **Japonés:** きのう 勉強しました。
+> **Romaji:** *Kinō benkyō shimashita.*
+> **Español:** Ayer estudié.
+
+> **Japonés:** きのう 勉強しませんでした。
+> **Romaji:** *Kinō benkyō shimasen deshita.*
+> **Español:** Ayer no estudié.
+
+## Vocabulario de la clase
+
+| Japonés | Kana | Romaji | Español |
+|---|---|---|---|
+| 今 | いま | *ima* | ahora |
+| 時 | じ | *ji* | hora |
+| 分 | ふん・ぷん | *fun / pun* | minuto |
+| 半 | はん | *han* | mitad / y media |
+| 毎朝 | まいあさ | *maiasa* | todas las mañanas |
+| 毎晩 | まいばん | *maiban* | todas las noches |
+| 毎日 | まいにち | *mainichi* | todos los días |
+| きのう | きのう | *kinō* | ayer |
+| あした | あした | *ashita* | mañana |
+| 昼休み | ひるやすみ | *hiruyasumi* | descanso del mediodía |
+
+## Dudas o correcciones pendientes
+
+- Ninguna por ahora.
