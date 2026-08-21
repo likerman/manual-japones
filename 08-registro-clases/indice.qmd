@@ -194,6 +194,27 @@ La ficha completa se encuentra en [Clase del 5 de agosto de 2026 — Lección 3]
 
 La ficha completa se encuentra en [Clase del 12 de agosto de 2026 — Lección 3](2026-08-12.qmd).
 
+### 21 de agosto de 2026 — Repaso y comienzo de la Lección 4
+
+**Temas principales**
+
+- cierre y repaso de la Lección 3: demostrativos, interrogativos, posesión, procedencia, pisos, precios y números grandes;
+- hora con `時・分・半` y días de la semana;
+- intervalos con `から〜まで` y momento exacto con `に`;
+- rutinas con `起きます・寝ます・働きます・休みます・勉強します`;
+- cuatro formas formales: `～ます・～ません・～ました・～ませんでした`.
+
+> **Japonés:** わたしは 毎朝 6時に 起きます。
+> **Kana:** わたしは まいあさ ろくじに おきます。
+> **Romaji:** *Watashi wa maiasa rokuji ni okimasu.*
+> **Español:** Me levanto todas las mañanas a las seis.
+
+> **Japonés:** きのう 勉強しませんでした。
+> **Romaji:** *Kinō benkyō shimasen deshita.*
+> **Español:** Ayer no estudié.
+
+La ficha completa se encuentra en [Clase del 21 de agosto de 2026 — Repaso y Lección 4](2026-08-21.qmd).
+
 ## Procedimiento de actualización
 
 Después de cada clase se debe:

@@ -257,3 +257,54 @@ Construí diálogos completos.
 2. preguntar país y ciudad / Alemania y Berlín;
 3. preguntar origen y precio de una corbata / Italia y 7.300 yenes;
 4. pedir que muestren un vino y luego comprarlo.
+
+## 25. Hora y días de la semana
+
+Escribí en japonés, kana, romaji y español.
+
+1. 4:05;
+2. 9:30;
+3. preguntar qué hora es ahora;
+4. preguntar qué día de la semana es el descanso;
+5. responder: sábado y domingo.
+
+## 26. から〜まで y に
+
+Traducí al japonés y agregá kana y romaji.
+
+1. El descanso del mediodía es de 12:30 a 1:15.
+2. Trabajo de nueve a cinco.
+3. Me levanto todas las mañanas a las seis.
+4. Me acuesto todas las noches a las once.
+
+## 27. Cuatro formas formales
+
+Completá las cuatro formas de cada verbo y escribí su significado en español.
+
+1. 起きます
+2. 寝ます
+3. 働きます
+4. 休みます
+5. 勉強します
+
+## 28. Presente, futuro y pasado
+
+Traducí al japonés y agregá kana y romaji.
+
+1. Estudio todos los días.
+2. Mañana estudiaré.
+3. Ayer estudié.
+4. Ayer no estudié.
+5. Mañana no trabajaré.
+
+## 29. Repaso A — Lecciones 2 y 3
+
+Completá con el interrogativo o demostrativo adecuado.
+
+1. ___ 時計は わたしのです。（este reloj）
+2. あの 方は ___ ですか。（quién, cortés）
+3. 食堂は ___ ですか。― 2階です。（dónde）
+4. 食堂は ___ ですか。― 2階です。（en qué piso）
+5. これは ___ 雑誌ですか。― コンピューターの 雑誌です。（de qué）
+6. これは ___ カメラですか。― 日本のです。（de dónde）
+7. この カメラは ___ ですか。― 15,800円です。（cuánto）

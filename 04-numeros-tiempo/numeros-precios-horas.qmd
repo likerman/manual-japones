@@ -83,16 +83,16 @@ El japonés agrupa los números grandes alrededor de `まん` (*man*), que equiv
 
 La moneda japonesa se expresa con `円`, leído `えん` (*en*).
 
-> **Japonés:** これは いくらですか。  
-> **Romaji:** *Kore wa ikura desu ka.*  
+> **Japonés:** これは いくらですか。
+> **Romaji:** *Kore wa ikura desu ka.*
 > **Español:** ¿Cuánto cuesta esto?
 
-> **Japonés:** さんびゃくえんです。  
-> **Romaji:** *Sanbyaku-en desu.*  
+> **Japonés:** さんびゃくえんです。
+> **Romaji:** *Sanbyaku-en desu.*
 > **Español:** Cuesta 300 yenes.
 
-> **Japonés:** ごせん よんひゃく ななじゅう にえんです。  
-> **Romaji:** *Gosen yonhyaku nanajū ni-en desu.*  
+> **Japonés:** ごせん よんひゃく ななじゅう にえんです。
+> **Romaji:** *Gosen yonhyaku nanajū ni-en desu.*
 > **Español:** Cuesta 5.472 yenes.
 
 ### Lecturas de precios de la Lección 3
@@ -123,3 +123,40 @@ La hora se construye con el número seguido de `じ` (*ji*). Los minutos se expr
 ::: {.callout-note}
 `ごご` (*gogo*) indica «p. m.». Sin esa expresión, `しちじ` puede interpretarse simplemente como «las siete» según el contexto.
 :::
+
+### Preguntar y decir la hora
+
+> **Japonés:** 今 何時ですか。
+> **Kana:** いま なんじですか。
+> **Romaji:** *Ima nanji desu ka.*
+> **Español:** ¿Qué hora es ahora?
+
+> **Japonés:** 今 4時5分です。
+> **Kana:** いま よじ ごふんです。
+> **Romaji:** *Ima yoji gofun desu.*
+> **Español:** Ahora son las 4:05.
+
+> **Japonés:** 今 9時半です。
+> **Kana:** いま くじはんです。
+> **Romaji:** *Ima kuji han desu.*
+> **Español:** Ahora son las 9:30.
+
+Las horas con lectura especial son `4時` (*yoji*), `7時` (*shichiji*) y `9時` (*kuji*). En los minutos alternan `ふん` (*fun*) y `ぷん` (*pun*): por ejemplo, `5分` (*gofun*) y `10分` (*juppun*).
+
+### Días de la semana
+
+| Japonés | Kana | Romaji | Español |
+|---|---|---|---|
+| 月曜日 | げつようび | *getsuyōbi* | lunes |
+| 火曜日 | かようび | *kayōbi* | martes |
+| 水曜日 | すいようび | *suiyōbi* | miércoles |
+| 木曜日 | もくようび | *mokuyōbi* | jueves |
+| 金曜日 | きんようび | *kin'yōbi* | viernes |
+| 土曜日 | どようび | *doyōbi* | sábado |
+| 日曜日 | にちようび | *nichiyōbi* | domingo |
+| 何曜日 | なんようび | *nan-yōbi* | qué día de la semana |
+
+> **Japonés:** 休みは 何曜日ですか。― 土曜日と 日曜日です。
+> **Kana:** やすみは なんようびですか。― どようびと にちようびです。
+> **Romaji:** *Yasumi wa nan-yōbi desu ka. — Doyōbi to nichiyōbi desu.*
+> **Español:** ¿Qué días descansa? — El sábado y el domingo.
