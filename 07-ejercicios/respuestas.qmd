@@ -283,3 +283,44 @@ Las respuestas 1 a 4 pueden cambiar para reflejar la situación real del estudia
 5. これは **何の** 雑誌ですか。— コンピューターの 雑誌です。— *Kore wa nan no zasshi desu ka. — Konpyūtā no zasshi desu.* — ¿De qué es esta revista? — Es de computación.
 6. これは **どこの** カメラですか。— 日本のです。— *Kore wa doko no kamera desu ka. — Nihon no desu.* — ¿De dónde es esta cámara? — Es de Japón.
 7. この カメラは **いくら** ですか。— 15,800円です。— *Kono kamera wa ikura desu ka. — Ichiman gosen happyaku-en desu.* — ¿Cuánto cuesta esta cámara? — Cuesta 15.800 yenes.
+
+## 30. Marcadores temporales y conjugación
+
+1. きのう 10時に **寝ました**。— *Kinō jūji ni nemashita.* — Ayer me acosté a las diez.
+2. 毎日 12時から 1時まで **休みます**。— *Mainichi jūniji kara ichiji made yasumimasu.* — Todos los días descanso de doce a una.
+3. おとといの晩 9時から 11時まで **勉強しました**。— *Ototoi no ban kuji kara jūichiji made benkyō shimashita.* — Anteanoche estudié de nueve a once.
+4. 毎朝 何時に **起きます**か。— *Maiasa nanji ni okimasu ka.* — ¿A qué hora te levantás todas las mañanas?
+5. あさっては 日曜日です。**働きません**。— *Asatte wa nichiyōbi desu. Hatarakimasen.* — Pasado mañana es domingo. No trabajaré.
+
+## 31. から・まで・に
+
+1. 美術館は 何時 **から** 何時 **まで** ですか。— *Bijutsukan wa nanji kara nanji made desu ka.* — ¿De qué hora a qué hora está abierto el museo de arte?
+2. 大学は 何時 **に** 終わりますか。— *Daigaku wa nanji ni owarimasu ka.* — ¿A qué hora termina la universidad?
+3. きのう 12時 **まで** 勉強しました。— *Kinō jūniji made benkyō shimashita.* — Ayer estudié hasta las doce.
+4. 1時 **に** 寝ました。— *Ichiji ni nemashita.* — Me acosté a la una.
+5. 木曜日 **の** 午後、病院は 休みです。— *Mokuyōbi no gogo, byōin wa yasumi desu.* — El jueves por la tarde, el hospital está cerrado.
+
+## 32. Verbos de movimiento
+
+1. わたしは 京都へ **行きます**。— わたしは きょうとへ いきます。— *Watashi wa Kyōto e ikimasu.* — Voy a Kioto.
+2. タクシーで うちへ **帰ります**。— タクシーで うちへ かえります。— *Takushī de uchi e kaerimasu.* — Vuelvo a casa en taxi.
+3. 家族と 日本へ **来ました**。— かぞくと にほんへ きました。— *Kazoku to Nihon e kimashita.* — Vine a Japón con mi familia.
+
+## 33. Destino, medio y compañía
+
+1. 奈良 **へ** 行きます。— *Nara e ikimasu.* — Voy a Nara.
+2. 新幹線 **で** 東京へ 行きます。— *Shinkansen de Tōkyō e ikimasu.* — Voy a Tokio en tren bala.
+3. 山田さん **と** 東京へ 行きます。— *Yamada-san to Tōkyō e ikimasu.* — Voy a Tokio con Yamada.
+4. だれ **と** 何 **で** どこ **へ** 行きますか。— *Dare to nande doko e ikimasu ka.* — ¿Con quién, en qué medio y adónde vas?
+
+## 34. いつ y どこへも
+
+1. いつ 日本へ 来ましたか。― 3月25日に 来ました。
+   いつ にほんへ きましたか。― さんがつ にじゅうごにちに きました。
+   *Itsu Nihon e kimashita ka. — Sangatsu nijūgo-nichi ni kimashita.* — ¿Cuándo viniste a Japón? — Vine el 25 de marzo.
+2. 誕生日は いつですか。― 6月13日です。
+   たんじょうびは いつですか。― ろくがつ じゅうさんにちです。
+   *Tanjōbi wa itsu desu ka. — Rokugatsu jūsan-nichi desu.* — ¿Cuándo es tu cumpleaños? — Es el 13 de junio.
+3. 日曜日 どこへ 行きましたか。― どこへも 行きませんでした。
+   にちようび どこへ いきましたか。― どこへも いきませんでした。
+   *Nichiyōbi doko e ikimashita ka. — Doko e mo ikimasen deshita.* — ¿Adónde fuiste el domingo? — No fui a ningún lado.

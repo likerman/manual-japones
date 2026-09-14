@@ -215,6 +215,40 @@ La ficha completa se encuentra en [Clase del 12 de agosto de 2026 — Lección 3
 
 La ficha completa se encuentra en [Clase del 21 de agosto de 2026 — Repaso y Lección 4](2026-08-21.qmd).
 
+### 9 de septiembre de 2026 — Cierre de la Lección 4
+
+**Temas principales**
+
+- vocabulario completo de la Lección 4;
+- 練習A・B・C y 問題;
+- horarios, marcadores temporales y cuatro formas verbales;
+- diferencia entre `まで` y `に`;
+- diálogo telefónico para consultar horario y día de cierre.
+
+> **Japonés:** きのう 1時半まで 勉強しました。2時に 寝ました。
+> **Kana:** きのう いちじはんまで べんきょうしました。にじに ねました。
+> **Romaji:** *Kinō ichiji han made benkyō shimashita. Niji ni nemashita.*
+> **Español:** Ayer estudié hasta la una y media. Me acosté a las dos.
+
+La ficha completa se encuentra en [Clase del 9 de septiembre de 2026 — Cierre de la Lección 4](2026-09-09.qmd).
+
+### 11 de septiembre de 2026 — Repaso y comienzo de la Lección 5
+
+**Temas principales**
+
+- repaso detallado de conjugación y respuestas de la Lección 4;
+- verbos de movimiento `行きます・来ます・帰ります`;
+- destino con `へ`, medio con `で` y compañía con `と`;
+- preguntas `どこへ・何で・だれと・いつ`;
+- `どこへも` con verbo negativo y fechas con `に`.
+
+> **Japonés:** わたしは タクシーで うちへ 帰ります。
+> **Kana:** わたしは タクシーで うちへ かえります。
+> **Romaji:** *Watashi wa takushī de uchi e kaerimasu.*
+> **Español:** Vuelvo a casa en taxi.
+
+La ficha completa se encuentra en [Clase del 11 de septiembre de 2026 — Repaso y Lección 5](2026-09-11.qmd).
+
 ## Procedimiento de actualización
 
 Después de cada clase se debe:

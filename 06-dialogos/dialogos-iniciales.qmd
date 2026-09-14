@@ -191,3 +191,33 @@ Cuesta 2.500 yenes.
 **マリア:** じゃ、これを ください。  
 *Maria: Ja, kore o kudasai.*  
 Entonces, deme este, por favor.
+
+## Consultar por teléfono el horario de un local
+
+> **Japonés — ミラー:** すみません。「あすか」の 電話番号は 何番ですか。
+> **Romaji:** *Mirā: Sumimasen. “Asuka” no denwa bangō wa nanban desu ka.*
+> **Español:** Miller: Disculpe, ¿cuál es el número de teléfono de Asuka?
+
+> **Japonés — 佐藤:** 5275の2725です。
+> **Romaji:** *Satō: Go-ni-nana-go no ni-nana-ni-go desu.*
+> **Español:** Satō: Es 5275-2725.
+
+> **Japonés — 店の人:** はい、「あすか」です。
+> **Romaji:** *Mise no hito: Hai, “Asuka” desu.*
+> **Español:** Empleado: Sí, Asuka, dígame.
+
+> **Japonés — ミラー:** すみません。そちらは 何時までですか。
+> **Romaji:** *Mirā: Sumimasen. Sochira wa nanji made desu ka.*
+> **Español:** Miller: Disculpe, ¿hasta qué hora están abiertos?
+
+> **Japonés — 店の人:** 10時までです。
+> **Romaji:** *Mise no hito: Jūji made desu.*
+> **Español:** Empleado: Hasta las diez.
+
+> **Japonés — ミラー:** 休みは 何曜日ですか。
+> **Romaji:** *Mirā: Yasumi wa nan-yōbi desu ka.*
+> **Español:** Miller: ¿Qué día cierran?
+
+> **Japonés — 店の人:** 日曜日です。
+> **Romaji:** *Mise no hito: Nichiyōbi desu.*
+> **Español:** Empleado: El domingo.

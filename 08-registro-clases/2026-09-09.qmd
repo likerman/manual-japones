@@ -1,0 +1,128 @@
+---
+title: "Clase del 9 de septiembre de 2026 — Cierre de la Lección 4"
+date: 2026-09-09
+---
+
+## Temas trabajados
+
+- Vocabulario completo de la Lección 4: verbos, lugares y expresiones temporales.
+- Repaso integral de 練習A y resolución de 練習B.
+- Horas internacionales con `午前・午後` y días con `何曜日`.
+- Horarios y acciones con `から・まで・に`.
+- Elección entre no pasado y pasado según expresiones temporales.
+- Preguntas y respuestas afirmativas y negativas.
+- 練習C: horarios de instituciones, comienzo y fin de actividades, y rutinas pasadas.
+- 問題: interrogativos, partículas y conjugación.
+- 会話: consulta telefónica por el horario del local あすか.
+
+## Vocabulario incorporado
+
+| Japonés | Kana | Romaji | Español |
+|---|---|---|---|
+| 終わります | おわります | *owarimasu* | terminar / finalizar |
+| デパート | デパート | *depāto* | grandes almacenes |
+| 銀行 | ぎんこう | *ginkō* | banco |
+| 郵便局 | ゆうびんきょく | *yūbinkyoku* | oficina de correos |
+| 図書館 | としょかん | *toshokan* | biblioteca |
+| 美術館 | びじゅつかん | *bijutsukan* | museo de arte |
+| 会議 | かいぎ | *kaigi* | reunión |
+| 試験 | しけん | *shiken* | examen |
+| 映画 | えいが | *eiga* | película / cine |
+| 電話番号 | でんわばんごう | *denwa bangō* | número de teléfono |
+| 何番 | なんばん | *nanban* | qué número |
+| あさって | あさって | *asatte* | pasado mañana |
+| おととい | おととい | *ototoi* | anteayer |
+| けさ | けさ | *kesa* | esta mañana |
+| 大変ですね | たいへんですね | *taihen desu ne* | qué duro / qué complicado |
+
+## 練習B — estructuras centrales
+
+### Horas corregidas durante la clase
+
+> **Japonés:** 7時半です。
+> **Kana:** しちじはんです。
+> **Romaji:** *Shichiji han desu.*
+> **Español:** Son las 7:30.
+
+> **Japonés:** 12時15分です。
+> **Kana:** じゅうにじ じゅうごふんです。
+> **Romaji:** *Jūniji jūgofun desu.*
+> **Español:** Son las 12:15.
+
+### Horarios de instituciones
+
+> **Japonés:** 郵便局は 何時から 何時までですか。― 9時から 5時までです。
+> **Kana:** ゆうびんきょくは なんじから なんじまでですか。― くじから ごじまでです。
+> **Romaji:** *Yūbinkyoku wa nanji kara nanji made desu ka. — Kuji kara goji made desu.*
+> **Español:** ¿De qué hora a qué hora está abierta la oficina de correos? — De nueve a cinco.
+
+> **Japonés:** 図書館は 何時から 何時までですか。― 9時から 6時半までです。
+> **Kana:** としょかんは なんじから なんじまでですか。― くじから ろくじはんまでです。
+> **Romaji:** *Toshokan wa nanji kara nanji made desu ka. — Kuji kara rokuji han made desu.*
+> **Español:** ¿De qué hora a qué hora está abierta la biblioteca? — De nueve a seis y media.
+
+### Tiempo y forma verbal
+
+> **Japonés:** きのうの晩 働きました。
+> **Kana:** きのうの ばん はたらきました。
+> **Romaji:** *Kinō no ban hatarakimashita.*
+> **Español:** Anoche trabajé.
+
+> **Japonés:** あさって 勉強します。
+> **Kana:** あさって べんきょうします。
+> **Romaji:** *Asatte benkyō shimasu.*
+> **Español:** Pasado mañana estudiaré.
+
+> **Japonés:** きのう 働きましたか。― いいえ、働きませんでした。
+> **Kana:** きのう はたらきましたか。― いいえ、はたらきませんでした。
+> **Romaji:** *Kinō hatarakimashita ka. — Iie, hatarakimasen deshita.*
+> **Español:** ¿Trabajaste ayer? — No, no trabajé.
+
+## 練習C — inicio, final y límite
+
+> **Japonés:** 試験は 何時からですか。― 10時からです。何時に 終わりますか。― 12時に 終わります。
+> **Kana:** しけんは なんじからですか。― じゅうじからです。なんじに おわりますか。― じゅうにじに おわります。
+> **Romaji:** *Shiken wa nanji kara desu ka. — Jūji kara desu. Nanji ni owarimasu ka. — Jūniji ni owarimasu.*
+> **Español:** ¿A qué hora empieza el examen? — A las diez. ¿A qué hora termina? — Termina a las doce.
+
+> **Japonés:** きのう 1時半まで 勉強しました。2時に 寝ました。
+> **Kana:** きのう いちじはんまで べんきょうしました。にじに ねました。
+> **Romaji:** *Kinō ichiji han made benkyō shimashita. Niji ni nemashita.*
+> **Español:** Ayer estudié hasta la una y media. Me acosté a las dos.
+
+La distinción practicada fue `まで` para el límite de una actividad y `に` para el momento puntual de una acción.
+
+## 問題 — interrogativos y partículas
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| 何時 | *nanji* | qué hora |
+| 何曜日 | *nan-yōbi* | qué día de la semana |
+| 何番 | *nanban* | qué número |
+| 何歳 | *nan-sai* | cuántos años |
+
+> **Japonés:** 毎朝 6時に 起きます。
+> **Kana:** まいあさ ろくじに おきます。
+> **Romaji:** *Maiasa rokuji ni okimasu.*
+> **Español:** Me levanto todas las mañanas a las seis.
+
+> **Japonés:** 木曜日の午後、病院は 休みです。
+> **Kana:** もくようびの ごご、びょういんは やすみです。
+> **Romaji:** *Mokuyōbi no gogo, byōin wa yasumi desu.*
+> **Español:** El jueves por la tarde, el hospital está cerrado.
+
+## 会話 — consultar el horario de un local
+
+> **Japonés:** 「あすか」の 電話番号は 何番ですか。― 5275の2725です。
+> **Kana:** 「あすか」の でんわばんごうは なんばんですか。― ご・に・なな・ごの に・なな・に・ごです。
+> **Romaji:** *“Asuka” no denwa bangō wa nanban desu ka. — Go-ni-nana-go no ni-nana-ni-go desu.*
+> **Español:** ¿Cuál es el número de teléfono de Asuka? — Es 5275-2725.
+
+> **Japonés:** そちらは 何時までですか。― 10時までです。休みは 何曜日ですか。― 日曜日です。
+> **Kana:** そちらは なんじまでですか。― じゅうじまでです。やすみは なんようびですか。― にちようびです。
+> **Romaji:** *Sochira wa nanji made desu ka. — Jūji made desu. Yasumi wa nan-yōbi desu ka. — Nichiyōbi desu.*
+> **Español:** ¿Hasta qué hora están abiertos? — Hasta las diez. ¿Qué día cierran? — El domingo.
+
+## Pendiente
+
+- Los ejercicios de comprensión auditiva 1 y 2 de 問題 requieren el audio; no se completaron por conjetura.

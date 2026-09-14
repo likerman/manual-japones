@@ -308,3 +308,48 @@ Completá con el interrogativo o demostrativo adecuado.
 5. これは ___ 雑誌ですか。― コンピューターの 雑誌です。（de qué）
 6. これは ___ カメラですか。― 日本のです。（de dónde）
 7. この カメラは ___ ですか。― 15,800円です。（cuánto）
+
+## 30. Marcadores temporales y conjugación
+
+Elegí la opción correcta y traducí la oración.
+
+1. きのう 10時に（寝ます・寝ました）。
+2. 毎日 12時から 1時まで（休みます・休みました）。
+3. おとといの晩 9時から 11時まで（勉強します・勉強しました）。
+4. 毎朝 何時に（起きます・起きました）か。
+5. あさっては 日曜日です。（働きません・働きませんでした）。
+
+## 31. から・まで・に
+
+Completá con la partícula adecuada y agregá romaji y traducción.
+
+1. 美術館は 何時 ___ 何時 ___ ですか。
+2. 大学は 何時 ___ 終わりますか。
+3. きのう 12時 ___ 勉強しました。
+4. 1時 ___ 寝ました。
+5. 木曜日 ___ 午後、病院は 休みです。
+
+## 32. Verbos de movimiento
+
+Completá con `行きます`, `来ます` o `帰ります` y traducí.
+
+1. わたしは 京都へ ___。
+2. タクシーで うちへ ___。
+3. 家族と 日本へ ___。（pasado）
+
+## 33. Destino, medio y compañía
+
+Completá con `へ`, `で` o `と`.
+
+1. 奈良 ___ 行きます。
+2. 新幹線 ___ 東京へ 行きます。
+3. 山田さん ___ 東京へ 行きます。
+4. だれ ___ 何 ___ どこ ___ 行きますか。
+
+## 34. いつ y どこへも
+
+Traducí al japonés con kana y romaji.
+
+1. ¿Cuándo viniste a Japón? — Vine el 25 de marzo.
+2. ¿Cuándo es tu cumpleaños? — Es el 13 de junio.
+3. ¿Adónde fuiste el domingo? — No fui a ningún lado.
