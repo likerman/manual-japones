@@ -23,6 +23,7 @@ book:
         - 03-gramatica/demostrativos-lugares.qmd
         - 03-gramatica/lugares-procedencia-compras.qmd
         - 03-gramatica/rutinas-y-verbos.qmd
+        - 03-gramatica/movimiento-y-destinos.qmd
     - part: "Números y vocabulario"
       chapters:
         - 04-numeros-tiempo/numeros-precios-horas.qmd
@@ -39,6 +40,8 @@ book:
         - 08-registro-clases/2026-08-05.qmd
         - 08-registro-clases/2026-08-12.qmd
         - 08-registro-clases/2026-08-21.qmd
+        - 08-registro-clases/2026-09-09.qmd
+        - 08-registro-clases/2026-09-11.qmd
     - part: "Apéndices"
       chapters:
         - 09-apendices/tablas-rapidas.qmd

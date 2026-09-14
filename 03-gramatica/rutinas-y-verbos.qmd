@@ -43,6 +43,7 @@ La partícula `に` marca la hora concreta en la que ocurre una acción.
 | 働きます | はたらきます | *hatarakimasu* | trabajar |
 | 休みます | やすみます | *yasumimasu* | descansar / faltar / tomarse libre |
 | 勉強します | べんきょうします | *benkyō shimasu* | estudiar |
+| 終わります | おわります | *owarimasu* | terminar / finalizar |
 
 ## Las cuatro formas formales
 
@@ -74,3 +75,53 @@ La forma `～ます` puede referirse al presente habitual o al futuro. El contex
 > **Kana:** きのう べんきょうしませんでした。
 > **Romaji:** *Kinō benkyō shimasen deshita.*
 > **Español:** Ayer no estudié.
+
+## Elegir la forma según el marcador temporal
+
+Las expresiones habituales y futuras se combinan con la forma no pasada; las expresiones que señalan un momento anterior requieren pasado.
+
+| Expresión | Romaji | Español | Forma esperada |
+|---|---|---|---|
+| 毎日 | *mainichi* | todos los días | ～ます / ～ません |
+| 毎朝 | *maiasa* | todas las mañanas | ～ます / ～ません |
+| あした | *ashita* | mañana | ～ます / ～ません |
+| あさって | *asatte* | pasado mañana | ～ます / ～ません |
+| きのう | *kinō* | ayer | ～ました / ～ませんでした |
+| おととい | *ototoi* | anteayer | ～ました / ～ませんでした |
+| けさ | *kesa* | esta mañana | depende de si la acción ya ocurrió |
+
+> **Japonés:** おとといの晩 9時から 11時まで 勉強しました。
+> **Kana:** おとといの ばん くじから じゅういちじまで べんきょうしました。
+> **Romaji:** *Ototoi no ban kuji kara jūichiji made benkyō shimashita.*
+> **Español:** Anteanoche estudié de nueve a once.
+
+> **Japonés:** あさっては 日曜日です。働きません。
+> **Kana:** あさっては にちようびです。はたらきません。
+> **Romaji:** *Asatte wa nichiyōbi desu. Hatarakimasen.*
+> **Español:** Pasado mañana es domingo. No trabajaré.
+
+## まで frente a に
+
+`まで` marca el límite hasta el cual continúa una actividad. `に` marca el momento concreto en que ocurre una acción.
+
+> **Japonés:** きのう 12時まで 勉強しました。
+> **Kana:** きのう じゅうにじまで べんきょうしました。
+> **Romaji:** *Kinō jūniji made benkyō shimashita.*
+> **Español:** Ayer estudié hasta las doce.
+
+> **Japonés:** 1時に 寝ました。
+> **Kana:** いちじに ねました。
+> **Romaji:** *Ichiji ni nemashita.*
+> **Español:** Me acosté a la una.
+
+## Preguntar cuándo termina algo
+
+> **Japonés:** 会議は 何時からですか。― 1時からです。
+> **Kana:** かいぎは なんじからですか。― いちじからです。
+> **Romaji:** *Kaigi wa nanji kara desu ka. — Ichiji kara desu.*
+> **Español:** ¿A qué hora empieza la reunión? — A la una.
+
+> **Japonés:** 何時に 終わりますか。― 2時半に 終わります。
+> **Kana:** なんじに おわりますか。― にじはんに おわります。
+> **Romaji:** *Nanji ni owarimasu ka. — Niji han ni owarimasu.*
+> **Español:** ¿A qué hora termina? — Termina a las dos y media.

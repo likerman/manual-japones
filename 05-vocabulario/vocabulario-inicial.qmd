@@ -75,6 +75,11 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | エスカレーター | *esukarētā* | escalera mecánica |
 | 部屋（へや） | *heya* | habitación |
 | 家（うち） | *uchi* | casa; hogar |
+| デパート | *depāto* | grandes almacenes |
+| 銀行（ぎんこう） | *ginkō* | banco |
+| 郵便局（ゆうびんきょく） | *yūbinkyoku* | oficina de correos |
+| 図書館（としょかん） | *toshokan* | biblioteca |
+| 美術館（びじゅつかん） | *bijutsukan* | museo de arte |
 
 ## Objetos
 
@@ -145,6 +150,30 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | 勉強します（べんきょうします） | *benkyō shimasu* | estudiar |
 | 低い（ひくい） | *hikui* | bajo |
 | 遅い（おそい） | *osoi* | lento; tarde |
+| 終わります（おわります） | *owarimasu* | terminar; finalizar |
+| 行きます（いきます） | *ikimasu* | ir |
+| 来ます（きます） | *kimasu* | venir |
+| 帰ります（かえります） | *kaerimasu* | volver; regresar |
+| 毎朝（まいあさ） | *maiasa* | todas las mañanas |
+| 毎晩（まいばん） | *maiban* | todas las noches |
+| 毎日（まいにち） | *mainichi* | todos los días |
+| あさって | *asatte* | pasado mañana |
+| おととい | *ototoi* | anteayer |
+| けさ | *kesa* | esta mañana |
+| 誕生日（たんじょうび） | *tanjōbi* | cumpleaños |
+
+## Actividades, transporte y vínculos
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| 会議（かいぎ） | *kaigi* | reunión |
+| 試験（しけん） | *shiken* | examen |
+| 映画（えいが） | *eiga* | película; cine |
+| 電話番号（でんわばんごう） | *denwa bangō* | número de teléfono |
+| 家族（かぞく） | *kazoku* | familia |
+| タクシー | *takushī* | taxi |
+| 新幹線（しんかんせん） | *shinkansen* | tren bala |
+| 大変ですね（たいへんですね） | *taihen desu ne* | qué duro; qué complicado |
 
 ## Alimentos, cuerpo y naturaleza
 
@@ -192,6 +221,7 @@ Este capítulo reúne el vocabulario efectivamente trabajado en las clases. Cuan
 | バンコク | *Bankoku* | Bangkok |
 | ベルリン | *Berurin* | Berlín |
 | ジャカルタ | *Jakaruta* | Yakarta |
+| 奈良（なら） | *Nara* | Nara |
 | ヘレミアス | *Heremiasu* | Jeremías |
 | アイメ | *Aime* | Aime |
 

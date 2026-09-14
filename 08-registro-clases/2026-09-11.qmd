@@ -1,0 +1,123 @@
+---
+title: "Clase del 11 de septiembre de 2026 — Repaso y comienzo de la Lección 5"
+date: 2026-09-11
+---
+
+## Temas trabajados
+
+- Repaso detallado de 練習B, 練習C y 問題 de la Lección 4.
+- Elección explícita entre pares verbales de no pasado y pasado.
+- Coherencia temporal en respuestas afirmativas y negativas.
+- Diferencia entre `何時に`, `何時まで` y `何時から何時まで`.
+- Vocabulario `事務所` frente a `会社`.
+- Inicio de la Lección 5: `行きます・来ます・帰ります`.
+- Destino con `へ`, transporte con `で` y compañía con `と`.
+- Preguntas `どこへ・何で・だれと・いつ`.
+- Negación total con `どこへも + verbo negativo` y fechas concretas con `に`.
+
+## Repaso detallado de la Lección 4
+
+### Elegir la forma verbal
+
+| Oración | Opciones | Forma correcta | Español |
+|---|---|---|---|
+| きのう 10時に（　）。 | 寝ます / 寝ました | 寝ました — *nemashita* | Ayer me acosté a las diez. |
+| 毎日 12時から 1時まで（　）。 | 休みます / 休みました | 休みます — *yasumimasu* | Todos los días descanso de doce a una. |
+| おとといの晩 9時から 11時まで（　）。 | 勉強します / 勉強しました | 勉強しました — *benkyō shimashita* | Anteanoche estudié de nueve a once. |
+| 毎朝 何時に（　）か。 | 起きます / 起きました | 起きます — *okimasu* | ¿A qué hora te levantás todas las mañanas? |
+| あさっては 日曜日です。（　）。 | 働きません / 働きませんでした | 働きません — *hatarakimasen* | Pasado mañana es domingo. No trabajaré. |
+
+### Responder conservando tiempo y polaridad
+
+| Pregunta | Respuesta | Romaji | Español |
+|---|---|---|---|
+| おととい 休みましたか。 | はい、休みました。 | *Hai, yasumimashita.* | Sí, descansé. |
+| 日曜日 働きますか。 | いいえ、働きません。 | *Iie, hatarakimasen.* | No, no trabajo. |
+| きのう 勉強しましたか。 | いいえ、勉強しませんでした。 | *Iie, benkyō shimasen deshita.* | No, no estudié. |
+| 大学は 3時に 終わりますか。 | はい、終わります。 | *Hai, owarimasu.* | Sí, termina. |
+
+La regla consolidada fue:
+
+| Pregunta | Afirmativo | Negativo |
+|---|---|---|
+| ～ますか | ～ます — *masu* — hago / haré | ～ません — *masen* — no hago / no haré |
+| ～ましたか | ～ました — *mashita* — hice | ～ませんでした — *masen deshita* — no hice |
+
+### Tres preguntas temporales
+
+> **Japonés:** けさ 何時に 起きましたか。― 7時半に 起きました。
+> **Kana:** けさ なんじに おきましたか。― しちじはんに おきました。
+> **Romaji:** *Kesa nanji ni okimashita ka. — Shichiji han ni okimashita.*
+> **Español:** ¿A qué hora te levantaste esta mañana? — Me levanté a las 7:30.
+
+> **Japonés:** きのう 何時まで 働きましたか。― 9時まで 働きました。
+> **Kana:** きのう なんじまで はたらきましたか。― くじまで はたらきました。
+> **Romaji:** *Kinō nanji made hatarakimashita ka. — Kuji made hatarakimashita.*
+> **Español:** ¿Hasta qué hora trabajaste ayer? — Trabajé hasta las nueve.
+
+> **Japonés:** きのうの晩 何時から 何時まで 勉強しましたか。― 7時から 8時半まで 勉強しました。
+> **Kana:** きのうの ばん なんじから なんじまで べんきょうしましたか。― しちじから はちじはんまで べんきょうしました。
+> **Romaji:** *Kinō no ban nanji kara nanji made benkyō shimashita ka. — Shichiji kara hachiji han made benkyō shimashita.*
+> **Español:** ¿De qué hora a qué hora estudiaste anoche? — Estudié de siete a ocho y media.
+
+## Comienzo de la Lección 5
+
+### Modelos principales
+
+> **Japonés:** わたしは 京都へ 行きます。
+> **Kana:** わたしは きょうとへ いきます。
+> **Romaji:** *Watashi wa Kyōto e ikimasu.*
+> **Español:** Voy a Kioto.
+
+> **Japonés:** わたしは タクシーで うちへ 帰ります。
+> **Kana:** わたしは タクシーで うちへ かえります。
+> **Romaji:** *Watashi wa takushī de uchi e kaerimasu.*
+> **Español:** Vuelvo a casa en taxi.
+
+> **Japonés:** わたしは 家族と 日本へ 来ました。
+> **Kana:** わたしは かぞくと にほんへ きました。
+> **Romaji:** *Watashi wa kazoku to Nihon e kimashita.*
+> **Español:** Vine a Japón con mi familia.
+
+### Preguntas nuevas
+
+| Japonés | Romaji | Español |
+|---|---|---|
+| どこへ 行きますか。 | *Doko e ikimasu ka.* | ¿Adónde vas? |
+| 何で 行きますか。 | *Nande ikimasu ka.* | ¿En qué medio vas? |
+| だれと 行きますか。 | *Dare to ikimasu ka.* | ¿Con quién vas? |
+| いつ 来ましたか。 | *Itsu kimashita ka.* | ¿Cuándo viniste? |
+
+> **Japonés:** 何で 東京へ 行きますか。― 新幹線で 行きます。
+> **Kana:** なんで とうきょうへ いきますか。― しんかんせんで いきます。
+> **Romaji:** *Nande Tōkyō e ikimasu ka. — Shinkansen de ikimasu.*
+> **Español:** ¿En qué medio vas a Tokio? — Voy en tren bala.
+
+> **Japonés:** だれと 東京へ 行きますか。― 山田さんと 行きます。
+> **Kana:** だれと とうきょうへ いきますか。― やまださんと いきます。
+> **Romaji:** *Dare to Tōkyō e ikimasu ka. — Yamada-san to ikimasu.*
+> **Español:** ¿Con quién vas a Tokio? — Voy con Yamada.
+
+### Ningún destino y fechas
+
+> **Japonés:** 日曜日 どこへ 行きましたか。― どこへも 行きませんでした。
+> **Kana:** にちようび どこへ いきましたか。― どこへも いきませんでした。
+> **Romaji:** *Nichiyōbi doko e ikimashita ka. — Doko e mo ikimasen deshita.*
+> **Español:** ¿Adónde fuiste el domingo? — No fui a ningún lado.
+
+> **Japonés:** いつ 日本へ 来ましたか。― 3月25日に 来ました。
+> **Kana:** いつ にほんへ きましたか。― さんがつ にじゅうごにちに きました。
+> **Romaji:** *Itsu Nihon e kimashita ka. — Sangatsu nijūgo-nichi ni kimashita.*
+> **Español:** ¿Cuándo viniste a Japón? — Vine el 25 de marzo.
+
+> **Japonés:** 誕生日は いつですか。― 6月13日です。
+> **Kana:** たんじょうびは いつですか。― ろくがつ じゅうさんにちです。
+> **Romaji:** *Tanjōbi wa itsu desu ka. — Rokugatsu jūsan-nichi desu.*
+> **Español:** ¿Cuándo es tu cumpleaños? — Es el 13 de junio.
+
+## Vocabulario contrastado
+
+| Japonés | Kana | Romaji | Español |
+|---|---|---|---|
+| 事務所 | じむしょ | *jimusho* | oficina |
+| 会社 | かいしゃ | *kaisha* | empresa / compañía |

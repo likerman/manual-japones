@@ -1,0 +1,85 @@
+---
+title: "Movimiento, destinos y compañía"
+---
+
+## Verbos de movimiento
+
+| Japonés | Kana | Romaji | Español |
+|---|---|---|---|
+| 行きます | いきます | *ikimasu* | ir |
+| 来ます | きます | *kimasu* | venir |
+| 帰ります | かえります | *kaerimasu* | volver / regresar |
+
+## Destino con へ
+
+La partícula `へ` señala dirección o destino. Se escribe *he*, pero como partícula se pronuncia *e*.
+
+**Estructura:** `lugar + へ + verbo de movimiento`
+
+> **Japonés:** わたしは 京都へ 行きます。
+> **Kana:** わたしは きょうとへ いきます。
+> **Romaji:** *Watashi wa Kyōto e ikimasu.*
+> **Español:** Voy a Kioto.
+
+> **Japonés:** あした どこへ 行きますか。― 奈良へ 行きます。
+> **Kana:** あした どこへ いきますか。― ならへ いきます。
+> **Romaji:** *Ashita doko e ikimasu ka. — Nara e ikimasu.*
+> **Español:** ¿Adónde vas mañana? — Voy a Nara.
+
+## Medio de transporte con で
+
+La partícula `で` indica el medio utilizado para desplazarse.
+
+> **Japonés:** わたしは タクシーで うちへ 帰ります。
+> **Kana:** わたしは タクシーで うちへ かえります。
+> **Romaji:** *Watashi wa takushī de uchi e kaerimasu.*
+> **Español:** Vuelvo a casa en taxi.
+
+> **Japonés:** 何で 東京へ 行きますか。― 新幹線で 行きます。
+> **Kana:** なんで とうきょうへ いきますか。― しんかんせんで いきます。
+> **Romaji:** *Nande Tōkyō e ikimasu ka. — Shinkansen de ikimasu.*
+> **Español:** ¿En qué medio vas a Tokio? — Voy en tren bala.
+
+## Compañía con と
+
+`と` después de una persona significa «con».
+
+> **Japonés:** わたしは 家族と 日本へ 来ました。
+> **Kana:** わたしは かぞくと にほんへ きました。
+> **Romaji:** *Watashi wa kazoku to Nihon e kimashita.*
+> **Español:** Vine a Japón con mi familia.
+
+> **Japonés:** だれと 東京へ 行きますか。― 山田さんと 行きます。
+> **Kana:** だれと とうきょうへ いきますか。― やまださんと いきます。
+> **Romaji:** *Dare to Tōkyō e ikimasu ka. — Yamada-san to ikimasu.*
+> **Español:** ¿Con quién vas a Tokio? — Voy con Yamada.
+
+## Negación total con どこへも
+
+`どこへも` con un verbo negativo expresa «a ningún lugar». La partícula `へ` puede omitirse.
+
+> **Japonés:** 日曜日 どこへ 行きましたか。― どこへも 行きませんでした。
+> **Kana:** にちようび どこへ いきましたか。― どこへも いきませんでした。
+> **Romaji:** *Nichiyōbi doko e ikimashita ka. — Doko e mo ikimasen deshita.*
+> **Español:** ¿Adónde fuiste el domingo? — No fui a ningún lado.
+
+## Fechas y いつ
+
+`いつ` pregunta «cuándo». Una fecha concreta seguida de una acción lleva `に`.
+
+> **Japonés:** いつ 日本へ 来ましたか。― 3月25日に 来ました。
+> **Kana:** いつ にほんへ きましたか。― さんがつ にじゅうごにちに きました。
+> **Romaji:** *Itsu Nihon e kimashita ka. — Sangatsu nijūgo-nichi ni kimashita.*
+> **Español:** ¿Cuándo viniste a Japón? — Vine el 25 de marzo.
+
+> **Japonés:** 誕生日は いつですか。― 6月13日です。
+> **Kana:** たんじょうびは いつですか。― ろくがつ じゅうさんにちです。
+> **Romaji:** *Tanjōbi wa itsu desu ka. — Rokugatsu jūsan-nichi desu.*
+> **Español:** ¿Cuándo es tu cumpleaños? — Es el 13 de junio.
+
+## Pregunta combinada
+
+> **Japonés:** だれと 何で どこへ 行きますか。
+> **Kana:** だれと なんで どこへ いきますか。
+> **Romaji:** *Dare to nande doko e ikimasu ka.*
+> **Español:** ¿Con quién, en qué medio y adónde vas?
