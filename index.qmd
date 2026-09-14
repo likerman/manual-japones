@@ -2,7 +2,7 @@
 title: "Cómo usar este manual"
 ---
 
-Este manual organiza de manera temática y cronológica los contenidos estudiados en las clases de japonés.
+Este manual organiza de manera temática y cronológica los contenidos estudiados en las clases de japonés y, como referencia de avance, mantiene alineados los temas trabajados con *Minna no Nihongo Shokyū I, 2.ª edición*.
 
 ::: {.content-visible when-format="html"}
 [**Descargar la edición PDF del manual**](downloads/Manual_de_japones.pdf)
@@ -26,25 +26,36 @@ Toda palabra u oración nueva se presenta, siempre que corresponda, en cuatro ni
 
 Cuando la forma japonesa ya está completamente escrita en kana, las dos primeras líneas coinciden y se muestra solamente una.
 
-## Contenido de la versión 0.3
+## Contenido de la versión 0.4
 
-La versión actual reúne los temas trabajados entre mayo y agosto de 2026:
+La versión actual reúne los temas trabajados entre mayo y septiembre de 2026 y consolida la cobertura de las **Lecciones 1 a 5 de Minna no Nihongo**.
+
+Incluye:
 
 - saludos y presentación personal;
-- pronombres y nacionalidades;
-- partículas `は` y `か`;
+- pronombres, profesiones, nacionalidades y edad;
+- partículas `は`, `も` y `か`;
 - formas afirmativas, negativas e interrogativas;
 - procedencia con `から きました`;
-- demostrativos y expresiones de lugar;
-- vocabulario de objetos, lugares, personas, alimentos y países;
+- demostrativos, posesión con `の` y preguntas de pertenencia;
+- lugares, `ここ・そこ・あそこ`, `どこ`, `こちら・そちら・あちら` y `どちら`;
+- procedencia de productos con `どこの`, pisos, precios y compras;
 - números, centenas, miles, diez mil y millón;
-- precios, horas y minutos;
+- horas, minutos y días de la semana;
+- rutinas, `に`, `から〜まで` y las cuatro formas formales en `ます`;
+- verbos de movimiento `行きます・来ます・帰ります`;
+- destino con `へ`, medio con `で` y compañía con `と`;
+- preguntas con `どこへ`, `何で`, `だれと` e `いつ`;
+- fechas y negación total con `どこへも … ませんでした`;
 - tabla básica de hiragana y katakana;
 - combinaciones fonéticas y consonante doble;
-- lugares, direcciones corteses, pisos y subsuelos;
-- procedencia de productos y situaciones de compra;
 - diálogos y ejercicios acumulativos;
-- glosario estructurado actualizado en cada clase.
+- un bloque específico de repaso de las Lecciones 1–5;
+- glosario estructurado actualizado a medida que avanzan las clases.
+
+::: {.callout-note}
+La alineación con *Minna no Nihongo* sirve como control de cobertura. El manual no reproduce el libro: reorganiza y explica los contenidos en español, con japonés, kana y romaji para facilitar la consulta y el repaso.
+:::
 
 ## Actualización progresiva
 
@@ -55,4 +66,4 @@ Después de cada nueva clase se incorporarán:
 3. las palabras nuevas en el glosario;
 4. ejercicios y respuestas de repaso.
 
-El objetivo no es anticipar el curso sino consolidar, ordenar y hacer consultable lo que efectivamente se vaya aprendiendo.
+El objetivo es consolidar, ordenar y hacer consultable lo que efectivamente se vaya aprendiendo, manteniendo una referencia clara respecto del avance del curso.
