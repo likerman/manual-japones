@@ -26,6 +26,8 @@ La partícula `へ` señala dirección o destino. Se escribe *he*, pero como par
 > **Romaji:** *Ashita doko e ikimasu ka. — Nara e ikimasu.*
 > **Español:** ¿Adónde vas mañana? — Voy a Nara.
 
+En los ejercicios de la Lección 5 también aparecen destinos como `スーパー` (*sūpā*, supermercado), `会社` (*kaisha*, empresa) y `東京` (*Tōkyō*, Tokio).
+
 ## Medio de transporte con で
 
 La partícula `で` indica el medio utilizado para desplazarse.
@@ -40,6 +42,26 @@ La partícula `で` indica el medio utilizado para desplazarse.
 > **Romaji:** *Nande Tōkyō e ikimasu ka. — Shinkansen de ikimasu.*
 > **Español:** ¿En qué medio vas a Tokio? — Voy en tren bala.
 
+### Medios de transporte de la Lección 5
+
+| Japonés | Kana | Romaji | Español |
+|---|---|---|---|
+| タクシー | タクシー | *takushī* | taxi |
+| バス | バス | *basu* | autobús |
+| 地下鉄 | ちかてつ | *chikatetsu* | subte / metro |
+| 自転車 | じてんしゃ | *jitensha* | bicicleta |
+| 新幹線 | しんかんせん | *shinkansen* | tren bala |
+
+> **Japonés:** バスで 会社へ 行きます。
+> **Kana:** バスで かいしゃへ いきます。
+> **Romaji:** *Basu de kaisha e ikimasu.*
+> **Español:** Voy a la empresa en autobús.
+
+> **Japonés:** 地下鉄で 東京へ 行きます。
+> **Kana:** ちかてつで とうきょうへ いきます。
+> **Romaji:** *Chikatetsu de Tōkyō e ikimasu.*
+> **Español:** Voy a Tokio en subte.
+
 ## Compañía con と
 
 `と` después de una persona significa «con».
@@ -53,6 +75,8 @@ La partícula `で` indica el medio utilizado para desplazarse.
 > **Kana:** だれと とうきょうへ いきますか。― やまださんと いきます。
 > **Romaji:** *Dare to Tōkyō e ikimasu ka. — Yamada-san to ikimasu.*
 > **Español:** ¿Con quién vas a Tokio? — Voy con Yamada.
+
+En la misma estructura pueden aparecer personas o grupos como `友達` (`ともだち`, *tomodachi*, amigo/a) y `家族` (`かぞく`, *kazoku*, familia).
 
 ## Negación total con どこへも
 
@@ -76,6 +100,30 @@ La partícula `で` indica el medio utilizado para desplazarse.
 > **Kana:** たんじょうびは いつですか。― ろくがつ じゅうさんにちです。
 > **Romaji:** *Tanjōbi wa itsu desu ka. — Rokugatsu jūsan-nichi desu.*
 > **Español:** ¿Cuándo es tu cumpleaños? — Es el 13 de junio.
+
+### Referencias temporales que aparecen en la Lección 5
+
+| Japonés | Kana | Romaji | Español |
+|---|---|---|---|
+| 3月25日 | さんがつ にじゅうごにち | *sangatsu nijūgo-nichi* | 25 de marzo |
+| 6月13日 | ろくがつ じゅうさんにち | *rokugatsu jūsan-nichi* | 13 de junio |
+| 7月15日 | しちがつ じゅうごにち | *shichigatsu jūgo-nichi* | 15 de julio |
+| 日曜日 | にちようび | *nichiyōbi* | domingo |
+| 来週 | らいしゅう | *raishū* | la semana que viene |
+
+> **Japonés:** 7月15日に 国へ 帰ります。
+> **Kana:** しちがつ じゅうごにちに くにへ かえります。
+> **Romaji:** *Shichigatsu jūgo-nichi ni kuni e kaerimasu.*
+> **Español:** Regreso a mi país el 15 de julio.
+
+> **Japonés:** 来週 国へ 帰ります。
+> **Kana:** らいしゅう くにへ かえります。
+> **Romaji:** *Raishū kuni e kaerimasu.*
+> **Español:** Regreso a mi país la semana que viene.
+
+::: {.callout-note}
+En los modelos de esta lección, una fecha concreta como `7月15日` lleva `に`, mientras que una expresión amplia como `来週` aparece sin `に`. La pregunta `いつ` también se usa sin `に`.
+:::
 
 ## Pregunta combinada
 
