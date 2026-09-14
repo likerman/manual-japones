@@ -24,6 +24,28 @@ La partícula `は` marca el tema de la oración. Se escribe *ha*, pero se pronu
 
 En japonés, el pronombre puede omitirse cuando el contexto deja claro quién es el tema.
 
+## La partícula も
+
+`も` (*mo*) reemplaza a `は` cuando se quiere expresar «también» o «tampoco», según el contexto.
+
+**Estructura:** `A も B です。`
+
+> **Japonés:** サントスさんも 会社員です。  
+> **Kana:** サントスさんも かいしゃいんです。  
+> **Romaji:** *Santosu-san mo kaishain desu.*  
+> **Español:** El señor Santos también es empleado de empresa.
+
+En una respuesta negativa, `も` puede corresponder a «tampoco»:
+
+> **Japonés:** わたしも 学生じゃありません。  
+> **Kana:** わたしも がくせいじゃありません。  
+> **Romaji:** *Watashi mo gakusei ja arimasen.*  
+> **Español:** Yo tampoco soy estudiante.
+
+::: {.callout-note}
+En la Lección 1 de *Minna no Nihongo*, `も` aparece para señalar que una segunda persona comparte la misma condición o profesión que otra.
+:::
+
 ## La partícula か
 
 La partícula `か` (*ka*) colocada al final transforma una oración cortés en una pregunta.
@@ -47,6 +69,42 @@ En las primeras clases se utilizó la forma cortés `じゃありません` (*ja
 > **Japonés:** わたしは にほんじんじゃありません。  
 > **Romaji:** *Watashi wa Nihon-jin ja arimasen.*  
 > **Español:** Yo no soy japonés.
+
+## Profesiones y condición personal de la Lección 1
+
+Las estructuras anteriores se practican en el libro con profesiones y condiciones personales.
+
+| Japonés | Kana | Romaji | Español |
+|---|---|---|---|
+| 学生 | がくせい | *gakusei* | estudiante |
+| 会社員 | かいしゃいん | *kaishain* | empleado/a de empresa |
+| 銀行員 | ぎんこういん | *ginkōin* | empleado/a de banco |
+| 医者 | いしゃ | *isha* | médico/a |
+| 先生 | せんせい | *sensei* | profesor/a; maestro/a |
+
+> **Japonés:** ワンさんは 銀行員ですか。  
+> **Kana:** ワンさんは ぎんこういんですか。  
+> **Romaji:** *Wan-san wa ginkōin desu ka.*  
+> **Español:** ¿El señor Wang es empleado de banco?
+
+> **Japonés:** いいえ、銀行員じゃありません。医者です。  
+> **Kana:** いいえ、ぎんこういんじゃありません。いしゃです。  
+> **Romaji:** *Iie, ginkōin ja arimasen. Isha desu.*  
+> **Español:** No, no es empleado de banco. Es médico.
+
+## Preguntar la edad
+
+`何歳` (`なんさい`, *nan-sai*) significa «cuántos años».
+
+> **Japonés:** テレーザちゃんは 何歳ですか。  
+> **Kana:** テレーザちゃんは なんさいですか。  
+> **Romaji:** *Terēza-chan wa nan-sai desu ka.*  
+> **Español:** ¿Cuántos años tiene Teresa?
+
+> **Japonés:** 9歳です。  
+> **Kana:** きゅうさいです。  
+> **Romaji:** *Kyūsai desu.*  
+> **Español:** Tiene nueve años.
 
 ## Procedencia con から きました
 
