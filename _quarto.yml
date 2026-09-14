@@ -33,6 +33,8 @@ book:
         - 06-dialogos/dialogos-iniciales.qmd
         - 07-ejercicios/ejercicios.qmd
         - 07-ejercicios/respuestas.qmd
+        - 07-ejercicios/repaso-lecciones-1-5.qmd
+        - 07-ejercicios/respuestas-repaso-1-5.qmd
     - part: "Registro de clases"
       chapters:
         - 08-registro-clases/indice.qmd
